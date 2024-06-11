@@ -139,9 +139,7 @@ def run():
     variacoes = []
     total = []
     for source, name in sources.items():
-        print(source)
         if graph_data[source]['variacao_n'] != 0:
-            print(graph_data[source]['variacao'])
             graph_data[source]['variacao'] = graph_data[source]['variacao'] / graph_data[source]['variacao_n']
             
         variacoes.append([name, graph_data[source]['variacao']])
@@ -149,7 +147,6 @@ def run():
 
         try:
             df_categorias = pd.DataFrame.from_dict(graph_data[source]['categorias'], orient = 'index')
-            print(df_categorias)
             g = df_categorias.sort_values(by='total', ascending=False).head(15)
             plot = g.plot(kind='bar', figsize=(15, 10), y='total')
             fig = plot.get_figure()
@@ -210,9 +207,9 @@ def run():
     fig.savefig('graphs/livros_por_fontes.png')
     plt.cla()
 
-    #print(f'Total de livros {graph_data['todos']['total']}')
-    #print(f'Total de livros únicos {graph_data['todos']['unique']}')
+    print(f'Total de livros {graph_data['todos']['total']}')
+    print(f'Total de livros únicos {graph_data['todos']['unique']}')
 
-run()
+
         
 
