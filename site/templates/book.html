@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="book-container">
+        <div class="book-info">
+            <h2>{{ book_data['titulo'] }}</h2>
+            <div class="tag">{{ book_data['tags'] }}</div>
+            <div class="row">
+                <span class="label">Autores:</span>
+                <span class="item">{{ book_data['autores']|join('; ') }}</span>
+            </div>
+            <div class="row">
+                <span class="label">ISBN:</span>
+                <span class="item">{{ book_data['isbn'] }}</span>
+            </div>
+        </div>
+        <h3 class="subtitle">Lojas encontradas:</h3>
+
+        <div class="book-table">
+            <div class="header row">
+                <div class="cell">Loja</div>
+                <div class="cell">Autores</div>
+                <div class="cell">Editora</div>
+                <div class="cell">Ano</div>
+                <div class="cell">Edição</div>
+                <div class="cell">Número de Páginas</div>
+                <div class="cell">Preço</div>
+            </div>
+            <div class="table-body">
+                {% for book in book_data['fontes'] %}
+                <a target="_blank" href="{{book['url']}}">
+                    <div class="row">
+                        <div class="cell">{{book['fonte']}}</div>
+                        <div class="cell">{{ book['autores']|join(' ;') }}</div>
+                        <div class="cell">{{book['editora']}}</div>
+                        <div class="cell">{{book['ano']}}</div>
+                        <div class="cell">{{book['edicao']}}</div>
+                        <div class="cell">{{book['numPaginas']}}</div>
+                        <div class="cell">R$ {{ '%0.2f'| format(book['preco']|float)}}</div>
+                </div>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

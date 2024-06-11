@@ -1,0 +1,1615 @@
+====================================== Link Extraction =========================================
+===================== Processando a página 0...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling
+
+===================== Processando a página 1...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=24
+
+===================== Processando a página 2...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=48
+
+===================== Processando a página 3...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=72
+
+===================== Processando a página 4...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=96
+
+===================== Processando a página 5...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=120
+
+===================== Processando a página 6...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=144
+
+===================== Processando a página 7...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=168
+
+===================== Processando a página 8...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=192
+
+===================== Processando a página 9...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=216
+
+===================== Processando a página 10...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=240
+
+===================== Processando a página 11...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=264
+
+===================== Processando a página 12...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=288
+
+===================== Processando a página 13...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=312
+
+===================== Processando a página 14...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=336
+
+===================== Processando a página 15...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=360
+
+===================== Processando a página 16...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=384
+
+===================== Processando a página 17...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=408
+
+===================== Processando a página 18...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=432
+
+===================== Processando a página 19...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=456
+
+===================== Processando a página 20...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=480
+
+===================== Processando a página 21...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=504
+
+===================== Processando a página 22...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=528
+
+===================== Processando a página 23...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=552
+
+===================== Processando a página 24...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=576
+
+===================== Processando a página 25...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=600
+
+===================== Processando a página 26...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=624
+
+===================== Processando a página 27...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=648
+
+===================== Processando a página 28...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=672
+
+===================== Processando a página 29...
+- Link: https://www.submarino.com.br/categoria/livros/g/tipo-de-produto-Livro?sortBy=topSelling&limit=24&offset=696
+
+====================================== Total de livro a serem processados: 719
+====================================== Data Extraction =========================================
+
+===================== Livro 1
+- Link: https://www.submarino.com.br/produto/132899741/livro-e-assim-que-acaba-36-ed
+
+
+===================== Livro 2
+- Link: https://www.submarino.com.br/produto/3885356994/livro-a-biblioteca-da-meia-noite-8-ed
+
+
+===================== Livro 3
+- Link: https://www.submarino.com.br/produto/1508365431/livro-verity-19-ed
+
+
+===================== Livro 4
+- Link: https://www.submarino.com.br/produto/7466714428/cafe-com-deus-pai-2024-porcoes-diarias-de-paz
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 7466714428
+Código de barras -> 9786598078805
+Marca -> Café com Deus Pai
+Ano -> 2024
+Autor -> Junior Rostirola
+CrossDocking -> 0
+Editora -> Velos
+Quantidade de páginas -> 424
+Tipo de Capa -> Flexível
+Fabricante -> Café com Deus Pai
+
+
+===================== Livro 5
+- Link: https://www.submarino.com.br/produto/132341894/livro-pai-rico-pai-pobre-edicao-de-20-anos-atualizado-e-ampliado
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 132341894
+Código de barras -> 9788550801483
+ISBN -> 9788550801483
+Fabricante -> Alta Books
+Marca -> Starlin
+Autor/Artista -> Robert Kiyosaki
+Coleção -> Pai rico, pai pobre
+Páginas -> 336
+Edição -> 1ª Ed.
+Tipo de Capa -> Brochura
+Formato -> Livro
+Ano de Lançamento -> 2017
+Assunto -> Administração
+Idioma -> Português
+Fornecedor -> Alta Books
+
+
+===================== Livro 6
+- Link: https://www.submarino.com.br/produto/3734830193/livro-as-48-leis-do-poder
+
+
+===================== Livro 7
+- Link: https://www.submarino.com.br/produto/130884182/livro-a-garota-do-lago-1-ed
+
+
+===================== Livro 8
+- Link: https://www.submarino.com.br/produto/132450193/livro-harry-potter-e-a-camara-secreta-edicao-2017-capa-dura
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 132450193
+Código de barras -> 9788532530790
+Ano de Lançamento -> 2017
+Assunto -> Ficção Fantástica
+Autor/Artista -> J.K Rowling
+Fabricante -> Rocco
+Formato -> Livro
+ISBN -> 9788532530790
+Idioma -> Português
+Marca -> Rocco
+Páginas -> 224
+Tipo de Capa -> Capa Dura
+
+
+===================== Livro 9
+- Link: https://www.submarino.com.br/produto/3672599263/livro-ate-o-verao-terminar
+
+
+===================== Livro 10
+- Link: https://www.submarino.com.br/produto/3434772930/livro-especialista-em-pessoas-solucoes-biblicas-e-inteligentes-para-lidar-com-todo-tipo-de-gente-tiago-brunet
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,tags
+
+======== Available attributes
+Código -> 3434772930
+Código de barras -> 9786555352207
+Marca -> Editora Academia Cristã
+Fabricante -> Editora Academia Cristã
+Autor -> Tiago Brunet
+Categoria -> Vida Cristã
+Idioma -> Português
+Dimensões do Produto -> 13,5x20,5cm
+ISBN -> 9786555352207
+
+
+===================== Livro 11
+- Link: https://www.submarino.com.br/produto/129041022/livro-novembro-9-1a-ed
+
+
+===================== Livro 12
+- Link: https://www.submarino.com.br/produto/6265755839/e-assim-que-acaba-e-assim-que-comeca-kit-2-volumes
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 6265755839
+Código de barras -> 9788900006155
+Ano Publicação -> 2021
+Editora do Livro -> Record - grupo record
+Idioma -> Português
+Data de Publicação -> 24/10/2022
+Formato -> Papel
+Título do livro -> É assim que acaba, é assim que começa kit 2 volumes
+Rbn -> Livros
+Tipo do Produto -> Paperback
+Fabricante -> Record - grupo record
+ISBN 10 -> 8900006150
+Ano -> 2022
+Autor -> Colleen Hoover
+Marca -> Record - grupo record
+Model -> 9788900006155
+ISBN 13 -> 9788900006155
+Capa do livro -> Mole
+ISBN-13 -> 9788900006155
+Número de Páginas -> 704
+Numero de Páginas -> 704
+
+
+===================== Livro 13
+- Link: https://www.submarino.com.br/produto/120058670/livro-mais-esperto-que-o-diabo-o-misterio-revelado-da-liberdade-e-do-sucesso-1-ed
+
+
+===================== Livro 14
+- Link: https://www.submarino.com.br/produto/7452579076/gatilhos-mentais-como-convencer-alguem-a-arma-da-persuasao
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 7452579076
+Código de barras -> 9788900006391
+Marca -> Dvs
+Nbm number -> 49019900
+Ano Publicação -> 2021
+Capa do livro -> Mole
+ISBN-13 -> 9788900006391
+Model -> 9788900006391
+Número de Páginas -> 448
+Origin -> Nacional
+Titulo de Livro -> Gatilhos Mentais Como Convencer Alguem, A Arma Da Persuasão
+WarrantyTime -> 3
+Autor -> Diversos Autores
+Editora -> Dvs
+Idioma -> Português
+Fabricante -> Dvs
+
+
+===================== Livro 15
+- Link: https://www.submarino.com.br/produto/1536955921/livro-cristianismo-puro-e-simples
+
+
+=============================== Missing attributes
+Missing attributes:edicao,ano,tags
+
+======== Available attributes
+Código -> 1536955921
+Código de barras -> 9788566997811
+Gênero -> Religião e Espiritualidade, Cristandade
+ISBN 10 -> 8566997816
+ISBN 13 -> 9788566997811
+Tipo de Produto -> Livro
+Editora -> Thomas Nelson Brasil
+Número de Páginas -> 288 Páginas
+Dimensões do Produto -> 13.6x20.6x1.5cm
+Autor -> C.S. Lewis
+
+
+===================== Livro 16
+- Link: https://www.submarino.com.br/produto/7088321852/livro-e-assim-que-comeca
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,tags
+
+======== Available attributes
+Código -> 7088321852
+Código de barras -> 9786559811397
+Marca -> Galera
+Editora -> Galera
+Autor -> Colleen Hoover
+
+
+===================== Livro 17
+- Link: https://www.submarino.com.br/produto/3065281000/livro-o-deus-que-destroi-sonhos-1-ed
+
+
+===================== Livro 18
+- Link: https://www.submarino.com.br/produto/1707505096/livro-coraline-1-ed
+
+
+===================== Livro 19
+- Link: https://www.submarino.com.br/produto/133764371/livro-se-nao-eu-quem-vai-fazer-voce-feliz-minha-historia-de-amor-com-chorao
+
+
+===================== Livro 20
+- Link: https://www.submarino.com.br/produto/153616/livro-cem-anos-de-solidao
+
+
+===================== Livro 21
+- Link: https://www.submarino.com.br/produto/112676911/livro-inferno-usa-1-a-ed
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 112676911
+Código de barras -> 9780385537858
+Autor(a) -> Dan Brown
+Título -> Livro - Inferno (American Hardcover edition)
+Editora -> Randon House
+ISBN -> 9780835537858
+Páginas -> 248
+Edição -> 1ª Ed.
+Tipo de capa -> Capa Dura
+Ano -> 2013
+Assunto -> Literatura Estrangeira
+Idioma -> Inglês
+Fabricante -> Penguin Random House USA
+
+
+===================== Livro 22
+- Link: https://www.submarino.com.br/produto/134120841/livro-mentes-que-amam-demais-o-jeito-borderline-de-ser-edicao-revista-atualizada-e-ampliada
+
+
+===================== Livro 23
+- Link: https://www.submarino.com.br/produto/133854421/livro-fogo-e-sangue-vol-1
+
+
+=============================== Missing attributes
+Missing attributes:edicao,ano,tags
+
+======== Available attributes
+Código -> 133854421
+Código de barras -> 9788556510761
+Fabricante -> Suma
+Volume -> 1
+Editora -> Suma
+Autor -> George r. R. Martin
+Capa Dura -> Não
+Dimensões do Produto -> 3,3x16x23cm
+Peso do Produto -> 890g
+ISBN -> 9788556510761
+Páginas -> 664
+
+
+===================== Livro 24
+- Link: https://www.submarino.com.br/produto/132451428/livro-harry-potter-e-a-pedra-filosofal-edicao-2017
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 132451428
+Código de barras -> 9788532530783
+Marca -> Rocco
+Fabricante -> Rocco
+Autor/Artista -> J.K Rowling
+Páginas -> 208
+ISBN -> 9788532530783
+Tipo de Capa -> Capa Dura
+Formato -> Livro
+Ano de Lançamento -> 2017
+Assunto -> Ficção Fantástica
+Idioma -> Português
+
+
+===================== Livro 25
+- Link: https://www.submarino.com.br/produto/128577811/livro-corte-de-nevoa-e-furia-vol-2-corte-de-espinhos-e-rosas-35-ed
+
+
+===================== Livro 26
+- Link: https://www.submarino.com.br/produto/134521080/livro-todas-as-suas-im-perfeicoes-23-ed
+
+
+===================== Livro 27
+- Link: https://www.submarino.com.br/produto/4749369846/livro-nacao-dopamina-por-que-o-excesso-de-prazer-esta-nos-deixando-infelizes-e-o-que-podemos-fazer-para-mudar-leia-tambem-nacao-tarja-preta
+
+
+===================== Livro 28
+- Link: https://www.submarino.com.br/produto/7433113764/livro-as-48-leis-do-poder-edicao-concisa
+
+
+===================== Livro 29
+- Link: https://www.submarino.com.br/produto/132329887/livro-amor-e-gelato-1a-ed
+
+
+===================== Livro 30
+- Link: https://www.submarino.com.br/produto/134520845/livro-eu-e-esse-meu-coracao
+
+
+===================== Livro 31
+- Link: https://www.submarino.com.br/produto/5576283/livro-os-segredos-da-mente-milionaria-aprenda-a-enriquecer-mudando-seus-conceitos-sobre-o-dinheiro-e-adotando-os-habitos-das-pessoas-bem-sucedidas
+
+
+===================== Livro 32
+- Link: https://www.submarino.com.br/produto/2643058628/livro-1984-george-orwell-capa-brochura
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 2643058628
+Código de barras -> 9786555522266
+Cest -> 28.064.00
+Fabricante -> Principis
+
+
+===================== Livro 33
+- Link: https://www.submarino.com.br/produto/3156626587/livro-um-perfeito-cavalheiro-edicao-luxo-os-bridgertons-livro-3-o-livro-de-benedict
+
+
+===================== Livro 34
+- Link: https://www.submarino.com.br/produto/5073961961/livro-diario-de-pilar-na-china-nova-edicao
+
+
+===================== Livro 35
+- Link: https://www.submarino.com.br/produto/134168925/livro-sou-pessimo-em-portugues
+
+
+===================== Livro 36
+- Link: https://www.submarino.com.br/produto/5016956699/livro-a-hipotese-do-amor-sucesso-do-tiktok
+
+
+===================== Livro 37
+- Link: https://www.submarino.com.br/produto/3745473363/livro-forte-devocionais-para-uma-vida-poderosa-e-apaixonada
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,tags
+
+======== Available attributes
+Código -> 3745473363
+Código de barras -> 9786556894966
+Fabricante -> Thomas Nelson Brasil
+ISBN -> 9786556894966
+Editora -> Thomas Nelson Brasil
+Autor -> Lisa Bevere
+Dimensões do Produto -> 20,3x15x1,1cm
+
+
+===================== Livro 38
+- Link: https://www.submarino.com.br/produto/439456792/livro-os-sete-maridos-de-evelyn-hugo
+
+
+=============================== Missing attributes
+Missing attributes:edicao,ano,tags
+
+======== Available attributes
+Código -> 439456792
+Código de barras -> 9788584391509
+Autor -> Taylor Jenkins Reid
+Fabricante -> Paralela
+Páginas -> 360
+Dimensões do Produto -> 16x23cm
+
+
+===================== Livro 39
+- Link: https://www.submarino.com.br/produto/7476746826/box-diario-de-um-banana-10-volumes
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 7476746826
+Código de barras -> 7898383591078
+Marca -> Vr editora
+Ano Publicação -> 2021
+Capa do livro -> Mole
+ISBN-13 -> 7898383591078
+Model -> 7898383591078
+Número de Páginas -> 224
+Titulo de Livro -> Box Diário De Um Banana0 Volumes
+Autor -> Jeff Kinney
+Editora -> Vergara & riba
+Idioma -> Português
+Fabricante -> Vr editora
+
+
+===================== Livro 40
+- Link: https://www.submarino.com.br/produto/7460481199/livro-deixe-de-ser-pobre
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 7460481199
+Código de barras -> 9786588370988
+Marca -> Maquinaria
+Fabricante -> Maquinaria
+
+
+===================== Livro 41
+- Link: https://www.submarino.com.br/produto/3181033960/livro-como-o-rei-de-elfhame-aprendeu-a-odiar-historias-2-ed
+
+
+===================== Livro 42
+- Link: https://www.submarino.com.br/produto/603478661/livro-como-fazer-amigos-e-influenciar-pessoas
+
+
+===================== Livro 43
+- Link: https://www.submarino.com.br/produto/5753116631/livro-a-razao-do-amor-sucesso-do-tiktok-1-ed
+
+
+===================== Livro 44
+- Link: https://www.submarino.com.br/produto/3618290901/livro-a-vida-invisivel-de-addie-larue
+
+
+===================== Livro 45
+- Link: https://www.submarino.com.br/produto/6427042496/livro-codigo-de-defesa-do-consumidor-2024-39a-edicao-atualizada
+
+
+=============================== Missing attributes
+Missing attributes:autores
+
+======== Available attributes
+Código -> 6427042496
+Código de barras -> 9786556600857
+Editor -> Inácio Conceição Vieira
+BISAC -> LAW020000 - DIREITO / Consumidor,LAW001000 - DIREITO / Lei Administrativa & Prática Regulatória,LAW003000 - DIREITO / Resolução Alternativa de Disputa,LAW006000 - DIREITO / Arbítrio, Negociação, Mediação,LAW009000 - DIREITO / Negócios & Financeiro,LAW011000 - DIREITO / Código Civil,LAW012000 - DIREITO / Processo Civil,LAW014000 - DIREITO / Comercial / Geral,LAW018000 - DIREITO / Constitucional,LAW021000 - DIREITO / Contratos,LAW022000 - DIREITO / Corporativo,LAW025000 - DIREITO / Tribunais,LAW037000 - DIREITO / Provas,LAW044000 - DIREITO / Prática Geral,LAW052000 - DIREITO / Jurisprudência,LAW062000 - DIREITO / Serviços Jurídicos,LAW069000 - DIREITO / Direito Natural,LAW075000 - DIREITO / Público,LAW079000 - DIREITO / Obras de Referência,LAW087000 - DIREITO / Delitos,LAW089000 - DIREITO / Governo / Estado, Província & Município,LAW103000 - DIREITO / Comum,REF030000 - OBRAS DE REFERÊNCIA / Guias do Consumidor
+Palavras-chave -> advocacia pública,codigo do consumidor,codigo defesa do consumidor,legislação administrativa 2024,direito do consumidor contemporâneo,codigo penal,legislação,cdc 2024 de bolso,advocacia criminal,legislação administrativa,advocacia,contratos de compra e venda,lei do consumidor,direito do consumidor contratos,direito 2024,consumidor 2024,advocacia e mediação,direito civil brasileiro,direito processual civil,direito administrativo,codigo penal 2024,codigo civil 2024,cdc 2024,direito geral,legislação brasileira,codigo civil mini,direito civil 2024,cdc 2024,direito do consumidor 2024,leis brasileiras,codigo civil,codigo de defesa do consumidor 2024,consumidor,direito do consumidor,direito oab
+Thema -> Lei de defesa do consumidor,Métodos, teoria e/ou filosofia do direito,Sistemas de direito: common law,Sistemas de direito: códigos civis / direito civil,Competências jurídicas: advocacia,Competências jurídicas: negociação e entrevista,Arbitragem, mediação e resolução alternativa de disputas,Lei de franquia,Lei de comércio eletrônico,Direito da venda de mercadorias,Lei de terceirização,Direito de embarque,Direito da aviação,Direito de catering e restauração,Direito da hotelaria, viagens e turismo,Direito da concorrência / direito antitruste,Direito administrativo geral,Processos administrativos e tribunais,Elaboração de regras e/ou atos administrativos,Compras, serviços e/ou suprimentos públicos,Direito público,E-mail: consumidor / guias do usuário,Conselhos ao consumidor
+Idioma -> Português
+Edição -> 39° Ed.
+Data de Publicação -> 08/01/2024
+Ano de Publicação -> 2024
+Dimensões do produto -> A 21 cm / L 14 cm / P 0,5 cm / 110 gr
+ISBN-10 -> 6556600857
+EAN -> 9786556600857
+ISBN-13 -> 9786556600857
+Editora -> Edipro
+Número de páginas -> 80
+Fabricante -> Edipro
+
+
+===================== Livro 46
+- Link: https://www.submarino.com.br/produto/171695134/livro-habitos-atomicos-um-metodo-facil-e-comprovado-de-criar-bons-habitos-e-se-livrar-dos-maus-1-ed
+
+
+===================== Livro 47
+- Link: https://www.submarino.com.br/produto/4703845350/livro-imperfeitos
+
+
+===================== Livro 48
+- Link: https://www.submarino.com.br/produto/171695097/livro-teto-para-dois-livro-que-deu-origem-a-serie-da-paramount
+
+
+===================== Livro 49
+- Link: https://www.submarino.com.br/produto/128996572/livro-a-coragem-de-ser-imperfeito-como-aceitar-a-propria-vulnerabilidade-vencer-a-vergonha-e-ousar-ser-quem-voce-e
+
+
+===================== Livro 50
+- Link: https://www.submarino.com.br/produto/6705015675/livro-amigos-amores-e-aquela-coisa-terrivel-as-memorias-do-astro-de-friends
+
+
+===================== Livro 51
+- Link: https://www.submarino.com.br/produto/122632372/livro-essencialismo-a-disciplinada-busca-por-menos
+
+
+===================== Livro 52
+- Link: https://www.submarino.com.br/produto/3544364371/livro-diacono-king-kong-ecobag-1a-ed
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 3544364371
+Código de barras -> 9786555661538
+Ano de Lançamento -> 2021
+Assunto -> Literatura
+Autor/Artista -> James McBride
+Edição -> 1ª Ed.
+Fabricante -> Astral Cultural
+Formato -> Livro
+ISBN -> 9786555661538
+Idioma -> Português
+Marca -> Astral Cultural
+Páginas -> 368
+Tipo de Capa -> Brochura
+Volume -> 1
+
+
+===================== Livro 53
+- Link: https://www.submarino.com.br/produto/5434639/mr-natural-vai-para-o-hospicio-e-outras-historias
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 5434639
+Código de barras -> 9788576161011
+Autor(a) -> Robert Crumb
+Título -> Mr. Natural Vai para o Hospício
+Autor -> Robert Crumb
+Editora -> Conrad
+ISBN -> 9788576161011
+Páginas -> 76
+Edição -> 1
+Tipo de capa -> Brochura
+Ano -> 2005
+Assunto -> História em Quadrinhos
+Idioma -> Português
+
+
+===================== Livro 54
+- Link: https://www.submarino.com.br/produto/129711073/livro-rita-lee-biografia-rita-lee-uma-autobiografia
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,tags
+
+======== Available attributes
+Código -> 129711073
+Código de barras -> 9788525063304
+Isbn -> 8525063304
+Condição do Item -> Novo
+Entidade -> Livro
+Marca -> Globo livros
+Mês de publicação -> Outubro
+Autor -> Rita lee
+Editora -> Globo livros
+Fabricante -> Globo Livros
+Formato -> Papel
+Genero -> Biografias e histórias reais, biografias e autobiografias
+Idioma -> Português
+Modelo -> Livro
+Nome -> Livro Rita Lee - Biografia Rita Lee - Uma Autobiografia
+Tipo -> Livro
+
+
+===================== Livro 55
+- Link: https://www.submarino.com.br/produto/7450449518/cafe-com-deus-pai-porcoes-diarias-de-renovacao
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,tags
+
+======== Available attributes
+Código -> 7450449518
+Código de barras -> 9786555843149
+Marca -> Editora vida
+Autor -> Júnior, rostirola
+Fabricante -> Editora vida
+
+
+===================== Livro 56
+- Link: https://www.submarino.com.br/produto/27964822/resumao-juridico-novo-direito-do-trabalho-01-17
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,ano,tags
+
+======== Available attributes
+Código -> 27964822
+Código de barras -> 9788577113453
+DataLancamento -> 10
+Formato -> 21x28
+Tipo de Produto -> Direito
+PrecoPlan -> 23.56
+Marca -> Resumão
+Short description -> O Direito do Trabalho foi profundamente modificado pela aprovação da Reforma trabalhista. O Resumão Direito do Trabalho acaba de ser relançado e está atualizado de acordo com as novas normas da Lei 13.467/17. O título traz os conceitos básicos da matéria, escritos de forma clara e objetiva. Princípios e fontes normativas do Direito do Trabalho. Sujeitos do contrato. Terceirização e contrato de trabalho. Remuneração e salário: medidas de proteção, 13o. salário, fgts, verbas rescisórias. Duração do trabalho. Férias. Medicina e segurança do trabalho: atividades insalubres e perigosas. Proteção da mulher e do menor. Garantia provisória de emprego. Aviso prévio. Rescisão do contrato. Trabalhadores com regulamentação própria e garantias constitucionais.
+Autor -> Longhi, Dania Fiorin
+Edicao -> 1
+Meta description -> O Direito do Trabalho foi profundamente modificado pela aprovação da Reforma trabalhista. O Resumão Direito do Trabalho acaba de ser relançado e está atualizado de acordo com as novas normas da Lei 13.467/17. O título traz os conceitos básicos da matéri
+Meta title -> Resumao Juridico - Novo Direito do Trabalho 01/17
+Nbm -> 49019900
+Idioma -> Português
+Skyhub price -> 19.9
+Gênero -> Direito,Direito do Trabalho
+Editora -> Resumão
+Sku -> 9788577113453
+TipoDeCapa -> Brochura
+Selo -> Resumao
+Percentual devido parceiro -> 0,4
+Specifications -> Brochura/Em Estoque
+Unidade -> Uni
+Isbn -> 9788577113453
+Codigobarras -> 9788577113453
+ISBN 13 -> 9788577113453
+Classificacao -> Revenda
+Fabricante -> Resumão
+Peso sem embalagem -> 0.180
+ISBN 10 -> 8577113450
+
+
+===================== Livro 57
+- Link: https://www.submarino.com.br/produto/6832795/livro-as-cronicas-de-narnia-volume-unico-c-s-lewis
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 6832795
+Código de barras -> 9788578270698
+Cest -> 2806400
+CrossDocking -> 0
+Procedencia -> 0
+Brand -> Livro Cristão
+Nbm -> 4901.99.00
+Fabricante -> Livro Cristão
+
+
+===================== Livro 58
+- Link: https://www.submarino.com.br/produto/126545196/livro-uma-vida-pequena
+
+
+===================== Livro 59
+- Link: https://www.submarino.com.br/produto/7249580047/livro-diario-de-pilar-na-amazonia-nova-edicao-urgente
+
+
+===================== Livro 60
+- Link: https://www.submarino.com.br/produto/7070252/livro-o-misterio-da-casa-verde
+
+
+=============================== Missing attributes
+Missing attributes:ano
+
+======== Available attributes
+Código -> 7070252
+Código de barras -> 9788508120666
+Edição -> 2° Ed.
+Idioma -> Português
+ISBN-10 -> 8508120664
+EAN -> 9788508120666
+ISBN-13 -> 9788508120666
+Coleção -> Descobrindo os clássicos
+BISAC -> YAF000000 - LITERATURA JUVENIL / Geral
+Thema -> Ficção infantil / para adolescentes: ficção geral, moderna e contemporânea
+Número de páginas -> 88
+Dimensões do produto -> A 21,5 cm / L 14,5 cm / P 0,6 cm / 150 gr
+Autor -> Moacyr Scliar
+Editora -> Ática
+Fabricante -> Ática
+
+
+===================== Livro 61
+- Link: https://www.submarino.com.br/produto/1748736229/livro-talvez-voce-deva-conversar-com-alguem-uma-terapeuta-o-terapeuta-dela-e-a-vida-de-todos-nos
+
+
+===================== Livro 62
+- Link: https://www.submarino.com.br/produto/5552018/livro-o-mundo-assombrado-pelos-demonios
+
+
+===================== Livro 63
+- Link: https://www.submarino.com.br/produto/5640514/livro-a-revolucao-dos-bichos-um-conto-de-fadas
+
+
+===================== Livro 64
+- Link: https://www.submarino.com.br/produto/2290666846/livro-nao-acredite-em-tudo-que-voce-sente-identifique-seus-esquemas-emocionais-e-liberte-se-da-ansiedade-e-da-depressao
+
+
+===================== Livro 65
+- Link: https://www.submarino.com.br/produto/7274489/maze-runner-correr-ou-morrer-vol-1
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 7274489
+Código de barras -> 9788576832478
+Marca -> Plataforma 21
+Isbn -> 9788576832478
+Nbm number -> 49019900
+Ano -> 2021
+Ano Publicação -> 2021
+Categoria principal -> Livros
+Categoria segundária -> Literatura Infantojuvenil
+Capa do livro -> Mole
+ISBN-13 -> 9788576832478
+Model -> 9788576832478
+Número de Páginas -> 426
+Origin -> Nacional
+Qtd página -> 426
+Titulo de Livro -> Maze Runner: Correr Ou Morrer - Vol. 1
+Titulo do Livro -> Maze Runner: Correr Ou Morrer - Vol. 1
+WarrantyTime -> 3
+Autor -> James Dashner
+EanPrincipal -> 9788576832478
+Editora -> Vergara & riba
+Idioma -> Padrão
+PrazoXd -> 2
+Fabricante -> Plataforma 21
+
+
+===================== Livro 66
+- Link: https://www.submarino.com.br/produto/128578899/livro-o-milagre-da-manha-o-segredo-para-transformar-sua-vida-antes-das-8-horas-87-ed
+
+
+===================== Livro 67
+- Link: https://www.submarino.com.br/produto/3205797818/livro-corte-de-chamas-prateadas-vol-4-corte-de-espinhos-e-rosas-edicao-de-colecionador-1-ed
+
+
+===================== Livro 68
+- Link: https://www.submarino.com.br/produto/4532938147/livro-o-conde-enfeiticado-edicao-luxo-os-bridgertons-livro-6-o-livro-de-francesca
+
+
+===================== Livro 69
+- Link: https://www.submarino.com.br/produto/134168861/livro-do-mil-ao-milhao-1-ed
+
+
+===================== Livro 70
+- Link: https://www.submarino.com.br/produto/3626091848/livro-terapia-cognitivo-comportamental-teoria-e-pratica
+
+
+===================== Livro 71
+- Link: https://www.submarino.com.br/produto/3471544101/livro-comunicacao-nao-violenta-nova-edicao-tecnicas-para-aprimorar-relacionamentos-pessoais-e-profissionais
+
+
+===================== Livro 72
+- Link: https://www.submarino.com.br/produto/3483034239/livro-fisher-price-aprender-e-divertido-tracos-alfabeto-numeros-formas-e-cores
+
+
+===================== Livro 73
+- Link: https://www.submarino.com.br/produto/5879683841/livro-e-assim-que-comeca-vol-2-e-assim-que-acaba
+
+
+===================== Livro 74
+- Link: https://www.submarino.com.br/produto/5343006341/livro-biblia-letra-maior-ziper-marrom
+
+
+===================== Livro 75
+- Link: https://www.submarino.com.br/produto/7201960075/livro-nada-pode-me-ferir
+
+
+===================== Livro 76
+- Link: https://www.submarino.com.br/produto/2884894660/livro-a-psicologia-financeira-licoes-atemporais-sobre-fortuna-ganancia-e-felicidade-1-ed
+
+
+===================== Livro 77
+- Link: https://www.submarino.com.br/produto/7467710342/cafe-com-deus-pai-porcoes-diarias-de-paz-2024-velos
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 7467710342
+Código de barras -> 9786598078805
+Marca -> Vélos
+Fabricante -> Vélos
+
+
+===================== Livro 78
+- Link: https://www.submarino.com.br/produto/4209826794/biblia-sagrada-nvi-leao-capa-dura-1a-ed
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 4209826794
+Código de barras -> 9788571671683
+ISBN -> 9788571671683
+Fabricante -> Thomas Nelson
+Marca -> Vida Melhor
+Autor/Artista -> Thomas Nelson Brasil
+Páginas -> 864
+Edição -> 1ª Ed.
+Tipo de Capa -> Capa Dura
+Formato -> Livro
+Ano de Lançamento -> 2015
+Assunto -> Bíblias
+Idioma -> Português
+
+
+===================== Livro 79
+- Link: https://www.submarino.com.br/produto/4977897931/livro-talvez-a-sua-jornada-agora-seja-so-sobre-voce-cronicas
+
+
+===================== Livro 80
+- Link: https://www.submarino.com.br/produto/7369120977/kit-metafisica-da-saude-5-volumes
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 7369120977
+Código de barras -> 1031000789830
+Marca -> Vida E consciencia
+Fabricante -> Vida E consciencia
+
+
+===================== Livro 81
+- Link: https://www.submarino.com.br/produto/7476810582/o-homem-mais-rico-da-babilonia-os-segredos-da-mente-milionaria-a-psicologia-financeira
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 7476810582
+Código de barras -> 9788900006896
+Marca -> Harper collins
+Nbm number -> 49019900
+Ano Publicação -> 2023
+Capa do livro -> Mole
+Data de Publicação -> 22/09/2023
+Formato -> Papel
+ISBN-13 -> 9788900006896
+Model -> 9788900006896
+Numero de Páginas -> 640
+Origin -> Nacional
+Rbn -> Livros
+Tipo do Produto -> Paperback
+Titulo de Livro -> O homem mais rico da babilônia os segredos da mente milionária A psicologia financeira
+WarrantyTime -> 3
+Autor -> Morgan, George, Harv
+CrossDocking -> 0
+Editora -> Harper collins
+Idioma -> Português
+Fabricante -> Harper collins
+
+
+===================== Livro 82
+- Link: https://www.submarino.com.br/produto/134195966/a-morte-e-um-dia-que-vale-a-pena-viver
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 134195966
+Código de barras -> 9788543107202
+Marca -> Editora Sextante
+Isbn -> 9788543107202
+Acabamento -> Brochura
+Ano de publicação -> 2019
+Cobertura -> Mole
+Condição do item -> Novo
+Data de lançamento -> 07/02/2019
+Edição -> 1
+Formato -> Papel
+Inclui acessórios -> Não
+Origin -> Nacional
+Páginas -> 192
+Tipo de narração -> Novela
+Tipo do Produto -> Paperback
+Titulo do livro -> A morte é um dia que vale a pena viver
+WarrantyTime -> 0
+AutorArtista -> Arantes, Ana Claudia Quintana
+BisacSubjectDescriptionCode -> SEL010000
+Idioma -> Português
+É kit -> Não
+Fabricante -> Editora Sextante
+
+
+===================== Livro 83
+- Link: https://www.submarino.com.br/produto/117469793/livro-um-perfeito-cavalheiro-os-bridgertons-livro-3-o-livro-de-benedict
+
+
+===================== Livro 84
+- Link: https://www.submarino.com.br/produto/1848213062/livro-ideias-para-adiar-o-fim-do-mundo-nova-edicao
+
+
+===================== Livro 85
+- Link: https://www.submarino.com.br/produto/133703746/livro-tarde-demais
+
+
+===================== Livro 86
+- Link: https://www.submarino.com.br/produto/5427005/livro-maus-1-ed
+
+
+===================== Livro 87
+- Link: https://www.submarino.com.br/produto/4820521469/livro-era-uma-vez-um-coracao-partido-sucesso-do-tiktok
+
+
+===================== Livro 88
+- Link: https://www.submarino.com.br/produto/6561744/livro-o-menino-do-pijama-listrado
+
+
+===================== Livro 89
+- Link: https://www.submarino.com.br/produto/114441120/livro-o-visconde-que-me-amava-1a-ed
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 114441120
+Código de barras -> 9788580411973
+Marca -> Arqueiro
+Autor/Artista -> Julia Quinn
+Coleção -> Os Bridgertons
+Páginas -> 304
+Edição -> 1ª Ed.
+Formato -> Livro
+Ano de Lançamento -> 2022
+Assunto -> Romances
+Idioma -> Português
+ISBN -> 9788580411973
+Fabricante -> Arqueiro
+
+
+===================== Livro 90
+- Link: https://www.submarino.com.br/produto/2810915026/livro-tudo-e-tio-10-ed
+
+
+===================== Livro 91
+- Link: https://www.submarino.com.br/produto/111949251/livro-o-poder-do-habito-por-que-fazemos-o-que-fazemos-na-vida-e-nos-negocios
+
+
+===================== Livro 92
+- Link: https://www.submarino.com.br/produto/4936320061/livro-heartstopper-4-de-maos-dadas
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 4936320061
+Código de barras -> 9788555342066
+Marca -> Seguinte
+Autor/Artista -> Alice Oseman
+Páginas -> 384
+Edição -> 1ª Ed.
+Tipo de Capa -> Capa Dura
+Formato -> Livro
+Ano de Lançamento -> 2022
+Idioma -> Português
+ISBN -> 9788555342066
+Fabricante -> Seguinte
+
+
+===================== Livro 93
+- Link: https://www.submarino.com.br/produto/134175771/livro-o-pequeno-principe-bolso
+
+
+===================== Livro 94
+- Link: https://www.submarino.com.br/produto/1747762581/livro-o-morro-dos-ventos-uivantes
+
+
+===================== Livro 95
+- Link: https://www.submarino.com.br/produto/119476137/livro-art-the-twentieth-century
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 119476137
+Código de barras -> 9788861308015
+Autor(a) -> Flaminio Gualdoni
+Título -> Art
+Subtítulo -> The Twentieth Century
+ISBN -> 9788861308015
+Páginas -> 560
+Edição -> 1ª
+Tipo de capa -> Brochura
+Formato -> Livro
+Editora -> Skira
+Ano -> 2009
+Assunto -> Artes  -  Teoria, História E Crítica
+Idioma -> Inglês
+
+
+===================== Livro 96
+- Link: https://www.submarino.com.br/produto/4747424768/livro-em-busca-de-cinderela-e-em-busca-da-perfeicao
+
+
+===================== Livro 97
+- Link: https://www.submarino.com.br/produto/133600026/livro-ate-que-nada-mais-importe-como-viver-longe-de-um-mundo-de-performances-religiosas-e-mais-proximo-do-que-deus-espera-de-voce
+
+
+=============================== Missing attributes
+Missing attributes:ano
+
+======== Available attributes
+Código -> 133600026
+Código de barras -> 9788524305511
+Autor -> Luciano Subirá
+Edição -> 1° Ed.
+Editora -> United Press
+ISBN-10 -> 8524305517
+EAN -> 9788524305511
+ISBN-13 -> 9788524305511
+BISAC -> REL062000 - RELIGIÃO / Espiritualidade,REL012000 - RELIGIÃO / Vida Cristã / Geral,REL012120 - RELIGIÃO / Vida Cristã / Crescimento Espiritual,REL099000 - RELIGIÃO / Vida Cristã / Bem-estar Espiritual
+Palavras-chave -> espiritualidade,bem estar,motivacional,crescimento espiritual,autoajuda,religião,vida cristã,deus,crescimento pessoal,vida real,desenvolvimento pessoal
+Thema -> Espiritualidade e/ou experiência religiosa
+Idioma -> Português
+Dimensões do produto -> A 23 cm / L 16 cm / P 1 cm / 260 gr
+Número de páginas -> 160
+Fabricante -> United Press
+
+
+===================== Livro 98
+- Link: https://www.submarino.com.br/produto/10706880/aprendendo-a-aprender-como-ter-sucesso-em-matematica-ciencias-e-qualquer-outra-materia
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 10706880
+Código de barras -> 9788586622458
+ISBN 10 -> 8586622451
+ISBN 13 -> 9788586622458
+Gênero -> Matemática
+Fabricante -> Infopress
+
+
+===================== Livro 99
+- Link: https://www.submarino.com.br/produto/2673328211/livro-onde-estao-as-moedas-joan-garriga-bacardi
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 2673328211
+Código de barras -> 9786581663001
+ISBN 13 -> 9786581663001
+Autor -> Joan Garriga Bacardi
+ISBN 10 -> 658166300X
+Tipo de Produto -> Livro
+Número de Páginas -> 61
+Fabricante -> Livros
+Tradução -> Portuguese
+skyhub-migration -> true
+Edição -> 1
+Editora -> Saberes
+ISBN -> 9786581663001
+Ano de Publicação -> 2020-03-17T01:00:09
+Acabamento -> Saddlestitch
+Idioma -> Portuguese
+
+
+===================== Livro 100
+- Link: https://www.submarino.com.br/produto/1737591482/livro-amor-es-verdadeiro-s
+
+
+===================== Livro 101
+- Link: https://www.submarino.com.br/produto/7358447181/livro-o-sol-e-a-estrela-uma-aventura-de-nico-di-angelo
+
+
+===================== Livro 102
+- Link: https://www.submarino.com.br/produto/1230710657/a-inquilina-de-wildfell-hall
+
+
+===================== Livro 103
+- Link: https://www.submarino.com.br/produto/3365275728/livro-os-vingadores-vol-29
+
+
+===================== Livro 104
+- Link: https://www.submarino.com.br/produto/132450134/livro-casamento-blindado-2-0
+
+
+===================== Livro 105
+- Link: https://www.submarino.com.br/produto/3419162375/livro-hooked-engajado-como-construir-produtos-e-servicos-formadores-de-habitos
+
+
+===================== Livro 106
+- Link: https://www.submarino.com.br/produto/7473894588/moon-ball-bola-que-pula-incrivelmente-alto-waboba-moon-ball
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 7473894588
+Código de barras -> 0840001932708
+Fabricado -> Waboba
+Garantia -> 7 dias de garantia
+Marca -> Waboba
+Voltagem -> Não possui
+Cor -> Amarela,Verde
+
+
+===================== Livro 107
+- Link: https://www.submarino.com.br/produto/3268659375/livro-os-quatro-compromissos
+
+
+===================== Livro 108
+- Link: https://www.submarino.com.br/produto/129567702/livro-jantar-secreto
+
+
+===================== Livro 109
+- Link: https://www.submarino.com.br/produto/1442186615/livro-das-cinzas-de-onira-1-edicao
+
+
+===================== Livro 110
+- Link: https://www.submarino.com.br/produto/6407049498/livro-mil-beijos-de-garoto-2a-edicao-capa-exclusiva-com-brinde-2a-ed
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 6407049498
+Código de barras -> 9788542219449
+ISBN -> 9788542219449
+Fabricante -> Editora Planeta
+Autor/Artista -> Tillie Cole
+Volume -> 1
+Páginas -> 400
+Mais Informações -> Tillie Cole nasceu em Teesside, no Reino Unido, filha de mãe inglesa e pai escocês. Depois de se formar na Universidade de Newcastle, ela viajou ao redor do mundo com seu marido, que é jogador de rúgbi profissional, e deu aulas para alunos do ensino médio por alguns anos antes de terminar seu primeiro romance. Hoje em dia, depois de voltar para as suas raízes, mora na Inglaterra com o
+marido e o filho. Ela escreve livros para o público young adult, como o best-seller Mil beijos de garoto, e romances contemporâneos, como Um desejo para nós dois e Doce lar, cuja sequência é Doce queda.
+Edição -> 2ª Ed.
+Tipo de Capa -> Brochura
+Formato -> Livro
+Ano de Lançamento -> 2022
+Assunto -> Romances
+Idioma -> Português
+
+
+===================== Livro 111
+- Link: https://www.submarino.com.br/produto/3587167407/livro-heartstopper-2-minha-pessoa-favorita
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 3587167407
+Código de barras -> 9788555341625
+ISBN -> 9788555341625
+Marca -> Seguinte
+Autor/Artista -> Alice Oseman
+Páginas -> 320
+Edição -> 1ª Ed.
+Tipo de Capa -> Capa Dura
+Ano de Lançamento -> 2021
+Assunto -> Romances
+Idioma -> Português
+Fabricante -> Seguinte
+
+
+===================== Livro 112
+- Link: https://www.submarino.com.br/produto/133833823/livro-sobrevivendo-no-inferno
+
+
+===================== Livro 113
+- Link: https://www.submarino.com.br/produto/113119454/livro-a-elite
+
+
+===================== Livro 114
+- Link: https://www.submarino.com.br/produto/1797120498/livro-o-duque-e-eu-edicao-luxo-os-bridgertons-livro-1-o-livro-de-daphne
+
+
+===================== Livro 115
+- Link: https://www.submarino.com.br/produto/2702026416/livro-o-visconde-que-me-amava-edicao-luxo-os-bridgertons-livro-2-o-livro-de-anthony
+
+
+===================== Livro 116
+- Link: https://www.submarino.com.br/produto/4612327573/livro-one-piece-3-em-1-vol-1
+
+
+===================== Livro 117
+- Link: https://www.submarino.com.br/produto/128508516/livro-o-problema-dos-tres-corpos-o-livro-que-inspirou-a-serie-da-netflix
+
+
+===================== Livro 118
+- Link: https://www.submarino.com.br/produto/120179439/livro-trono-de-vidro-coroa-da-meia-noite-vol-2-31-ed
+
+
+===================== Livro 119
+- Link: https://www.submarino.com.br/produto/133873930/livro-comece-pelo-porque-como-grandes-lideres-inspiram-pessoas-e-equipes-a-agir
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 133873930
+Código de barras -> 9788543106632
+Marca -> Sextante
+Formato -> Livro
+Autor/Artista -> Simon Sinek
+Páginas -> 256
+Tipo de Capa -> Brochura
+Ano de Lançamento -> 2018
+Assunto -> Desenvolvimento Profissional
+Idioma -> Português
+Fabricante -> SEXTANTE
+
+
+===================== Livro 120
+- Link: https://www.submarino.com.br/produto/1854197118/livro-a-vida-nao-e-util
+
+
+===================== Livro 121
+- Link: https://www.submarino.com.br/produto/111458225/livro-rapido-e-devagar-duas-formas-de-pensar
+
+
+===================== Livro 122
+- Link: https://www.submarino.com.br/produto/153830/livro-o-menino-no-espelho
+
+
+===================== Livro 123
+- Link: https://www.submarino.com.br/produto/4898980091/livro-destravar-da-inteligencia-emocional
+
+
+===================== Livro 124
+- Link: https://www.submarino.com.br/produto/6077164206/livro-aurora-o-despertar-da-mulher-exausta
+
+
+===================== Livro 125
+- Link: https://www.submarino.com.br/produto/219181951/livro-btk-profile-mascara-da-maldade
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 219181951
+Código de barras -> 9788594541833
+Fabricante -> Darkside Books
+Marca -> Darkside Books
+Autor/Artista -> Roy Wenzl, Tim Potter, L. Kelly e Hurst Laviana
+Volume -> 1
+Páginas -> 416
+Edição -> 1ª Ed.
+Tipo de Capa -> Capa Dura
+Formato -> Livro
+Ano de Lançamento -> 2019
+Assunto -> Histórias Reais
+Idioma -> Português
+ISBN -> 9788594541833
+
+
+===================== Livro 126
+- Link: https://www.submarino.com.br/produto/44240926/biblia-infantil-ilustrada-365-historias-biblicas
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,tags
+
+======== Available attributes
+Código -> 44240926
+Código de barras -> 9788595200623
+Ano de publicação -> 2021
+ISBN 13 -> 9788595200623
+Condição do item -> Novo
+Título do livro -> Bíblia Infantil Ilustrada - 365 Histórias Bíblicas
+Entidade -> Livro
+Idioma -> História
+Linha -> Bíblia Infantil Ilustrada - 365 Histórias Bíblicas
+ISBN 10 -> 8595200629
+Autor -> João ferreira de almeida
+Modelo -> Bíblia Infantil Ilustrada - 365 Histórias Bíblicas
+Isbn -> 9788595200623
+Editora -> Ideal
+Gênero do livro -> Infantil
+Nome -> Bíblia Infantil Ilustrada - 365 Histórias Bíblicas
+Editora do livro -> Produto Cristão
+Subgêneros do livro -> Bíblia Infantil Ilustrada - 365 Histórias Bíblicas
+Marca -> Produto Cristão,Produto cristão
+Gênero -> História
+Fabricante -> Produto Cristão
+Co-autor -> João ferreira de almeida
+Modelo alfanumérico -> Bíblia Infantil Ilustrada - 365 Histórias Bíblicas
+
+
+===================== Livro 127
+- Link: https://www.submarino.com.br/produto/5679025191/livro-caraval-trilogia-caraval-vol-1-nova-traducao-nova-edicao-pela-gutenberg
+
+
+===================== Livro 128
+- Link: https://www.submarino.com.br/produto/4914700986/livro-um-beijo-inesquecivel-edicao-luxo-os-bridgertons-livro-7-o-livro-de-hyacinth
+
+
+===================== Livro 129
+- Link: https://www.submarino.com.br/produto/1748557116/livro-memorias-postumas-de-bras-cubas
+
+
+===================== Livro 130
+- Link: https://www.submarino.com.br/produto/131657096/livro-mitologia-nordica
+
+
+===================== Livro 131
+- Link: https://www.submarino.com.br/produto/7282808314/livro-cleopatra-e-frankenstein
+
+
+===================== Livro 132
+- Link: https://www.submarino.com.br/produto/7259245461/livro-rainha-charlotte-a-historia-de-amor-que-veio-antes-dos-bridgertons-e-que-mudou-a-alta-sociedade
+
+
+===================== Livro 133
+- Link: https://www.submarino.com.br/produto/124829355/livro-uma-pergunta-por-dia-365-perguntas-5-anos-1-825-respostas
+
+
+===================== Livro 134
+- Link: https://www.submarino.com.br/produto/3287253872/livro-conversando-com-deus-o-dialogo-que-vai-mudar-a-sua-vida
+
+
+===================== Livro 135
+- Link: https://www.submarino.com.br/produto/124624350/livro-corte-de-espinhos-e-rosas-vol-1
+
+
+===================== Livro 136
+- Link: https://www.submarino.com.br/produto/122011357/livro-malala-a-menina-que-queria-ir-para-a-escola
+
+
+===================== Livro 137
+- Link: https://www.submarino.com.br/produto/134201959/livro-a-paciente-silenciosa
+
+
+===================== Livro 138
+- Link: https://www.submarino.com.br/produto/131961127/alice-no-pais-das-maravilhas-texto-integral-classicos-autentica
+
+
+=============================== Missing attributes
+Missing attributes:edicao,ano,tags
+
+======== Available attributes
+Código -> 131961127
+Código de barras -> 9788551302033
+Marca -> Autêntica infantil e juvenil
+Autor -> Lewis Carroll
+Páginas -> 128
+Fabricante -> Autêntica infantil e juvenil
+
+
+===================== Livro 139
+- Link: https://www.submarino.com.br/produto/132280260/livro-o-alquimista
+
+
+===================== Livro 140
+- Link: https://www.submarino.com.br/produto/5027727162/manga-fortnite-x-marvel-vol-02-panini
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano,autores,tags
+
+======== Available attributes
+Código -> 5027727162
+Código de barras -> 9786525902685
+Marca -> Panini
+Atenção -> Não recomendável para menores de 03 anos por conter peças pequenas que podem ser engolidas.
+Cor Predominante -> Colorido
+Código Produto -> 1068-24
+Estilo de Brincar -> Imaginar
+Fornecedor -> Panini
+Idade Recomendada -> A partir de 12 anos
+Itens Inclusos -> 1 mangá Fortnite X Marvel vol 2
+Model -> Figurinhas
+Observações -> Todas as informações divulgadas são de responsabilidade exclusiva do fabricante/fornecedor. As cores dos tecidos ou dos produtos podem variar entre as imagens mostradas acima ou fotos da embalagem. Imagens meramente ilustrativas.
+Origin -> Nacional
+Referência -> PANAMFOR002
+Referência Fabricante -> AMFOR002
+WarrantyTime -> 3
+MinimumManufacturerAgeRecommended -> 12 years
+Store stock cross docking -> 1
+TargetAudience00 -> Meninos
+Fabricante -> Panini
+
+
+===================== Livro 141
+- Link: https://www.submarino.com.br/produto/133873972/livro-as-mil-partes-do-meu-coracao
+
+
+===================== Livro 142
+- Link: https://www.submarino.com.br/produto/134438471/livro-pessoas-normais
+
+
+=============================== Missing attributes
+Missing attributes:edicao,ano,tags
+
+======== Available attributes
+Código -> 134438471
+Código de barras -> 9788535932560
+Autor -> Sally Rooney
+Fabricante -> Cia das letras
+Numero de Páginas -> 408
+Tipo do Produto -> Paperback
+ISBN -> 9788535932560
+
+
+===================== Livro 143
+- Link: https://www.submarino.com.br/produto/268911/o-descompasso-entre-as-nacoes
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 268911
+Código de barras -> 9788501071248
+Marca -> Record
+AnoLancamento -> 2004
+Autor -> Paulo Fagundes Vizentini
+DataLancamento -> 10
+Edicao -> 1
+Formato -> 12x21
+Idioma -> Português
+Isbn -> 9788501071248
+Paginas -> 168
+Specifications -> Brochura/Em Estoque
+TipoDeCapa -> Brochura
+Autores -> Paulo Fagundes Vizentini
+PrecoPlan -> 35.92
+Skyhub price -> 37.9
+Classificacao -> Revenda
+Codigobarras -> 9788501071248
+Ignore marketplace -> 0
+Image label -> O descompasso entre as nações
+Meta description -> A partir de um conjunto de perguntas-chave, Paulo Fagundes Vizentini em O Descompasso Entre As Nações, quarto volume da coleção Os porquês da desordem mundial.
+Meta keyword -> O descompasso entre as nações
+Meta title -> O descompasso entre as nações
+Nbm -> 49019900
+News from date -> 2020-04-22 00:00:00
+News to date -> 2020-05-22 00:00:00
+Percentual devido parceiro -> 0,42
+Peso sem embalagem -> 0.200
+Prevenda -> 0
+Short description -> A partir de um conjunto de perguntas-chave, Paulo Fagundes Vizentini em O Descompasso Entre As Nações, quarto volume da coleção Os porquês da desordem mundial, examina as rupturas e alterações processadas na Ordem Mundial no último quarto de século, com destaque para a ascensão do neoliberalismo, o fim da Guerra Fria e a afirmação da hegemonia global dos Estados Unidos.
+Small image label -> O descompasso entre as nações
+Subtítulo -> Coleção os porquês da desordem mundial
+Thumbnail label -> O descompasso entre as nações
+Unidade -> Uni
+Fabricante -> Record
+
+
+===================== Livro 144
+- Link: https://www.submarino.com.br/produto/121442551/livro-por-lugares-incriveis
+
+
+===================== Livro 145
+- Link: https://www.submarino.com.br/produto/3587168021/livro-heartstopper-1-dois-garotos-um-encontro
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Código -> 3587168021
+Código de barras -> 9788555341618
+Fabricante -> Seguinte
+Marca -> Seguinte
+Autor/Artista -> Alice Oseman
+Volume -> 1
+Coleção -> Heartstopper (Vol. 1)
+Páginas -> 288
+Edição -> 1ª Ed.
+Tipo de Capa -> Capa Dura
+Formato -> Livro
+Ano de Lançamento -> 2021
+Assunto -> Literatura Juvenil
+Idioma -> Português
+ISBN -> 9788555341618
+
+
+===================== Livro 146
+- Link: https://www.submarino.com.br/produto/132792222/livro-textos-crueis-demais-para-serem-lidos-rapidamente
+
+
+===================== Livro 147
+- Link: https://www.submarino.com.br/produto/113996211/livro-trono-de-vidro-vol-1
+
+
+===================== Livro 148
+- Link: https://www.submarino.com.br/produto/134274904/livro-a-redoma-de-vidro-autor-sylvia-plath-2020
+
+
+=============================== Missing attributes
+Missing attributes:edicao,tags
+
+======== Available attributes
+Código -> 134274904
+Código de barras -> 9788525068460
+Isbn -> 9788525068460
+Acabamento -> Capa comum
+Ano -> 2020
+Autor -> Sylvia Plath<
+Idioma -> Português
+Páginas -> 280
+CrossDocking -> 0
+Fabricante -> Biblioteca Azul
+
+
+===================== Livro 149
+- Link: https://www.submarino.com.br/produto/2545212417/livro-todo-esse-tempo
+
+
+===================== Livro 150
+- Link: https://www.submarino.com.br/produto/6113223981/livro-vermelho-branco-e-sangue-azul-edicao-de-colecionador
+
+
+===================== Livro 151
+- Link: https://www.submarino.com.br/produto/129143782/livro-homo-deus
+
+
+===================== Livro 152
+- Link: https://www.submarino.com.br/produto/134437873/livro-conectadas
+

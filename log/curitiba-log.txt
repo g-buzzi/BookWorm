@@ -1,0 +1,97 @@
+====================================== Link Extraction =========================================
+===================== Processando a página 0...
+Processando página 1....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=0&_to=14
+
+====================================== Total de livro a serem processados: 15
+====================================== Data Extraction =========================================
+
+===================== Livro 0
+- Link: https://www.livrariascuritiba.com.br/memorias-postumas-de-bras-cubas-lv486265/p
+
+
+===================== Livro 1
+- Link: https://www.livrariascuritiba.com.br/noiva---edicao-luxo---com-brinde-lv512963/p
+
+
+===================== Livro 2
+- Link: https://www.livrariascuritiba.com.br/orar-faz-muito-bem--lv512865/p
+
+
+===================== Livro 3
+- Link: https://www.livrariascuritiba.com.br/diversao-na-escola---espaco-lv518071/p
+
+
+===================== Livro 4
+- Link: https://www.livrariascuritiba.com.br/bluey-hora-de-brincar-lv517963/p
+
+
+===================== Livro 5
+- Link: https://www.livrariascuritiba.com.br/amor-em-jogo---ecobag-lv516604/p
+
+
+===================== Livro 6
+- Link: https://www.livrariascuritiba.com.br/os-bridgertons---um-amor-de-familia-lv482857/p
+
+
+===================== Livro 7
+- Link: https://www.livrariascuritiba.com.br/o-alienista---edicao-de-luxo-lv480484/p
+
+
+===================== Livro 8
+- Link: https://www.livrariascuritiba.com.br/bolofofos-colorindo-especial-lv518068/p
+
+
+===================== Livro 9
+- Link: https://www.livrariascuritiba.com.br/rainha-charlotte-lv501292/p
+
+
+===================== Livro 10
+- Link: https://www.livrariascuritiba.com.br/breve-historia-da-arte-moderna-lv516661/p
+
+
+===================== Livro 11
+- Link: https://www.livrariascuritiba.com.br/cafe-com-deus-pai-porcoes-diarias-de-paz-2024-lv505761/p
+
+
+=============================== Missing attributes
+Missing attributes:isbn
+
+======== Available attributes
+Formato -> BROCHURA
+Número de Páginas -> 0
+Subtítulo -> Café Com Deus Pai Porções Diárias De Paz 2024
+Editora -> EDITORA VELOS
+Autor -> JUNIOR ROSTIROLA
+Ano da Edição -> 2024
+EAN13 -> 9786598078805
+Edição -> 1
+Idioma -> PORTUGUES
+Fabricante -> EDITORA VELOS
+Páginas -> 0
+
+
+===================== Livro 12
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-colleen-hoover-e-assim-que-acaba-e-comeca-kt000346/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,isbn,numPaginas
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> GALERA
+Autor -> COLLEEN HOOVER
+Ano da Edição -> 2017 e 2022
+EAN13 -> 9786559811398
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 13
+- Link: https://www.livrariascuritiba.com.br/felicidade-em-copo-d-agua-lv500496/p
+
+
+===================== Livro 14
+- Link: https://www.livrariascuritiba.com.br/o-ano-em-que-menos-e-muito-mais-lv469089/p
+

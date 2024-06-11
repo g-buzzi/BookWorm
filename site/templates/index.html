@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+    <form action="" method="get" class="search-container">
+        <div class="search-bar">
+            <input name="query" required/>
+            <button type="submit" class="icon-button"><i class="fas fa-search"></i></i></button>
+        </div>
+        <select name="by" required class="selector">
+            <option value="titulo" {% if by == 'titulo' %} selected {% endif %}>Título</option>
+            <option value="autores" {% if by == 'autores' %} selected {% endif %}>Autor</option>
+            <option value="tags" {% if by == 'tags' %} selected {% endif %}>Tags</option>
+            <option value="todos" {% if by == 'todos' %} selected {% endif %}>Tudo</option>
+        </select>
+    </form>
+
+    <div class="book-display">
+        {% for result in results %}
+        <a href="/{{ result['isbn'] }}">
+            <div class="book">
+                <div class="left-container">
+                    <h2 class="titulo">{{ result['titulo'] }}</h2>
+                    <h3 class="autor">{{ result['autores']|join('; ') }}</h3>
+                </div>
+                <div class="right-container">
+                    <h2 class="preco">R$ {{ '%0.2f'| format(result['preco']|float)}}</h2>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+
+{% endblock %}

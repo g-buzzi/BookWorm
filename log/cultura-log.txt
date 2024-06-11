@@ -1,0 +1,5179 @@
+====================================== Category "romance" =========================================
+- Link: https://www.livrariacultura.com.br/romance?PS=10
+
+
+===================== Livro 0
+- Link: https://www.livrariacultura.com.br/um-romance-russo--nova-edicao--2112350060/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788556522238
+Colaborador -> Autor:CARRERE, EMMANUEL | Tradutor:TELLES, ANDRE | Ilustrador:CADINOT, VIOLAINE
+Editora -> ALFAGUARA BRASIL
+ISBN -> 8556522238
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 248
+
+
+===================== Livro 1
+- Link: https://www.livrariacultura.com.br/o-duque-implacavel-–-romance-historico-vitoriano-2112348615/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SCOTT, SCARLETT
+EAN -> 9786559575121
+Coleção -> CONTRARIA DOS CANALHAS
+Editora -> FARO EDITORIAL (EB)
+ISBN -> 6559575128
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 2
+- Link: https://www.livrariacultura.com.br/the-killer-inside-vol-9-2112334554/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:INORYUU, HAJIME
+Editora -> PANINI LIVROS
+ISBN -> 6525910714
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 3
+- Link: https://www.livrariacultura.com.br/romances-de-cordel-2112351289/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GULLAR, FERREIRA
+EAN -> 9786558471516
+Editora -> JOSE OLYMPIO-
+ISBN -> 6558471515
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 104
+
+
+===================== Livro 4
+- Link: https://www.livrariacultura.com.br/demon-slayer-kimetsu-no-yaiba-vol-16-2112294917/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:GOTOUGE, KOYOHARU
+Editora -> PANINI LIVROS
+ISBN -> 655960084X
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 5
+- Link: https://www.livrariacultura.com.br/ten-count-volume-2-2112336667/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:NEWPOP
+Editora -> NEWPOP -
+ISBN -> 8583623872
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 178
+
+
+===================== Livro 6
+- Link: https://www.livrariacultura.com.br/me-apaixonei-pela-vila-livro-4-2112336786/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:NEWPOP
+Editora -> NEWPOP -
+ISBN -> 8583623937
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 400
+
+
+===================== Livro 7
+- Link: https://www.livrariacultura.com.br/perfect-world-volume-3-2112336740/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:NEWPOP
+Editora -> NEWPOP -
+ISBN -> 8583623902
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 168
+
+
+===================== Livro 8
+- Link: https://www.livrariacultura.com.br/semantic-error-livro-1-2112336412/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:NEWPOP
+Editora -> NEWPOP -
+ISBN -> 8583623368
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 544
+
+
+===================== Livro 9
+- Link: https://www.livrariacultura.com.br/coelacanth-conexoes-profundas-volume-2-2112336853/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:NEWPOP
+Editora -> NEWPOP -
+ISBN -> 8583623562
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+====================================== Category "ficcao" =========================================
+- Link: https://www.livrariacultura.com.br/ficcao?PS=10
+
+
+===================== Livro 10
+- Link: https://www.livrariacultura.com.br/por-que-tarda-o-pleno-avivamento-47927591/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:RAVENHILL, LEONARD
+Editora -> BETANIA
+ISBN -> 8535801987
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 11
+- Link: https://www.livrariacultura.com.br/sopro-dos-deuses-2112350000/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788551010372
+Colaborador -> Autor:KABRAL, FABIO
+Subtitulo -> OS ANCESTRAIS DO AMANHÃ
+Editora -> INTRINSECA
+ISBN -> 8551010379
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 272
+
+
+===================== Livro 12
+- Link: https://www.livrariacultura.com.br/homem-aranha-2112349087/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> TOMADA HOSTIL
+Colaborador -> Autor:LISS, DAVID
+EAN -> 9786555616910
+Editora -> NOVO SECULO
+ISBN -> 6555616911
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 13
+- Link: https://www.livrariacultura.com.br/quarta-asa-720010244/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788542225853
+Colaborador -> Autor:YARROS, REBECCA
+Editora -> PLANETA DO BRASIL
+ISBN -> 8542225856
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 544
+
+
+===================== Livro 14
+- Link: https://www.livrariacultura.com.br/giovanna-hart-2112351269/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> O CHAMADO DE LANIWAI
+Colaborador -> Autor:ZILLER, CLARICE
+EAN -> 9786556255804
+Editora -> EDITORA LABRADOR
+ISBN -> 6556255807
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 15
+- Link: https://www.livrariacultura.com.br/olhos-de-pixel-2112349592/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,tags
+
+======== Available attributes
+EAN -> 9786555324273
+Colaborador -> Autor:MOTA, LUCAS
+Editora -> ROCCO -
+ISBN -> 6555324279
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+
+
+===================== Livro 16
+- Link: https://www.livrariacultura.com.br/da-dor-ao-prazer-2112333400/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:OLIVEIRA, MARCIA
+Editora -> AGIR
+ISBN -> 6558371391
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+Assunto -> Sexualidade
+
+
+===================== Livro 17
+- Link: https://www.livrariacultura.com.br/cancao-dos-ossos-2112349173/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:DOMINGUES, GIU
+EAN -> 9786559814930
+Editora -> GALERA RECORD
+ISBN -> 6559814939
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 448
+
+
+===================== Livro 18
+- Link: https://www.livrariacultura.com.br/quarta-asa-720010235/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> EDIÇÃO ESPECIAL
+Colaborador -> Autor:YARROS, REBECCA
+EAN -> 9788542225877
+Editora -> PLANETA DO BRASIL
+ISBN -> 8542225872
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 544
+
+
+===================== Livro 19
+- Link: https://www.livrariacultura.com.br/a-guerra-dos-furacoes-2112351073/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GUANZON, THEA | Tradutor:POHL, LAURA
+EAN -> 9788551010068
+Coleção -> A GUERRA DOS FURACÕES
+Editora -> INTRINSECA
+ISBN -> 8551010069
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 416
+
+====================================== Category "biografias" =========================================
+- Link: https://www.livrariacultura.com.br/biografias?PS=10
+
+
+===================== Livro 20
+- Link: https://www.livrariacultura.com.br/uma-mulher-2112349997/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ERNAUX, ANNIE
+EAN -> 9786560000124
+Editora -> FOSFORO
+ISBN -> 6560000125
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 64
+
+
+===================== Livro 21
+- Link: https://www.livrariacultura.com.br/bobi-2112351354/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:CALASSO, ROBERTO
+EAN -> 9786559981458
+Coleção -> DAS ANDERE
+Editora -> AYINE
+ISBN -> 6559981452
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 100
+
+
+===================== Livro 22
+- Link: https://www.livrariacultura.com.br/os-meninos-adormecidos-2112351597/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786560000186
+Colaborador -> Autor:PASSERON, ANTHONY
+Editora -> FOSFORO
+ISBN -> 6560000184
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 23
+- Link: https://www.livrariacultura.com.br/casagrande-e-seus-demonios-2112351453/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788501921604
+Colaborador -> Autor:RIBEIRO, GILVAN
+Editora -> RECORD
+ISBN -> 8501921602
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 336
+
+
+===================== Livro 24
+- Link: https://www.livrariacultura.com.br/gilberto-braga-2112345543/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788551009093
+Colaborador -> Autor:STYCER, MAURICIO
+Subtitulo -> O BALZAC DA GLOBO - VIDA E OBRA DO AUTOR QUE REVOL
+Editora -> INTRINSECA
+ISBN -> 8551009095
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 368
+
+
+===================== Livro 25
+- Link: https://www.livrariacultura.com.br/einstein-2112351013/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ISAACSON, WALTER | Tradutor:BARCELLOS, WALDEA
+EAN -> 9788551010235
+Editora -> INTRINSECA
+ISBN -> 8551010239
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 672
+
+
+===================== Livro 26
+- Link: https://www.livrariacultura.com.br/a-queda-2112350934/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> O FIM DA FOX NEWS E DO IMPÉRIO MURDOCH
+Colaborador -> Autor:WOLFF, MICHAEL | Tradutor:GERHARDT, NATALIE
+EAN -> 9788539008193
+Editora -> OBJETIVA
+ISBN -> 853900819X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 288
+
+
+===================== Livro 27
+- Link: https://www.livrariacultura.com.br/viver-como-uma-campea-2112350902/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GRACIE, KYRA
+EAN -> 9786558371779
+Editora -> AGIR
+ISBN -> 6558371774
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+
+===================== Livro 28
+- Link: https://www.livrariacultura.com.br/dody-sirena-2112349719/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:PENTEADO, LEA
+EAN -> 9786556164410
+Subtitulo -> OS BASTIDORES DO SHOW BUSINESS
+Editora -> MATRIX EDITORA
+ISBN -> 6556164410
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 272
+
+
+===================== Livro 29
+- Link: https://www.livrariacultura.com.br/inventario-moral-2112351275/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> CONFIDÊNCIAS DE UM PROMOTOR DE JUSTIÇA
+Colaborador -> Autor:RANGEL, RICARDO
+EAN -> 9786556255552
+Editora -> EDITORA LABRADOR
+ISBN -> 6556255556
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+====================================== Category "historia" =========================================
+- Link: https://www.livrariacultura.com.br/historia?PS=10
+
+
+===================== Livro 30
+- Link: https://www.livrariacultura.com.br/por-que-tarda-o-pleno-avivamento-47927591/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:RAVENHILL, LEONARD
+Editora -> BETANIA
+ISBN -> 8535801987
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 31
+- Link: https://www.livrariacultura.com.br/uma-historia-de-monstros-2112351341/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:BONILLA, ROCIO | Tradutor:REYES GIL, LUIS | Ilustrador:BONILLA, ROCIO
+EAN -> 9786561130110
+Editora -> TELOS
+ISBN -> 6561130111
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 54
+
+
+===================== Livro 32
+- Link: https://www.livrariacultura.com.br/a-historia-do-h-2112348782/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556255361
+Colaborador -> Autor:CABRAL, MARIA CLARA
+Editora -> EDITORA LABRADOR
+ISBN -> 655625536X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 24
+
+
+===================== Livro 33
+- Link: https://www.livrariacultura.com.br/historia-de-uma-alma-2112348762/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SANTA TERESINHA DO MENINO JESUS | Tradutor:PINTARELLI, FREI ARY E.
+EAN -> 9788532666246
+Editora -> VOZES
+ISBN -> 8532666248
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 34
+- Link: https://www.livrariacultura.com.br/historia-potencial-2112346903/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:AZOULAY, ARIELLA AISHA
+EAN -> 9788571261518
+Subtitulo -> DESAPRENDER O IMPERIALISMO
+Editora -> UBU EDITORA
+ISBN -> 8571261512
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 256
+
+
+===================== Livro 35
+- Link: https://www.livrariacultura.com.br/a-grande-historia-da-biblia-2112348845/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:WRIGHT, N.T. | Tradutor:REGINA EMERENCIO, ELIS
+EAN -> 9786556896359
+Editora -> THOMAS NELSON BRASIL
+ISBN -> 6556896357
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 288
+
+
+===================== Livro 36
+- Link: https://www.livrariacultura.com.br/a-fantasia-da-historia-feminista-2112351450/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786559283927
+Colaborador -> Autor:SCOTT, JOAN WALLACH | Tradutor:NAZARIAN, ELISA
+Coleção -> HISTÓRIA & HISTORIOGRAFIA
+Editora -> AUTÊNTICA EDITORA LT
+ISBN -> 6559283925
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 37
+- Link: https://www.livrariacultura.com.br/a-historia-dos-judeus--vol--2-2112348933/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788535937381
+Colaborador -> Autor:SCHAMA, SIMON | Tradutor:GARSCHAGEN, DONALDSON M. | Ilustrador:LONGO, CELSO
+Subtitulo -> PERTENCIMENTO — 1492-1900
+Editora -> COMPANHIA DAS LETRAS
+ISBN -> 8535937382
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 848
+
+
+===================== Livro 38
+- Link: https://www.livrariacultura.com.br/a-historia-da-astronomia-11716290/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,editora,ano,preco,autores,tags
+
+======== Available attributes
+ISBN -> 9788576802990
+Encadernação -> BROCHURA
+Idioma -> Português
+Páginas -> 208
+
+
+===================== Livro 39
+- Link: https://www.livrariacultura.com.br/panoramas-historia---9º-ano-15589030/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,editora,ano,preco,autores,tags
+
+======== Available attributes
+ISBN -> 9788596027373
+Encadernação -> BROCHURA
+Idioma -> Português
+Páginas -> 304
+
+====================================== Category "infantil" =========================================
+- Link: https://www.livrariacultura.com.br/infantil?PS=10
+
+
+===================== Livro 40
+- Link: https://www.livrariacultura.com.br/malala-2112061563/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Tradutor:AGUIAR, ELIANA|Ilustrador:FRONTY, AURELIA|Autor:FRIER, RAPHAELE
+Editora -> PEQUENA ZAHAR
+ISBN -> 8566642651
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 48
+
+
+===================== Livro 41
+- Link: https://www.livrariacultura.com.br/bruxa-bruxa-venha-a-minha-festa-209238/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2002
+Colaborador -> Tradutor:AQUINO, GILDA DE|Autor:DRUCE, ARDEN
+Editora -> BRINQUE BOOK
+ISBN -> 8574121908
+Idade -> 3
+Ano -> 2002
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 36
+
+
+===================== Livro 42
+- Link: https://www.livrariacultura.com.br/memorias-da-emilia-46650818/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Autor:LOBATO, MONTEIRO
+Editora -> BIBLIOTECA AZUL
+ISBN -> 8525064750
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 43
+- Link: https://www.livrariacultura.com.br/os-livros-de-maliq-2112285234/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:FORLATI, PAOLA PREDICATORI E ANNA
+Editora -> PEQUENA ZAHAR
+ISBN -> 658840705X
+Idade -> 10
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 32
+
+
+===================== Livro 44
+- Link: https://www.livrariacultura.com.br/o-menino-maluquinho-15000348/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2008
+Colaborador -> Autor:ZIRALDO
+Editora -> MELHORAMENTOS -
+ISBN -> 8506055105
+Ano -> 2008
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 112
+
+
+===================== Livro 45
+- Link: https://www.livrariacultura.com.br/a-parte-que-falta-47927175/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2018
+Colaborador -> Autor:SILVERSTEIN, SHEL|Tradutor:NETO, ALÍPIO CORREIA DE FRANCA
+Editora -> CIA DAS LETRINHAS
+ISBN -> 8574068179
+Ano -> 2018
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 112
+
+
+===================== Livro 46
+- Link: https://www.livrariacultura.com.br/o-pequeno-principe-preto-2112252274/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:FRANÇA, RODRIGO
+Editora -> NOVA FRONTEIRA -
+ISBN -> 8520938388
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 32
+
+
+===================== Livro 47
+- Link: https://www.livrariacultura.com.br/reinacoes-de-monteiro-lobato-2111984188/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:LAJOLO, MARISA
+Editora -> CIA DAS LETRINHAS
+ISBN -> 8574068578
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 88
+
+
+===================== Livro 48
+- Link: https://www.livrariacultura.com.br/o-misterio-do-pau-oco-2111851187/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2018
+Colaborador -> Autor:LEITAO, MIRIAM|Ilustrador:PILLA, CARLA
+Editora -> ROCCO PEQUENOS L
+ISBN -> 8570870019
+Ano -> 2018
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 40
+Assunto -> Literatura Infantil
+
+
+===================== Livro 49
+- Link: https://www.livrariacultura.com.br/gildo-15013349/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2010
+Colaborador -> Autor:RANDO, SILVANA
+Editora -> BRINQUE BOOK
+ISBN -> 857412320X
+Idade -> 2
+Ano -> 2010
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 28
+
+
+===================== Livro 50
+- Link: https://www.livrariacultura.com.br/os-detetives-do-predio-azul-2112317531/p
+
+
+=============================== Missing attributes
+Missing attributes:autores,tags
+
+======== Available attributes
+Ano de Edição -> 2022
+Colaborador -> Autor/Ilustrador:SILVA, FLAVIA LINS E
+Editora -> PEQUENA ZAHAR
+ISBN -> 6588899327
+Idade -> 6
+Ano -> 2022
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 104
+
+
+===================== Livro 51
+- Link: https://www.livrariacultura.com.br/a-parte-que-falta-encontra-o-grande-o-2000038011/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2018
+Colaborador -> Autor:SILVERSTEIN, SHEL|Tradutor:FRANÇA NETO, ALIPIO CORREIA DE
+Editora -> CIA DAS LETRINHAS
+ISBN -> 8574068268
+Idade -> 5
+Ano -> 2018
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 120
+
+
+===================== Livro 52
+- Link: https://www.livrariacultura.com.br/as-aventuras-do-tempo-2112182441/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:LEITAO, MIRIAM
+Editora -> ROCCO PEQUENOS L
+ISBN -> 8570870124
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 40
+
+
+===================== Livro 53
+- Link: https://www.livrariacultura.com.br/amoras-2000216122/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2018
+Colaborador -> Ilustrador:FABRINI, ALDO|Autor:EMICIDA
+Editora -> CIA DAS LETRINHAS
+ISBN -> 8574068365
+Ano -> 2018
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 44
+
+
+===================== Livro 54
+- Link: https://www.livrariacultura.com.br/e-foi-assim-que-eu-e-a-escuridao-ficamos-amigas-2112275227/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Ilustrador:FABRINI, ALDO|Autor:EMICIDA
+Editora -> CIA DAS LETRINHAS
+ISBN -> 8574069191
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 36
+
+
+===================== Livro 55
+- Link: https://www.livrariacultura.com.br/o-pequeno-principe-42887506/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2015
+Colaborador -> Autor:SAINT-EXUPÉRY, ANTOINE DE|Tradutor:PERISSE, GABRIEL
+Editora -> AUTÊNTICA EDITORA LT
+ISBN -> 8582175817
+Idade -> 8
+Ano -> 2015
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 96
+
+
+===================== Livro 56
+- Link: https://www.livrariacultura.com.br/chapeuzinho-amarelo-nova-edicao-2112244352/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:BUARQUE, CHICO|Ilustrador:., ZIRALDO
+Editora -> YELLOWFANTE
+ISBN -> 8551307282
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 36
+
+
+===================== Livro 57
+- Link: https://www.livrariacultura.com.br/flicts-2112103485/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:ALVES PINTO, ZIRALDO
+Editora -> MELHORAMENTOS -
+ISBN -> 8506086922
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 80
+
+
+===================== Livro 58
+- Link: https://www.livrariacultura.com.br/menina-bonita-do-laco-de-fita-15016154/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2011
+Colaborador -> Autor:MACHADO, ANA MARIA|Ilustrador:CLAUDIUS
+Editora -> ATICA DIDATICOS
+ISBN -> 8508147597
+Idade -> 6
+Ano -> 2011
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 24
+
+====================================== Category "autoajuda" =========================================
+- Link: https://www.livrariacultura.com.br/autoajuda?PS=10
+
+
+===================== Livro 59
+- Link: https://www.livrariacultura.com.br/terapia-de-guerrilha-2112244130/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:MARSILI, ÍTALO
+Editora -> AUSTER
+ISBN -> 6580136138
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 320
+
+
+===================== Livro 60
+- Link: https://www.livrariacultura.com.br/coaching-communication-2112349320/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> APRENDA A FALAR EM PÚBLICO E ASSUMA O PALESTRANTE
+Colaborador -> Autor:ROMANO, CRISTIANE
+EAN -> 9786555616200
+Editora -> FIGURATI
+ISBN -> 6555616202
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 61
+- Link: https://www.livrariacultura.com.br/emocoes-2112348453/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556254456
+Colaborador -> Autor:ZABEU, PAULO
+Subtitulo -> COMO CONVIVER COM ELAS
+Editora -> EDITORA LABRADOR
+ISBN -> 6556254452
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 62
+- Link: https://www.livrariacultura.com.br/despida-2112348472/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> UMA HISTÓRIA SOBRE SUPERAÇÃO, RESSIGNIFICAÇÃO, RES
+EAN -> 9786556254937
+Colaborador -> Autor:HADAD, LEILA
+Editora -> EDITORA LABRADOR
+ISBN -> 6556254932
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 63
+- Link: https://www.livrariacultura.com.br/mundo-mais-consciente-2112350209/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> EDUCANDO EMOÇÕES, TRANSFORMANDO PESSOAS
+EAN -> 9786555617627
+Colaborador -> Autor:CHAVES, LEO
+Editora -> NOVO SECULO
+ISBN -> 6555617624
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 304
+
+
+===================== Livro 64
+- Link: https://www.livrariacultura.com.br/ilogico-2112349302/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ACHO, EMMANUEL | Tradutor:CENTURION, LILIAN
+EAN -> 9786556432380
+Subtitulo -> ENTENDA POR QUE A RAZÃO NEM SEMPRE TEM A RESPOSTA
+Editora -> LEYA
+ISBN -> 6556432385
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 65
+- Link: https://www.livrariacultura.com.br/minutos-de-inteligencia--amor-2112349804/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:CURY, AUGUSTO
+EAN -> 9786550971526
+Editora -> PRINCIPIS
+ISBN -> 6550971527
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 64
+
+
+===================== Livro 66
+- Link: https://www.livrariacultura.com.br/o-fim-da-depressao-2112347042/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786559227105
+Colaborador -> Autor:CERQUETANE, JULIO
+Subtitulo -> COMO ABANDONAR A MOCHILA DO SOFRIMENTO E RETOMAR A
+Editora -> LITERARE BOOKS
+ISBN -> 6559227103
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 200
+
+
+===================== Livro 67
+- Link: https://www.livrariacultura.com.br/minutos-de-inteligencia--tranquilidade-2112349833/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:CURY, AUGUSTO
+EAN -> 9786550971540
+Editora -> PRINCIPIS
+ISBN -> 6550971543
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 64
+
+
+===================== Livro 68
+- Link: https://www.livrariacultura.com.br/100--voce-2112349568/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786559227693
+Colaborador -> Autor:PIGATTO, ELIANA
+Subtitulo -> QUANDO VOCÊ TOMA SEU PAI E SUA MÃE NO CORAÇÃO, VOC
+Editora -> LITERARE BOOKS
+ISBN -> 6559227693
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 152
+
+====================================== Category "ciencias" =========================================
+- Link: https://www.livrariacultura.com.br/ciencias?PS=10
+
+
+===================== Livro 69
+- Link: https://www.livrariacultura.com.br/podres-de-mimados-42890484/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Apresentação:PONDE, LUIZ FELIPE|Autor:DALRYMPLE, THEODORE|Tradutor:SETTE-CAMARA, PEDRO
+Editora -> E REALIZAÇOES -
+ISBN -> 8580331897
+Ano -> 2015
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 208
+
+
+===================== Livro 70
+- Link: https://www.livrariacultura.com.br/a-casa-na-arvore-com-52-andares-46704597/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Autor:GRIFFITHS, ANDY|Tradutor:CASTILHONE, LEONARDO GOMES
+Editora -> FUNDAMENTO
+ISBN -> 8539514788
+Idade -> 9
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 336
+
+
+===================== Livro 71
+- Link: https://www.livrariacultura.com.br/o-prefeito-escritor-2112348816/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> DOIS RETRATOS DE UMA ADMINISTRAÇÃO
+EAN -> 9788501921680
+Colaborador -> Autor:RAMOS, GRACILIANO
+Editora -> RECORD
+ISBN -> 8501921688
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 112
+
+
+===================== Livro 72
+- Link: https://www.livrariacultura.com.br/o-imperio-ausente-2112350208/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788532667946
+Colaborador -> Autor:POGGIO, CARLOS GUSTAVO
+Subtitulo -> BRASIL, ESTADOS UNIDOS E O SUBSISTEMA SUL-AMERICAN
+Editora -> VOZES
+ISBN -> 8532667945
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 256
+
+
+===================== Livro 73
+- Link: https://www.livrariacultura.com.br/a-politica-como-ela-e-2112347365/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ALMEIDA, ALBERTO CARLOS
+EAN -> 9788574321608
+Subtitulo -> DIÁLOGOS ENTRE ALBERTO CARLOS ALMEIDA E RENATO JAN
+Editora -> DIFEL (BRASIL)
+ISBN -> 8574321605
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 252
+
+
+===================== Livro 74
+- Link: https://www.livrariacultura.com.br/a-esquerda-e-o-golpe-de-1964-2112347537/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786558021308
+Colaborador -> Autor:MORAES, DENIS DE
+Editora -> CIVILIZAÇAO BRASILEI
+ISBN -> 6558021307
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 532
+
+
+===================== Livro 75
+- Link: https://www.livrariacultura.com.br/a-reducao-sociologica-2112346927/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GUERREIRO RAMOS, ALBERTO
+EAN -> 9788571261570
+Editora -> UBU EDITORA
+ISBN -> 8571261571
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 256
+
+
+===================== Livro 76
+- Link: https://www.livrariacultura.com.br/30-anos-do-real-2112350480/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:FRANCO, GUSTAVO
+EAN -> 9786587518435
+Editora -> HISTORIA REAL
+ISBN -> 6587518435
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 77
+- Link: https://www.livrariacultura.com.br/eleicao-tem-logica-2112350313/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:JORIO, GERSON
+EAN -> 9786556255262
+Editora -> EDITORA LABRADOR
+ISBN -> 6556255262
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 78
+- Link: https://www.livrariacultura.com.br/sitiado-em-lagos-2112350595/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:NASCIMENTO, ABDIAS | Prefácio/Posfácio:NASCIMENTO, ELISA LARKIN
+EAN -> 9786555051872
+Subtitulo -> AUTODEFESA DE UM NEGRO ACOSSADO PELO RACISMO
+Editora -> PERSPECTIVA (EB)
+ISBN -> 6555051876
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 144
+
+====================================== Category "fantasia" =========================================
+- Link: https://www.livrariacultura.com.br/fantasia?PS=10
+
+
+===================== Livro 79
+- Link: https://www.livrariacultura.com.br/a-fantasia-da-historia-feminista-2112351450/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786559283927
+Colaborador -> Autor:SCOTT, JOAN WALLACH | Tradutor:NAZARIAN, ELISA
+Coleção -> HISTÓRIA & HISTORIOGRAFIA
+Editora -> AUTÊNTICA EDITORA LT
+ISBN -> 6559283925
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 80
+- Link: https://www.livrariacultura.com.br/o-baiacu-que-adorava-fantasias-2112350078/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556540863
+Colaborador -> Autor:NENÉM, BANDA FERA | Ilustrador:D’HIPÓLITO, RÔMOLO
+Editora -> BRINQUE BOOK
+ISBN -> 6556540862
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 32
+
+
+===================== Livro 81
+- Link: https://www.livrariacultura.com.br/star-wars-2021-vol-5-2112336809/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:SOULE, CHARLES
+Editora -> PANINI LIVROS
+ISBN -> 6525908906
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 112
+
+
+===================== Livro 82
+- Link: https://www.livrariacultura.com.br/missao-familia-yozakura-vol-13-2112335816/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:GONDAIRA, HITSUJI
+Editora -> PANINI LIVROS
+ISBN -> 6525909813
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 200
+
+
+===================== Livro 83
+- Link: https://www.livrariacultura.com.br/jojos-bizarre-adventure-parte-5-golden-wind-vol-03-2112335817/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:ARAKI, HIROHIKO
+Editora -> PANINI LIVROS
+ISBN -> 652591003X
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 84
+- Link: https://www.livrariacultura.com.br/encanto-2112333323/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:DISNEY
+Editora -> PLANETA DO BRASIL
+ISBN -> 6555359137
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 144
+
+
+===================== Livro 85
+- Link: https://www.livrariacultura.com.br/marvel-dose-dupla-vol-5-2112334710/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:TAMAKI, MARIKO
+Editora -> PANINI LIVROS
+ISBN -> 6525911168
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 48
+
+
+===================== Livro 86
+- Link: https://www.livrariacultura.com.br/lightlark-2112334579/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:ASTER, ALEX|Tradutor:CHRISTO, CAROL
+Editora -> ROCCO -
+ISBN -> 6586752191
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Assunto -> Ficção Fantasiosa
+
+
+===================== Livro 87
+- Link: https://www.livrariacultura.com.br/os-defensores-2022-vol-2-2112334582/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:RODRIGUEZ, JAVIER
+Editora -> PANINI LIVROS
+ISBN -> 6525911249
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 112
+
+
+===================== Livro 88
+- Link: https://www.livrariacultura.com.br/kanojo-mo-kanojo-confissoes-e-namoradas-vol-10-2112334580/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:UTATANE, HIROYUKI
+Editora -> PANINI LIVROS
+ISBN -> 6525910838
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+====================================== Category "misterio" =========================================
+- Link: https://www.livrariacultura.com.br/misterio?PS=10
+
+
+===================== Livro 89
+- Link: https://www.livrariacultura.com.br/a-casa-na-arvore-com-117-andares-2112244903/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:DENTON, TERRY|Autor:GRIFFITHS, ANDY|Tradutor:CASTILHONE, LEONARDO GOMES
+Editora -> FUNDAMENTO
+ISBN -> 853951754X
+Idade -> 9
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 384
+
+
+===================== Livro 90
+- Link: https://www.livrariacultura.com.br/o-misterio-da-escola-2112351378/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:WIDMARK, MARTIN | Tradutor:AKESSON, FERNANDA SARMATZ | Ilustrador:WILLIS, HELENA
+EAN -> 9786555962482
+Coleção -> AGÊNCIA DE DETETIVES MARCO & MAIA
+Editora -> CALLIS EDITORA
+ISBN -> 6555962488
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 84
+
+
+===================== Livro 91
+- Link: https://www.livrariacultura.com.br/o-misterio-do-cinema-2112347065/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:WIDMARK, MARTIN | Tradutor:AKESSON, FERNANDA SARMATZ | Ilustrador:WILLIS, HELENA
+EAN -> 9786555962130
+Coleção -> AGÊNCIA DE DETETIVES MARCO & MAIA
+Editora -> CALLIS EDITORA
+ISBN -> 6555962135
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 88
+
+
+===================== Livro 92
+- Link: https://www.livrariacultura.com.br/o-misterio-do-hotel-2112351376/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:WIDMARK, MARTIN | Tradutor:LUND, SUZANNA | Ilustrador:WILLIS, HELENA
+EAN -> 9786555962475
+Coleção -> AGÊNCIA DE DETETIVES MARCO & MAIA
+Editora -> CALLIS EDITORA
+ISBN -> 655596247X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 72
+
+
+===================== Livro 93
+- Link: https://www.livrariacultura.com.br/loki-jornada-ao-misterio-2112335800/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:ELSON, RICHARD
+Editora -> PANINI LIVROS
+ISBN -> 6525910560
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 94
+- Link: https://www.livrariacultura.com.br/um-truque-de-luz-2112351235/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:PENNY, LOUISE | Tradutor:SAHLIT, NATALIA
+EAN -> 9786555656503
+Coleção -> INSPETOR GAMACHE
+Editora -> ARQUEIRO
+ISBN -> 6555656506
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 400
+
+
+===================== Livro 95
+- Link: https://www.livrariacultura.com.br/os-pecados-de-west-heart-2112345409/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788551009239
+Colaborador -> Autor:MCDORMAN, DANN | Tradutor:BIAGGIO, JAIME
+Editora -> INTRINSECA
+ISBN -> 8551009230
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 272
+
+
+===================== Livro 96
+- Link: https://www.livrariacultura.com.br/o-ultimo-demonio-a-morrer-2112350991/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> O NOVO MISTÉRIO DO CLUBE DO CRIME DAS QUINTAS-FEIR
+EAN -> 9788551010006
+Colaborador -> Autor:OSMAN, RICHARD | Tradutor:BIAGGIO, JAIME
+Coleção -> CLUBE DO CRIME DAS QUINTAS-FEIRAS
+Editora -> INTRINSECA
+ISBN -> 855101000X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 97
+- Link: https://www.livrariacultura.com.br/fim-de-caso-2112349810/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786558302162
+Colaborador -> Autor:GREENE, GRAHAM | Tradutor:GAMBAROTTO, BRUNO
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558302160
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 280
+
+
+===================== Livro 98
+- Link: https://www.livrariacultura.com.br/boas-meninas-se-afogam-em-silencio-2112348249/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,tags
+
+======== Available attributes
+EAN -> 9786555324211
+Colaborador -> Autor:TABACZINSKI, ANDRESSA
+Editora -> ROCCO -
+ISBN -> 655532421X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> ANDORRA
+
+====================================== Category "religiao" =========================================
+- Link: https://www.livrariacultura.com.br/religiao?PS=10
+
+
+===================== Livro 99
+- Link: https://www.livrariacultura.com.br/por-que-tarda-o-pleno-avivamento-47927591/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:RAVENHILL, LEONARD
+Editora -> BETANIA
+ISBN -> 8535801987
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 100
+- Link: https://www.livrariacultura.com.br/a-casa-na-arvore-com-39-andares-46479473/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Ilustrador:DENTON, TERRY|Autor:GRIFFITHS, ANDY
+Editora -> FUNDAMENTO
+ISBN -> 8539512653
+Idade -> 9
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 352
+
+
+===================== Livro 101
+- Link: https://www.livrariacultura.com.br/antropologia-da-religiao-2112345441/p
+
+
+=============================== Missing attributes
+Missing attributes:autores,tags
+
+======== Available attributes
+EAN -> 9788532665409
+Colaborador -> Organizador:TEIXEIRA, FAUSTINO
+Subtitulo -> AUTORES E TEMAS
+Editora -> VOZES
+ISBN -> 8532665403
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 360
+
+
+===================== Livro 102
+- Link: https://www.livrariacultura.com.br/a-religiao-nos-limites-da-simples-razao-2112349210/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:KANT, IMMANUEL | Tradutor:CUNHA, BRUNO
+EAN -> 9788532667885
+Coleção -> PENSAMENTO HUMANO
+Editora -> VOZES
+ISBN -> 8532667880
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 280
+
+
+===================== Livro 103
+- Link: https://www.livrariacultura.com.br/a-vitoria-da-razao-2112334182/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:STARK, RODNEY
+Editora -> LVM EDITORA
+ISBN -> 6586029732
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 280
+
+
+===================== Livro 104
+- Link: https://www.livrariacultura.com.br/o-peregrino-2112351756/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786558705369
+Colaborador -> Autor:BUNYAN, JOHN
+Editora -> LAFONTE-
+ISBN -> 6558705362
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+
+===================== Livro 105
+- Link: https://www.livrariacultura.com.br/o-primado-da-caridade-2112351753/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:MÜLLER, OSCAR
+EAN -> 9786555043709
+Editora -> LOYOLA
+ISBN -> 6555043709
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 226
+
+
+===================== Livro 106
+- Link: https://www.livrariacultura.com.br/o-livro-dos-numeros-2112351752/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786555043662
+Colaborador -> Autor:ARTUS, OLIVIER
+Coleção -> ABC DA BÍBLIA
+Editora -> LOYOLA
+ISBN -> 6555043660
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 146
+
+
+===================== Livro 107
+- Link: https://www.livrariacultura.com.br/jesus-rebelde-2112348906/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> MATEUS, O EVANGELHO DA RUPTURA
+EAN -> 9788532666642
+Colaborador -> Autor:FREI BETTO
+Editora -> VOZES
+ISBN -> 8532666647
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 216
+
+
+===================== Livro 108
+- Link: https://www.livrariacultura.com.br/afroteologia-2112338822/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> CONSTRUINDO UMA TEOLOGIA DAS TRADIÇÕES DE MATRIZ A
+EAN -> 9786586174212
+Colaborador -> Autor:SILVEIRA, HENDRIX
+Editora -> AROLE CULTURAL
+ISBN -> 658617421X
+Ano -> 2023
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 416
+
+====================================== Category "tecnologia" =========================================
+- Link: https://www.livrariacultura.com.br/tecnologia?PS=10
+
+====================================== Category "negocios" =========================================
+- Link: https://www.livrariacultura.com.br/negocios?PS=10
+
+
+===================== Livro 109
+- Link: https://www.livrariacultura.com.br/a-casa-na-arvore-com-26-andares-46288547/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2016
+Colaborador -> Ilustrador:DENTON, TERRY|Autor:GRIFFITHS, ANDY|Tradutor:CASTILHONE, LEONARDO GOMES
+Editora -> FUNDAMENTO
+ISBN -> 8539512440
+Idade -> 9
+Ano -> 2016
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 352
+
+
+===================== Livro 110
+- Link: https://www.livrariacultura.com.br/negocios-com-proposito--impacto-e-lucro-lado-a-lado-2112347690/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:RODRIGUES, ANDERSON
+EAN -> 9786555444438
+Subtitulo -> COMO CRIAR EMPRESAS COM PROPÓSITO, OBTER RESULTADO
+Editora -> GENTE
+ISBN -> 6555444436
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 111
+- Link: https://www.livrariacultura.com.br/as-7-inteligencias-da-expansao-de-negocios-2112350169/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> AS CHAVES PARA SAIR DA ESTAGNAÇÃO E TRANSFORMAR SE
+Colaborador -> Autor:OLIVEIRA, DEMA
+EAN -> 9786555444711
+Editora -> GENTE
+ISBN -> 6555444711
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 112
+- Link: https://www.livrariacultura.com.br/plano-de-negocios-exemplos-praticos-2112334308/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:DORNELAS, JOSE
+Editora -> ATLAS EDITORA
+ISBN -> 6559774740
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 120
+
+
+===================== Livro 113
+- Link: https://www.livrariacultura.com.br/esg--teoria-e-pratica-para-a-verdadeira-sustentabilidade-nos-negocios---1-edicao-2024-2112350502/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788553620548
+Colaborador -> Autor:ATCHABAHIAN, ANA CLÁUDIA RUY CARDIA
+Editora -> SARAIVA JUR
+ISBN -> 8553620549
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 215
+
+
+===================== Livro 114
+- Link: https://www.livrariacultura.com.br/mario-gazin--2112351766/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:AWAD, ELIAS
+EAN -> 9786555617948
+Subtitulo -> A RODA GIGANTE DA VIDA
+Editora -> NOVO SECULO
+ISBN -> 6555617942
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 115
+- Link: https://www.livrariacultura.com.br/o-poder-do-pijama-rosa-2112350875/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> DAS DÍVIDAS AO IMPÉRIO MULTIMILIONÁRIO NO MERCADO
+Colaborador -> Autor:BEAUTY, NATALIA
+EAN -> 9786555443189
+Editora -> GENTE
+ISBN -> 6555443189
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 116
+- Link: https://www.livrariacultura.com.br/som-livre-2112350735/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> UMA BIOGRAFIA DO OUVIDO BRASILEIRO
+Colaborador -> Autor:SUKMAN, HUGO
+EAN -> 9788525068453
+Editora -> GLOBO LIVROS
+ISBN -> 8525068454
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 238
+
+
+===================== Livro 117
+- Link: https://www.livrariacultura.com.br/samuel-klein-2112350447/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> A HISTÓRIA DO HOMEM QUE REVOLUCIONOU O VAREJO NO B
+Colaborador -> Autor:AWAD, ELIAS
+EAN -> 9786555616880
+Editora -> NOVO SECULO
+ISBN -> 6555616881
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 304
+
+
+===================== Livro 118
+- Link: https://www.livrariacultura.com.br/a-formula-do-empreendedorismo-2112345817/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786559227570
+Colaborador -> Autor:NOBRE, PAULO HENRIQUE SAMPAIO
+Subtitulo -> APRENDA A VENCER EM SEUS EXPERIMENTOS DE EMPREENDE
+Editora -> LITERARE BOOKS
+ISBN -> 655922757X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 216
+
+====================================== Category "gastronomia" =========================================
+- Link: https://www.livrariacultura.com.br/gastronomia?PS=10
+
+
+===================== Livro 119
+- Link: https://www.livrariacultura.com.br/arsene-lupin-contra-herlock-sholmes-edicao-bolso-de-luxo-46779365/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Autor:LEBLANC, MAURICE
+Editora -> ZAHAR -
+ISBN -> 8537817104
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 312
+
+
+===================== Livro 120
+- Link: https://www.livrariacultura.com.br/unicornio-verde-amarelo-2112273799/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:VERAS, PAULO
+Editora -> PORTFOLIO PENGUIN
+ISBN -> 858285112X
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 280
+
+
+===================== Livro 121
+- Link: https://www.livrariacultura.com.br/365-dias-de-bem-estar-2112276592/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:CHAGAS, CAROLINA|Capista:BETTINARDI, TEREZA
+Editora -> FONTANAR
+ISBN -> 8584391819
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 360
+
+
+===================== Livro 122
+- Link: https://www.livrariacultura.com.br/menino-sem-passado-2112277476/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:SANTIAGO, SILVIANO|Capista:NUNES, ALCEU CHIESORIN
+Editora -> COMPANHIA DAS LETRAS
+ISBN -> 8535934367
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 464
+
+
+===================== Livro 123
+- Link: https://www.livrariacultura.com.br/as-formas-da-alegria-2112277484/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Tradutor:AZEVEDO, LIGIA|Autor:LEE, INGRID FETELL
+Editora -> FONTANAR
+ISBN -> 8584391665
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 400
+
+
+===================== Livro 124
+- Link: https://www.livrariacultura.com.br/mowgli-edicao-bolso-de-luxo-2112277490/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Tradutor:LACERDA, RODRIGO|Capista:NOBRE, RAFAEL|Tradutor:SOUZA, ALEXANDRE BARBOSA DE|Autor:KIPLING , RUDYARD
+Editora -> ZAHAR -
+ISBN -> 8537818992
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 125
+- Link: https://www.livrariacultura.com.br/para-ressignificar-um-grande-amor-2112277726/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Organizador:MORAES, ANALIA|Autor:AKAPOETA|Capista:ESTÚDIO BOGOTÁ
+Editora -> PARALELA
+ISBN -> 8584391835
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 184
+
+
+===================== Livro 126
+- Link: https://www.livrariacultura.com.br/a-revolucao-dos-bichos-edicao-com-brinde-caderno-2112281043/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:ORWELL, GEORGE
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558300311
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 128
+
+
+===================== Livro 127
+- Link: https://www.livrariacultura.com.br/1984-edicao-com-brinde-dois-posteres-2112281044/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:ORWELL, GEORGE
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558300982
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 392
+
+
+===================== Livro 128
+- Link: https://www.livrariacultura.com.br/vade-mecum-oab-e-graduacao-21a-edicao-2021-2112281103/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SARAIVA EDITORA
+Ano de Edição -> 2021
+Editora -> SARAIVA JUR
+ISBN -> 6555591900
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 2096
+
+====================================== Category "aventura" =========================================
+- Link: https://www.livrariacultura.com.br/aventura?PS=10
+
+
+===================== Livro 129
+- Link: https://www.livrariacultura.com.br/aventura-divertida-2112350873/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:CULTURAL, CIRANDA
+EAN -> 9786526110683
+Editora -> CIRANDA CULTURAL
+ISBN -> 6526110681
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 10
+
+
+===================== Livro 130
+- Link: https://www.livrariacultura.com.br/vamos-curtir-uma-aventura--2112349230/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:CHAMBERLAIN, LAURA
+EAN -> 9786526110263
+Editora -> CIRANDA CULTURAL
+ISBN -> 6526110266
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 10
+
+
+===================== Livro 131
+- Link: https://www.livrariacultura.com.br/polly---cores-e-aventura-2112347506/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786526111543
+Colaborador -> Autor:ALMEIDA, VANESSA
+Editora -> CIRANDA CULTURAL
+ISBN -> 6526111548
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 48
+
+
+===================== Livro 132
+- Link: https://www.livrariacultura.com.br/colecao-com-os-meus-dedinhos---uma-aventura-com-o-peixe-palhaco-2112344611/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+EAN -> 9786555479133
+Editora -> EDITORA ON LINE
+ISBN -> 6555479132
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 10
+
+
+===================== Livro 133
+- Link: https://www.livrariacultura.com.br/colecao-minhas-primeiras-historias---aventura-no-vale-dos-dinossauros-2112346984/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ON LINE EDITORA | Editor:ON LINE EDITORA
+EAN -> 9786555479805
+Editora -> EDITORA ON LINE
+ISBN -> 6555479809
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 12
+
+
+===================== Livro 134
+- Link: https://www.livrariacultura.com.br/a-imitacao-da-bem-aventurada-virgem-maria-2112350517/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:KEMPIS, TOMAS DE | Tradutor:TITON, GENTIL AVELINO
+EAN -> 9788532668042
+Editora -> VOZES
+ISBN -> 8532668046
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 152
+
+
+===================== Livro 135
+- Link: https://www.livrariacultura.com.br/aventuras-marvel-09-2112350738/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786525915760
+Colaborador -> Autor:YOSHIDA, AKIRA
+Editora -> PANINI LIVROS
+ISBN -> 6525915767
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 48
+
+
+===================== Livro 136
+- Link: https://www.livrariacultura.com.br/aventuras-transcontinentais-2112346228/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556254630
+Colaborador -> Autor:BENHAYON, EDUARDO
+Editora -> EDITORA LABRADOR
+ISBN -> 6556254630
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+
+===================== Livro 137
+- Link: https://www.livrariacultura.com.br/sonic---atividades-e-aventuras-2112350180/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786526108888
+Colaborador -> Autor:KNÖBL EVANGELISTA, MARINA
+Editora -> CIRANDA CULTURAL
+ISBN -> 6526108881
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 16
+
+
+===================== Livro 138
+- Link: https://www.livrariacultura.com.br/aventuras-no-bosque---a-floresta-cintilante-2112344493/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SHIREEN, NADIA | Tradutor:FACINCANI, LUISA
+EAN -> 9786559574476
+Editora -> MILKSHAKESPEARE
+ISBN -> 6559574474
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 256
+
+====================================== Category "poesia" =========================================
+- Link: https://www.livrariacultura.com.br/poesia?PS=10
+
+
+===================== Livro 139
+- Link: https://www.livrariacultura.com.br/tudo-em-cores-e-outras-poesias-2112350413/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:BELEM, VALERIA | Ilustrador:MENDONÇA, ADRIANA
+EAN -> 9786556966786
+Editora -> IBEP NACIONAL
+ISBN -> 6556966789
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 48
+
+
+===================== Livro 140
+- Link: https://www.livrariacultura.com.br/melhores-poemas-ferreira-gullar-46287500/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2004
+Colaborador -> Autor:GULLAR, FERREIRA
+Editora -> GLOBAL EDITORA
+ISBN -> 8526022733
+Ano -> 2004
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 296
+
+
+===================== Livro 141
+- Link: https://www.livrariacultura.com.br/ou-isto-ou-aquilo-capa-dura-30355966/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:MEIRELES, CECILIA|Ilustrador:MORAES, ODILON
+Editora -> GLOBAL EDITORA
+ISBN -> 8526017101
+Idade -> 7
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 66
+
+
+===================== Livro 142
+- Link: https://www.livrariacultura.com.br/dissolucoes-2112351468/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788501921468
+Colaborador -> Autor:MUNHOZ, FELIPE FRANCO
+Editora -> RECORD
+ISBN -> 8501921467
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 143
+- Link: https://www.livrariacultura.com.br/pensamentos-de-travesseiro-2112351326/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788542227116
+Colaborador -> Autor:PEPPERNELL, COURTNEY
+Editora -> PLANETA DO BRASIL
+ISBN -> 8542227115
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 272
+
+
+===================== Livro 144
+- Link: https://www.livrariacultura.com.br/a-beleza-do-marido-2112349244/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> UM ENSAIO FICCIONAL EM 29 TANGOS
+Colaborador -> Autor:CARSON, ANNE
+EAN -> 9786584515796
+Editora -> BAZAR DO TEMPO
+ISBN -> 6584515796
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 168
+
+
+===================== Livro 145
+- Link: https://www.livrariacultura.com.br/momentos-2112349078/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556255132
+Colaborador -> Autor:ALBA, MARIA DE LOURDES
+Editora -> EDITORA LABRADOR
+ISBN -> 6556255130
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 72
+
+
+===================== Livro 146
+- Link: https://www.livrariacultura.com.br/declaracao-de-amor-2112347328/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788501920195
+Colaborador -> Autor:ANDRADE, CARLOS DRUMMOND DE
+Subtitulo -> CANÇÃO DE NAMORADOS
+Editora -> RECORD
+ISBN -> 8501920193
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 104
+
+
+===================== Livro 147
+- Link: https://www.livrariacultura.com.br/a-namorada-de-sandro-2112351380/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SOSA VILLADA, CAMILA
+EAN -> 9788542227161
+Editora -> TUSQUETS
+ISBN -> 8542227166
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 96
+
+
+===================== Livro 148
+- Link: https://www.livrariacultura.com.br/romances-de-cordel-2112351289/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GULLAR, FERREIRA
+EAN -> 9786558471516
+Editora -> JOSE OLYMPIO-
+ISBN -> 6558471515
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 104
+
+====================================== Category "quadrinhos" =========================================
+- Link: https://www.livrariacultura.com.br/quadrinhos?PS=10
+
+
+===================== Livro 149
+- Link: https://www.livrariacultura.com.br/por-que-tarda-o-pleno-avivamento-47927591/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2019
+Colaborador -> Autor:RAVENHILL, LEONARD
+Editora -> BETANIA
+ISBN -> 8535801987
+Ano -> 2019
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 150
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-os-jetsons---kit-com-5-quadrinhos-2112351578/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786561262606
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+Editora -> EDITORA ON LINE
+ISBN -> 6561262603
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 151
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-pro-games---kit-com-10-quadrinhos-2112351585/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+EAN -> 9786561262545
+Editora -> EDITORA ON LINE
+ISBN -> 6561262549
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 152
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-biblicos-01---kit-com-3-quadrinhos-2112351572/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786561262583
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+Editora -> EDITORA ON LINE
+ISBN -> 6561262581
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 96
+
+
+===================== Livro 153
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-os-flintstones-01---kit-com-5-quadrinhos-2112351566/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786561262637
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+Editora -> EDITORA ON LINE
+ISBN -> 6561262638
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 154
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-contos-classicos-01---kit-com-4-quadrinhos-2112351587/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+EAN -> 9786561262613
+Editora -> EDITORA ON LINE
+ISBN -> 6561262611
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 128
+
+
+===================== Livro 155
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-looney-tunes-01---kit-com-6-quadrinhos-2112351584/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786561262620
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+Editora -> EDITORA ON LINE
+ISBN -> 656126262X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 156
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-scooby-doo-01---kit-com-6-quadrinhos-2112351573/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+EAN -> 9786561262644
+Editora -> EDITORA ON LINE
+ISBN -> 6561262646
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 157
+- Link: https://www.livrariacultura.com.br/combo-quadrinhos-tom-e-jerry-01---kit-com-6-quadrinhos-2112351568/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786561262590
+Colaborador -> Autor:ON LINE EDITORA | Organizador:ON LINE EDITORA
+Editora -> EDITORA ON LINE
+ISBN -> 656126259X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 158
+- Link: https://www.livrariacultura.com.br/morte-e-vida-severina--edicao-em-quadrinhos--2112346702/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786584953369
+Colaborador -> Autor:MELO NETO, JOAO CABRAL DE | Adaptador:ODYR
+Editora -> QUADRINHOS NA CIA
+ISBN -> 658495336X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+====================================== Category "saude" =========================================
+- Link: https://www.livrariacultura.com.br/saude?PS=10
+
+
+===================== Livro 159
+- Link: https://www.livrariacultura.com.br/arsene-lupin-contra-herlock-sholmes-edicao-bolso-de-luxo-46779365/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Autor:LEBLANC, MAURICE
+Editora -> ZAHAR -
+ISBN -> 8537817104
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 312
+
+
+===================== Livro 160
+- Link: https://www.livrariacultura.com.br/unicornio-verde-amarelo-2112273799/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:VERAS, PAULO
+Editora -> PORTFOLIO PENGUIN
+ISBN -> 858285112X
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 280
+
+
+===================== Livro 161
+- Link: https://www.livrariacultura.com.br/365-dias-de-bem-estar-2112276592/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:CHAGAS, CAROLINA|Capista:BETTINARDI, TEREZA
+Editora -> FONTANAR
+ISBN -> 8584391819
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 360
+
+
+===================== Livro 162
+- Link: https://www.livrariacultura.com.br/menino-sem-passado-2112277476/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:SANTIAGO, SILVIANO|Capista:NUNES, ALCEU CHIESORIN
+Editora -> COMPANHIA DAS LETRAS
+ISBN -> 8535934367
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 464
+
+
+===================== Livro 163
+- Link: https://www.livrariacultura.com.br/as-formas-da-alegria-2112277484/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Tradutor:AZEVEDO, LIGIA|Autor:LEE, INGRID FETELL
+Editora -> FONTANAR
+ISBN -> 8584391665
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 400
+
+
+===================== Livro 164
+- Link: https://www.livrariacultura.com.br/mowgli-edicao-bolso-de-luxo-2112277490/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Tradutor:LACERDA, RODRIGO|Capista:NOBRE, RAFAEL|Tradutor:SOUZA, ALEXANDRE BARBOSA DE|Autor:KIPLING , RUDYARD
+Editora -> ZAHAR -
+ISBN -> 8537818992
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 165
+- Link: https://www.livrariacultura.com.br/para-ressignificar-um-grande-amor-2112277726/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Organizador:MORAES, ANALIA|Autor:AKAPOETA|Capista:ESTÚDIO BOGOTÁ
+Editora -> PARALELA
+ISBN -> 8584391835
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 184
+
+
+===================== Livro 166
+- Link: https://www.livrariacultura.com.br/a-revolucao-dos-bichos-edicao-com-brinde-caderno-2112281043/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:ORWELL, GEORGE
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558300311
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 128
+
+
+===================== Livro 167
+- Link: https://www.livrariacultura.com.br/1984-edicao-com-brinde-dois-posteres-2112281044/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:ORWELL, GEORGE
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558300982
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 392
+
+
+===================== Livro 168
+- Link: https://www.livrariacultura.com.br/vade-mecum-oab-e-graduacao-21a-edicao-2021-2112281103/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SARAIVA EDITORA
+Ano de Edição -> 2021
+Editora -> SARAIVA JUR
+ISBN -> 6555591900
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 2096
+
+====================================== Category "psicologia" =========================================
+- Link: https://www.livrariacultura.com.br/psicologia?PS=10
+
+
+===================== Livro 169
+- Link: https://www.livrariacultura.com.br/o-pai-estoico-2112337582/p
+
+
+=============================== Missing attributes
+Missing attributes:autores,tags
+
+======== Available attributes
+Altura -> 21
+Largura -> 14
+Peso -> 0,100
+EAN -> 9786555606621
+Colaborador -> HOLIDAY, RYAN
+Subtitulo -> PATERNIDADE, AMOR E COMO CRIAR FILHOS INCRÍVEIS
+Editora -> EDITORA INTRINSECA
+ISBN -> 9786555606621
+Ano -> 2023
+Edição -> 1
+Idioma -> POR
+País -> Brasil
+Páginas -> 432
+
+
+===================== Livro 170
+- Link: https://www.livrariacultura.com.br/psicologia-da-colonizacao-2112350820/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786555051933
+Colaborador -> Autor:MANNONI, OCTAVE | Tradutor:WARHAFTIG, MARISE LEVY | Prefácio/Posfácio:SILVA, MARIA LÚCIA DA
+Coleção -> ESTUDOS
+Editora -> PERSPECTIVA (EB)
+ISBN -> 6555051930
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 272
+
+
+===================== Livro 171
+- Link: https://www.livrariacultura.com.br/psicologia--modo-de-usar-2112349396/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> COMO A TERAPIA AJUDA A COMPREENDER OS DILEMAS, OS
+EAN -> 9786556164328
+Colaborador -> Autor:BLOIS, MARIANGELA
+Editora -> MATRIX EDITORA
+ISBN -> 6556164321
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 136
+
+
+===================== Livro 172
+- Link: https://www.livrariacultura.com.br/colecao-mente-em-foco---100-minutos-para-entender-a-psicologia-2112350817/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ASTRAL CULTURAL
+EAN -> 9786555665147
+Coleção -> COLEÇÃO MENTE EM FOCO
+Editora -> ASTRAL CULTURAL -
+ISBN -> 6555665149
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 128
+
+
+===================== Livro 173
+- Link: https://www.livrariacultura.com.br/vinculo-fantasma-2112349478/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788501921239
+Colaborador -> Autor:PARANAGUÁ, TATIANA
+Subtitulo -> OS RELACIONAMENTOS VOLÁTEIS DA ATUALIDADE
+Editora -> RECORD
+ISBN -> 8501921238
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 196
+
+
+===================== Livro 174
+- Link: https://www.livrariacultura.com.br/o-mundo-das-imagens-2112350634/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SILVEIRA, NISE DA | Organizador:MELLO, LUIZ CARLOS
+EAN -> 9786557139769
+Editora -> VOZES
+ISBN -> 6557139762
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 175
+- Link: https://www.livrariacultura.com.br/jung-2112349212/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> UMA REVISÃO FEMINISTA
+EAN -> 9788532666123
+Colaborador -> Autor:ROWLAND, SUSAN | Tradutor:RICHARDSON, VIVIANE CÁSSIA HEIMBURGER
+Editora -> VOZES
+ISBN -> 8532666124
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 304
+
+
+===================== Livro 176
+- Link: https://www.livrariacultura.com.br/jung-e-os-pos-junguianos-720010282/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788532666727
+Colaborador -> Autor:SAMUELS, ANDREW | Tradutor:MEIRELLES, LETÍCIA
+Coleção -> REFLEXÕES JUNGUIANAS
+Editora -> VOZES
+ISBN -> 8532666728
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 584
+
+
+===================== Livro 177
+- Link: https://www.livrariacultura.com.br/consciencia-e-o-inconsciente-2112348776/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788532666376
+Colaborador -> Autor:JUNG, C. J. | Tradutor:SUMMA, GUILHERME | Editor:FALZEDER, ERNST
+Subtitulo -> PALESTRAS REALIZADAS NO ETH DE ZURIQUE VOLUME 2: 1
+Editora -> VOZES
+ISBN -> 853266637X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 248
+
+
+===================== Livro 178
+- Link: https://www.livrariacultura.com.br/uma-visao-junguiana-da-terapia-familiar-sistemica-2112350950/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:BOECHAT, PAULA | Prefácio/Posfácio:BOECHAT, WALTER
+EAN -> 9788532667489
+Coleção -> REFLEXÕES JUNGUIANAS
+Editora -> VOZES
+ISBN -> 8532667481
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 120
+
+====================================== Category "filosofia" =========================================
+- Link: https://www.livrariacultura.com.br/filosofia?PS=10
+
+
+===================== Livro 179
+- Link: https://www.livrariacultura.com.br/privilegio-de-ser-mulher-o-42233462/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:VON HILDEBRAND, ALICE|Tradutor:DUTRA, LUIZA MONTEIRO DE CASTRO SILVA
+Editora -> ECCLESIAE
+ISBN -> 8563160591
+Ano -> 2014
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 124
+
+
+===================== Livro 180
+- Link: https://www.livrariacultura.com.br/a-consolacao-da-filosofia-2112334783/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:BOECIO
+Editora -> WMF MARTINS FONTES
+ISBN -> 8546904456
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 120
+
+
+===================== Livro 181
+- Link: https://www.livrariacultura.com.br/as-paixoes-da-alma-2112333750/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Autor:DESCARTES, RENE|Tradutor:STAHEL, MONICA
+Editora -> VOZES DE BOLSO
+ISBN -> 6557137379
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 144
+
+
+===================== Livro 182
+- Link: https://www.livrariacultura.com.br/ecce-homo-2112334007/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2023
+Colaborador -> Tradutor:TREVISAN, DIEGO KOSBIAU|Autor:FRIEDRICH, NIETZSCHE
+Editora -> VOZES DE BOLSO
+ISBN -> 6557137387
+Ano -> 2023
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 136
+
+
+===================== Livro 183
+- Link: https://www.livrariacultura.com.br/pergunte-a-shakespeare-2112349235/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556433097
+Colaborador -> Autor:CATÀ, CESARE
+Subtitulo -> AS RESPOSTAS DO DRAMATURGO MAIS FAMOSO DO MUNDO PA
+Editora -> LEYA
+ISBN -> 6556433098
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 296
+
+
+===================== Livro 184
+- Link: https://www.livrariacultura.com.br/meditacoes-2112349090/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:AURELIO, MARCO
+EAN -> 9786555615296
+Editora -> NOVO SECULO
+ISBN -> 655561529X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 185
+- Link: https://www.livrariacultura.com.br/magus-2112349267/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:BARRETT, FRANCIS
+Subtitulo -> TRATADO COMPLETO DE ALQUIMIA E FILOSOFIA OCULTA
+EAN -> 9786589790044
+Editora -> BARANY EDITORA
+ISBN -> 6589790043
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 300
+
+
+===================== Livro 186
+- Link: https://www.livrariacultura.com.br/catastrofe-ancestral-2112351603/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788571261730
+Colaborador -> Autor:POVINELLI, ELIZABETH
+Subtitulo -> E EXISTÊNCIAS NO LIBERALISMO TARDIO
+Editora -> UBU EDITORA
+ISBN -> 8571261733
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 256
+
+
+===================== Livro 187
+- Link: https://www.livrariacultura.com.br/noventa-dias-2112349771/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> UMA ARREBATADORA VIAGEM PELOS MUNDOS QUE HABITAM E
+Colaborador -> Autor:BENICIO, WELTER
+EAN -> 9786559228027
+Editora -> LITERARE BOOKS
+ISBN -> 6559228029
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 392
+
+
+===================== Livro 188
+- Link: https://www.livrariacultura.com.br/a-revolucao-molecular-2112349958/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788571261402
+Colaborador -> Autor:GUATTAR, FÉLIX
+Coleção -> EXPLOSANTE
+Editora -> UBU EDITORA
+ISBN -> 8571261407
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+====================================== Category "educacao" =========================================
+- Link: https://www.livrariacultura.com.br/educacao?PS=10
+
+
+===================== Livro 189
+- Link: https://www.livrariacultura.com.br/arsene-lupin-contra-herlock-sholmes-edicao-bolso-de-luxo-46779365/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Autor:LEBLANC, MAURICE
+Editora -> ZAHAR -
+ISBN -> 8537817104
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 312
+
+
+===================== Livro 190
+- Link: https://www.livrariacultura.com.br/unicornio-verde-amarelo-2112273799/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:VERAS, PAULO
+Editora -> PORTFOLIO PENGUIN
+ISBN -> 858285112X
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 280
+
+
+===================== Livro 191
+- Link: https://www.livrariacultura.com.br/365-dias-de-bem-estar-2112276592/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2020
+Colaborador -> Autor:CHAGAS, CAROLINA|Capista:BETTINARDI, TEREZA
+Editora -> FONTANAR
+ISBN -> 8584391819
+Ano -> 2020
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 360
+
+
+===================== Livro 192
+- Link: https://www.livrariacultura.com.br/menino-sem-passado-2112277476/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:SANTIAGO, SILVIANO|Capista:NUNES, ALCEU CHIESORIN
+Editora -> COMPANHIA DAS LETRAS
+ISBN -> 8535934367
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 464
+
+
+===================== Livro 193
+- Link: https://www.livrariacultura.com.br/as-formas-da-alegria-2112277484/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Tradutor:AZEVEDO, LIGIA|Autor:LEE, INGRID FETELL
+Editora -> FONTANAR
+ISBN -> 8584391665
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 400
+
+
+===================== Livro 194
+- Link: https://www.livrariacultura.com.br/mowgli-edicao-bolso-de-luxo-2112277490/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Tradutor:LACERDA, RODRIGO|Capista:NOBRE, RAFAEL|Tradutor:SOUZA, ALEXANDRE BARBOSA DE|Autor:KIPLING , RUDYARD
+Editora -> ZAHAR -
+ISBN -> 8537818992
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 195
+- Link: https://www.livrariacultura.com.br/para-ressignificar-um-grande-amor-2112277726/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Organizador:MORAES, ANALIA|Autor:AKAPOETA|Capista:ESTÚDIO BOGOTÁ
+Editora -> PARALELA
+ISBN -> 8584391835
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 184
+
+
+===================== Livro 196
+- Link: https://www.livrariacultura.com.br/a-revolucao-dos-bichos-edicao-com-brinde-caderno-2112281043/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:ORWELL, GEORGE
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558300311
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 128
+
+
+===================== Livro 197
+- Link: https://www.livrariacultura.com.br/1984-edicao-com-brinde-dois-posteres-2112281044/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:ORWELL, GEORGE
+Editora -> BIBLIOTECA AZUL
+ISBN -> 6558300982
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 392
+
+
+===================== Livro 198
+- Link: https://www.livrariacultura.com.br/vade-mecum-oab-e-graduacao-21a-edicao-2021-2112281103/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:SARAIVA EDITORA
+Ano de Edição -> 2021
+Editora -> SARAIVA JUR
+ISBN -> 6555591900
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 2096
+
+====================================== Category "esportes" =========================================
+- Link: https://www.livrariacultura.com.br/esportes?PS=10
+
+
+===================== Livro 199
+- Link: https://www.livrariacultura.com.br/a-casa-na-arvore-com-39-andares-46479473/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2017
+Colaborador -> Ilustrador:DENTON, TERRY|Autor:GRIFFITHS, ANDY
+Editora -> FUNDAMENTO
+ISBN -> 8539512653
+Idade -> 9
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 352
+
+
+===================== Livro 200
+- Link: https://www.livrariacultura.com.br/casagrande-e-seus-demonios-2112351453/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788501921604
+Colaborador -> Autor:RIBEIRO, GILVAN
+Editora -> RECORD
+ISBN -> 8501921602
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 336
+
+
+===================== Livro 201
+- Link: https://www.livrariacultura.com.br/viver-como-uma-campea-2112350902/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GRACIE, KYRA
+EAN -> 9786558371779
+Editora -> AGIR
+ISBN -> 6558371774
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+
+===================== Livro 202
+- Link: https://www.livrariacultura.com.br/vamos--tricolores-2112350510/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:COHEN, DHANIEL
+EAN -> 9786555648829
+Editora -> SEXTANTE
+ISBN -> 6555648821
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 160
+
+
+===================== Livro 203
+- Link: https://www.livrariacultura.com.br/voa-2112348422/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> INSTRUÇÕES DE VOO PARA SER PILOTO DA PRÓPRIA VIDA
+EAN -> 9786559227761
+Colaborador -> Autor:SOUZA, DAYANA
+Editora -> LITERARE BOOKS
+ISBN -> 6559227766
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 272
+
+
+===================== Livro 204
+- Link: https://www.livrariacultura.com.br/no-esporte-e-na-defesa-2112347440/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786555324136
+Subtitulo -> AUMENTE SUA PERFORMANCE COM A METODOLOGIA DE TREIN
+Colaborador -> Autor:ACOMBAT, ANDRADE
+Editora -> ROCCO -
+ISBN -> 6555324139
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+
+===================== Livro 205
+- Link: https://www.livrariacultura.com.br/do-fundo-do-mar-ao-topo-das-montanhas-2112351035/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:GANME, GABRIEL
+EAN -> 9786556255859
+Editora -> EDITORA LABRADOR
+ISBN -> 6556255858
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 240
+
+
+===================== Livro 206
+- Link: https://www.livrariacultura.com.br/esporte--um-palco-para-a-vida-2112349553/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:PINCIROLI, CRISTIANA
+EAN -> 9788555781063
+Subtitulo -> LIÇÕES DA PRÁTICA ESPORTIVA PARA IMPULSIONAR A ALT
+Editora -> PRIMAVERA EDITORIAL
+ISBN -> 855578106X
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 392
+
+
+===================== Livro 207
+- Link: https://www.livrariacultura.com.br/fabio-mello---jogando-de-terno-2112349991/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> DOS CAMPOS PARA OS NEGÓCIOS
+Colaborador -> Autor:BETING, MAURO
+EAN -> 9786586818253
+Editora -> ONZE CULTURAL
+ISBN -> 6586818257
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 208
+
+
+===================== Livro 208
+- Link: https://www.livrariacultura.com.br/futebol-a-esquerda-2112349642/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786587955216
+Colaborador -> Autor:PEINADO, QUIQUE | Tradutor:TRANJAN, CARLOS | Prefácio/Posfácio:LACOMBE, MILLY
+Editora -> EDITORA MUNDAREU
+ISBN -> 6587955215
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 416
+
+====================================== Category "viagens" =========================================
+- Link: https://www.livrariacultura.com.br/viagens?PS=10
+
+
+===================== Livro 209
+- Link: https://www.livrariacultura.com.br/viagens-na-minha-terra-30181778/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2012
+Colaborador -> Introdução:TEIXEIRA, IVAN|Autor:GARRETT, ALMEIDA|Ilustrador:ROMERO, KAIO
+Editora -> ATELIE
+ISBN -> 8574805920
+Ano -> 2012
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 384
+
+
+===================== Livro 210
+- Link: https://www.livrariacultura.com.br/viagens-na-minha-terra-42893622/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2015
+Colaborador -> Autor:GARRET, ALMEIDA
+Editora -> VIA LEITURA
+ISBN -> 8567097126
+Ano -> 2015
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 211
+- Link: https://www.livrariacultura.com.br/por-um-triz-46138672/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:ILHA, ANDRÉ
+Editora -> VALENTINA
+ISBN -> 8558890021
+Ano -> 2015
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 264
+Assunto -> Relatos de Viagens
+
+
+===================== Livro 212
+- Link: https://www.livrariacultura.com.br/um-longe-perto-2112292505/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2021
+Colaborador -> Autor:LINS, MARCELO
+Editora -> AGIR
+ISBN -> 6558370506
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 240
+
+
+===================== Livro 213
+- Link: https://www.livrariacultura.com.br/e-por-aqui-que-vai-pra-la-46335778/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2016
+Colaborador -> Autor:CASTRO, CAIO
+Editora -> GLOBO ESTILO
+ISBN -> 852506226X
+Ano -> 2016
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 144
+
+
+===================== Livro 214
+- Link: https://www.livrariacultura.com.br/o-complexo-de-telemaco-2112313113/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Ano de Edição -> 2022
+Colaborador -> Autor:RECALCATI, MASSIMO
+Editora -> AYINE
+ISBN -> 6586683939
+Ano -> 2022
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 156
+
+
+===================== Livro 215
+- Link: https://www.livrariacultura.com.br/relato-de-viagens-de-lazer-e-de-interesse-33061626/p
+
+
+=============================== Missing attributes
+Missing attributes:isbn,preco,tags
+
+======== Available attributes
+Colaborador -> Autor:KNECHTEL, MARIA DO ROSARIO|Autor:KLAS, ARTHUR ORLANDO
+Editora -> EDIÇAO DO AUTOR
+Ano -> 2013
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 300
+
+
+===================== Livro 216
+- Link: https://www.livrariacultura.com.br/viagens-a-luz-do-diva-cronicas-de-viagem-2112300379/p
+
+
+=============================== Missing attributes
+Missing attributes:preco,tags
+
+======== Available attributes
+Colaborador -> Autor:JUENEMANN, HELENA BEATRIZ
+Editora -> EDITORA AGE
+ISBN -> 6558630664
+Ano -> 2021
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 96
+
+
+===================== Livro 217
+- Link: https://www.livrariacultura.com.br/operacao-banda-oriental-46715018/p
+
+
+=============================== Missing attributes
+Missing attributes:preco,autores,tags
+
+======== Available attributes
+Colaborador -> SOSTER, DEMETRIO DE AZEREDO
+Editora -> CATARSE
+ISBN -> 8569563159
+Ano -> 2017
+Edição -> 1
+Origem -> Nacional
+Formato -> LIVRO
+Encadernação -> BROCHURA
+País -> BRASIL
+Complemento -> NENHUM
+Páginas -> 106
+Assunto -> Relatos de Viagens
+
+
+===================== Livro 218
+- Link: https://www.livrariacultura.com.br/colecao-guia-7-dias-volume-2-recife-olinda-e-porto-de-galinhas-46329283/p
+
+
+=============================== Missing attributes
+Missing attributes:isbn,editora,preco,autores,tags
+
+======== Available attributes
+Ano -> 2016
+Chamada de Capa -> RECIFE/OLINDA
+Edição -> 2016
+Qtd. Volumes -> 1
+Páginas -> 82
+Idioma -> ("POR")
+País -> BRASIL
+Origem -> Nacional
+
+====================================== Category "arte" =========================================
+- Link: https://www.livrariacultura.com.br/arte?PS=10
+
+
+===================== Livro 219
+- Link: https://www.livrariacultura.com.br/drama-johan-van-der-keuken-complete-collection-vol-2-van-der-keuken-johan-9036289/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,isbn,numPaginas,editora,ano,preco,autores,tags
+
+======== Available attributes
+
+====================================== Category "fotografia" =========================================
+- Link: https://www.livrariacultura.com.br/fotografia?PS=10
+
+
+===================== Livro 220
+- Link: https://www.livrariacultura.com.br/musa-2112351570/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786589741442
+Colaborador -> Autor:MILLINGTON, RUTH
+Subtitulo -> DESCOBRINDO AS FIGURAS OCULTAS NAS OBRAS-PRIMAS DA
+Editora -> ARQUIPELAGO
+ISBN -> 6589741441
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 320
+
+
+===================== Livro 221
+- Link: https://www.livrariacultura.com.br/livro-de-ideias-fotograficas-2112350218/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786560920101
+Colaborador -> Autor:YABSLEY, LORNA
+Subtitulo -> MAIS DE OITENTA IMAGENS, DICAS E INSPIRAÇÕES
+Editora -> EDITORA OLHARES
+ISBN -> 6560920100
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 176
+
+
+===================== Livro 222
+- Link: https://www.livrariacultura.com.br/breve-historia-da-arte-moderna-2112350216/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786560920149
+Colaborador -> Autor:HODGE, SUSIE
+Subtitulo -> UM GUIA DE BOLSO DOS PRINCIPAIS MOVIMENTOS, OBRAS,
+Editora -> EDITORA OLHARES
+ISBN -> 6560920143
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 224
+
+
+===================== Livro 223
+- Link: https://www.livrariacultura.com.br/arte---olhar-e-pensar-2112348994/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9788546905706
+Colaborador -> Autor:SALLE, DAVID
+Editora -> WMF MARTINS FONTES
+ISBN -> 8546905703
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 304
+
+
+===================== Livro 224
+- Link: https://www.livrariacultura.com.br/corporeidades-encruzilhadas-2112351004/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556911427
+Subtitulo -> PAULO NAZARETH E CADERNOS DE ÁFRICA
+Colaborador -> Autor:ROCHA, NAPÊ
+Editora -> COBOGO
+ISBN -> 6556911429
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 225
+- Link: https://www.livrariacultura.com.br/lampiao-2112350804/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786558471387
+Colaborador -> Autor:QUEIROZ, RACHEL
+Editora -> JOSE OLYMPIO-
+ISBN -> 6558471388
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 154
+
+
+===================== Livro 226
+- Link: https://www.livrariacultura.com.br/luiz-zerbini-2112350150/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556911410
+Colaborador -> Autor:ZERBINI, LUIZ
+Subtitulo -> PINTURINHAS PARA COLORIR
+Editora -> COBOGO
+ISBN -> 6556911410
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 40
+
+
+===================== Livro 227
+- Link: https://www.livrariacultura.com.br/olhar-contemporaneo-2112349330/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Subtitulo -> COMO COMPREENDER A ARTE DE AGORA
+EAN -> 9786555051810
+Colaborador -> Autor:CORREIA, JOAO
+Coleção -> PERSPECTIVA EM CENA
+Editora -> PERSPECTIVA (EB)
+ISBN -> 6555051817
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 192
+
+
+===================== Livro 228
+- Link: https://www.livrariacultura.com.br/isadora-2112351393/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+EAN -> 9786556255767
+Colaborador -> Autor:PASSOS, MARILIA
+Editora -> EDITORA LABRADOR
+ISBN -> 6556255769
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> BROCHURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 96
+
+
+===================== Livro 229
+- Link: https://www.livrariacultura.com.br/marca-dagua-2112348446/p
+
+
+=============================== Missing attributes
+Missing attributes:tags
+
+======== Available attributes
+Colaborador -> Autor:BRODSKY, JOSEPH
+EAN -> 9786559981250
+Subtitulo -> UM ENSAIO SOBRE VENEZA
+Editora -> AYINE
+ISBN -> 6559981258
+Ano -> 2024
+Edição -> 1
+Origem -> NACIONAL
+Formato -> LIVRO
+Encadernação -> CAPA DURA
+Idioma -> PORTUGUÊS
+País -> BRASIL
+Páginas -> 180
+
