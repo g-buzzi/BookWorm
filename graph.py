@@ -3,6 +3,7 @@ import re
 import nltk
 import pandas as pd
 import matplotlib.pyplot as plt
+import isbnlib
 nltk.download('stopwords')
  
 # import nltk for stopwords
@@ -44,7 +45,7 @@ def append_search_string(previous: str, new_string: str) -> str:
     return previous.strip()
 
 def run():
-    graph_data = {'nobel': {'variacao': 0, 'variacao_n': 0},'submarino': {'variacao': 0, 'variacao_n': 0}, 'cultura': {'variacao': 0, 'variacao_n': 0}, 'curitiba': {'variacao': 0, 'variacao_n': 0}, 'todos': {'total': 0, 'categorias': {}}}
+    graph_data = {'nobel': {'variacao': 0, 'variacao_n': 0, 'livros': 0},'submarino': {'variacao': 0, 'variacao_n': 0, 'livros': 0}, 'cultura': {'variacao': 0, 'variacao_n': 0, 'livros': 0}, 'curitiba': {'variacao': 0, 'variacao_n': 0, 'livros': 0}, 'todos': {'total': 0, 'categorias': {}}}
 
     
     sources = {'nobel': 'Nobel','submarino': 'Submarino', 'cultura': 'Livrarias Cultura', 'curitiba': "Livrarias Curitiba"}
@@ -62,6 +63,15 @@ def run():
         graph_data[source]['preco_medio_n'] = 0
         
         for book in books_data:
+            isbn = get_attribute(book, 'isbn')
+            if isbn is None or len(isbn) != 13:
+                continue
+            if isbn[:3] != '978':
+                continue
+            if isbnlib.check_digit13(isbn[:12]) != isbn[12]:
+                continue
+
+            graph_data[source]['livros'] += 1
             preco = get_attribute(book, 'preco')
             if preco is not None and preco != 0:
                 graph_data[source]['preco_medio'] += preco
@@ -143,7 +153,7 @@ def run():
             graph_data[source]['variacao'] = graph_data[source]['variacao'] / graph_data[source]['variacao_n']
             
         variacoes.append([name, graph_data[source]['variacao']])
-        total.append([name, graph_data[source]['total']])
+        total.append([name, graph_data[source]['livros']])
 
         try:
             df_categorias = pd.DataFrame.from_dict(graph_data[source]['categorias'], orient = 'index')

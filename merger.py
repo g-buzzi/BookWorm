@@ -1,6 +1,7 @@
 import json
 import re
 import nltk
+import isbnlib
 nltk.download('stopwords')
  
 # import nltk for stopwords
@@ -62,13 +63,26 @@ def run():
     sources = {'nobel': 'Nobel','submarino': 'Submarino', 'cultura': 'Livrarias Cultura', 'curitiba': "Livrarias Curitiba"}
 
     for key, name in sources.items():
-        print(f"=========================== Unindo dados da {name} =========================")
+        log.write(f"=========================== Unindo dados da {name} =========================\n")
         f = open(f'./docs/{key}-data.json')
         books_data = json.load(f)
         f.close()
         for book in books_data:
             isbn = get_attribute(book, 'isbn')
-            if isbn is None:
+            if isbn is None or len(isbn) != 13:
+                log.write(f'============ Discarded book due to non-existant isbn:\n')
+                log.write(str(book))
+                log.write('\n\n')
+                continue
+            if isbn[:3] != '978':
+                log.write(f'============ Discarded isbn due to wrong class: {isbn}\n')
+                log.write(str(book))
+                log.write('\n\n')
+                continue
+            if isbnlib.check_digit13(isbn[:12]) != isbn[12]:
+                log.write(f'============ Discarded isbn due to verifier: {isbn}\n')
+                log.write(str(book))
+                log.write('\n\n')
                 continue
             book['fonte'] = name
             entry = None
@@ -79,7 +93,7 @@ def run():
                 merged_data[book['isbn']] = entry
             entry = update_entry(entry, book)
             merged_data[book['isbn']] = entry
-        print(f"=========================== Finalizado dados da {name} =========================")
+        log.write(f"=========================== Finalizado dados da {name} =========================\n")
 
     with open('./docs/merged-data.json', 'w') as f:
         json.dump(merged_data, f, indent=2)

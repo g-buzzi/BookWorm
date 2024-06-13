@@ -1,1 +1,987 @@
 ====================================== Merging =========================================
+=========================== Unindo dados da Nobel =========================
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-arte-da-guerra/', 'titulo': 'A arte da guerra', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 332, 'editora': 'Martins Fontes', 'ano': None, 'autores': ['Nicolau Maquiavel'], 'tags': ['técnicos', 'Livro adulto'], 'preco': 92.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-bolsa-amarela/', 'titulo': 'A bolsa amarela', 'edicao': 35, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 104, 'editora': 'Casa Lygia Bojunga', 'ano': None, 'autores': ['Lygia Bojunga'], 'tags': ['Romance infantojuvenil', 'Livro juvenil'], 'preco': 50.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-casa-da-madrinha/', 'titulo': 'A casa da madrinha', 'edicao': 20, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 172, 'editora': 'Casa Lygia Bojunga', 'ano': None, 'autores': ['Lygia Bojunga'], 'tags': ['Romance infantojuvenil', 'Livro juvenil'], 'preco': 23.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-escrava-isaura/', 'titulo': 'A escrava Isaura', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 88, 'editora': 'Scipione', 'ano': None, 'autores': ['Bernardo Guimarães – Adaptação de Guila Azevedo'], 'tags': ['Drama', 'Livro juvenil'], 'preco': 78.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-festa-encrencada-col-estrelinha-iii/', 'titulo': 'A Festa Encrencada – Col. Estrelinha III', 'edicao': 10, 'serie': {'nome': ' Estrelinha III', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 41.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-ideologia-alema-feuerbach-a-contraposicao-entre-as-cosmovisoes-materialista-e-idealista/', 'titulo': 'A ideologia alemã – Feuerbach – A contraposição entre as cosmovisões materialista e idealista – (Pocket)', 'edicao': 1, 'serie': {'nome': ' A obra-prima de cada autor', 'numero': None}, 'isbn': None, 'numPaginas': 147, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Marx e Engels'], 'tags': ['Sociologia', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-luneta-magica-pocket/', 'titulo': 'A luneta mágica – (Pocket)', 'edicao': 2, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 243, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Joaquim Manuel de Macedo'], 'tags': ['Romance histórico', 'Livro adulto'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-luta-pela-democracia-na-educacao-licoes-de-realidades-sociais/', 'titulo': 'A luta pela democracia na educação: Lições de realidades sociais', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 215, 'editora': 'Vozes', 'ano': None, 'autores': ['Michael W. Apple'], 'tags': ['Política / Educação', 'Livro adulto'], 'preco': 95.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-velhinha-que-dava-nome-as-coisas/', 'titulo': 'A velhinha que dava nome às coisas', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 48, 'editora': 'Brinque-Book', 'ano': None, 'autores': ['Cynthia Rylant'], 'tags': ['Ficção infantojuvenil', 'Livro infantil'], 'preco': 59.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/abrindo-portas-interiores-pocket/', 'titulo': 'Abrindo Portas Interiores – (Pocket)', 'edicao': 16, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 365, 'editora': 'Triom', 'ano': None, 'autores': ['Eileen Caddy'], 'tags': ['Autoajuda em pílulas', 'Autoajuda'], 'preco': 50.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/alimente-bem-suas-emocoes/', 'titulo': 'Alimente bem suas emoções', 'edicao': 7, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 139788515041077, 'editora': 'Edições Loyola', 'ano': None, 'autores': ['Dra. Gisela Savioli'], 'tags': ['Nutrição / bem estar', 'Culinária e Saúde'], 'preco': 48.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/alimento-para-o-cerebro-proteja-seu-cerebro-e-torne-se-mais-inteligente-feliz-e-produtivo/', 'titulo': 'Alimento para o cérebro: proteja seu cérebro e torne-se mais inteligente, feliz e produtivo', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 320, 'editora': 'nVersos', 'ano': None, 'autores': ['Max Lugavere', 'Paul Grewal'], 'tags': ['Saúde Alimentar / Boa forma física e psíquica', 'Culinária e Saúde'], 'preco': 62.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/arca-de-ninguem-col-do-re-mi-fa/', 'titulo': 'Arca de ninguém – Col. Dó-ré-mi-fá', 'edicao': 2, 'serie': {'nome': ' Dó-ré-mi-fá', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Scipione', 'ano': None, 'autores': ['Mariana Caltabiano'], 'tags': ['Ficção infantojuvenil', 'Livro infantil'], 'preco': 51.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/as-5-linguagens-do-amor-das-criancas/', 'titulo': 'As 5 Linguagens do Amor Das Crianças', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': ['Literatura estrangeira'], 'preco': 69.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/as-5-linguagens-do-amor-para-homens-como-expressar-um-compromisso-de-amor-a-sua-esposa/', 'titulo': 'As 5 linguagens do amor para homens: Como expressar um compromisso de amor a sua esposa', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 176, 'editora': 'Mundo Cristão', 'ano': None, 'autores': ['Gary Chapman e Randy Southern'], 'tags': ['Autoajuda', 'Autoajuda'], 'preco': 59.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/as-mais-incriveis-historias-biblicas/', 'titulo': 'As mais incríveis histórias bíblicas', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 320, 'editora': 'Sankto', 'ano': None, 'autores': ['Anne de Vries'], 'tags': ['Religioso / Cristão', 'Bíblia', 'Livro infantil', 'Religioso'], 'preco': 69.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/as-poderosas-ferramentas-de-gestao-da-emocao-para-relacoes-saudaveis/', 'titulo': 'As poderosas ferramentas de gestão da emoção para relações saudáveis', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 160, 'editora': None, 'ano': 2022, 'autores': ['Augusto Cury'], 'tags': ['Psicologia / geral', 'Autoajuda'], 'preco': 44.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/as-profecias-pocket/', 'titulo': 'As Profecias – (Pocket)', 'edicao': 1, 'serie': {'nome': 'ISBN-13 \u200f : \u200e\xa0978-8572326148', 'numero': 139788572326148}, 'isbn': None, 'numPaginas': 492, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Nostradamus'], 'tags': ['Predições / Profecias / Vidência', 'Livro adulto'], 'preco': 44.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/atchim/', 'titulo': 'Atchim! – Col. Pingos', 'edicao': 1, 'serie': {'nome': ' Os Pingos', 'numero': None}, 'isbn': None, 'numPaginas': 16, 'editora': 'Ática', 'ano': None, 'autores': ['Mary França'], 'tags': ['Livro infantil'], 'preco': 36.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/ave-cristo/', 'titulo': 'Ave, Cristo!', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 311, 'editora': 'FEB', 'ano': None, 'autores': ['Francisco Cândido Xavier'], 'tags': ['Religião', 'Religioso'], 'preco': 58.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/ben-hur/', 'titulo': 'Ben- Hur', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 96, 'editora': 'Scipione', 'ano': None, 'autores': ['Lewis Wallace – Adaptação de Sonia Rodrigues'], 'tags': ['Drama', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/biblia-sagrada-ave-maria-capa-catequese/', 'titulo': 'Bíblia Sagrada Ave-Maria – Capa Catequese', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 1696, 'editora': None, 'ano': None, 'autores': ['Vários Autores'], 'tags': ['Bíblia'], 'preco': 49.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/biblia-sagrada-ave-maria-ziper-bolso-marrom/', 'titulo': 'Bíblia Sagrada Ave-Maria: Zíper – Bolso – Marrom', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 1648, 'editora': 'Ave-Maria', 'ano': None, 'autores': ['Vários Autores'], 'tags': ['Bíblia'], 'preco': 85.9}
+
+============ Discarded isbn due to wrong class: 7908249103007
+{'url': 'https://www.papelarianobel.com.br/produto/biblia-sagrada-king-james-1611-ornamentos/', 'titulo': 'Bíblia Sagrada King James 1611 – Ornamentos', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': '7908249103007', 'numPaginas': 960, 'editora': 'SANKTO', 'ano': 2022, 'autores': ['SANKTO'], 'tags': ['Religião', 'Bíblia'], 'preco': 74.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/box-percy-jackson-e-os-olimpianos-nova-edicao/', 'titulo': 'BOX PERCY JACKSON E OS OLIMPIANOS – NOVA EDIÇÃO', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': ['Livro juvenil'], 'preco': 299.5}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/caderno-de-espiritualidade-descubra-o-sagrado-em-voce/', 'titulo': 'Caderno de espiritualidade: Descubra o sagrado em você', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 110, 'editora': 'Vozes', 'ano': None, 'autores': ['Anselm Grün'], 'tags': ['Autojuda / Crescimento pessoal / Espiritualidade', 'Livro adulto'], 'preco': 27.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/calendario-de-mesa-do-sagrado-coracao-de-jesus-2024/'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/cinquenta-anos-depois/', 'titulo': 'Cinquenta anos depois', 'edicao': 34, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 286, 'editora': 'FEB', 'ano': None, 'autores': ['Francisco Cândido Xavier'], 'tags': ['Religião / Espiritismo', 'Religioso'], 'preco': 56.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/colecao-sentimentos-e-emocoes/', 'titulo': 'Coleção sentimentos e emoções', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': ['Livro infantil'], 'preco': 79.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/comunicando-se-com-o-arcanjo-gabriel/', 'titulo': 'Comunicando-se com o Arcanjo Gabriel', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 144, 'editora': 'Madras', 'ano': None, 'autores': ['Richard Webster'], 'tags': ['Espiritualidade', 'Religioso'], 'preco': 29.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/comunicando-se-com-o-arcanjo-uriel/', 'titulo': 'Comunicando-se com o Arcanjo Uriel', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 144, 'editora': 'Madras', 'ano': None, 'autores': ['Richard Webster'], 'tags': ['Espiritualidade', 'Religioso'], 'preco': 29.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/confissoes-livro-de-bolso/', 'titulo': 'Confissões – (Pocket)', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 392, 'editora': 'Vozes', 'ano': None, 'autores': ['Santo Agostinho'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 54.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/conto-de-escola/', 'titulo': 'Conto de escola', 'edicao': 12017}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/contos-da-carochinha-um-livro-de-historias-classicas/', 'titulo': 'Contos da Carochinha: Um livro de histórias clássicas', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 64, 'editora': 'Petit', 'ano': None, 'autores': ['María Mañeru'], 'tags': ['Ficção infantojuvenil', 'Livro infantil'], 'preco': 69.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/contos-escolhidos-pocket/', 'titulo': 'Contos escolhidos – Pocket', 'edicao': 1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/covid-19-a-mae-terra-contra-ataca-a-humanidade-advertencias-da-pandemia/', 'titulo': 'Covid-19: A mãe terra contra-ataca a humanidade – Advertências da pandemia', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 176, 'editora': 'Vozes', 'ano': None, 'autores': ['Leonardo Boff'], 'tags': ['Ecologia / Meio Ambiente', 'Livro adulto'], 'preco': 45.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/de-cu-pra-lua/', 'titulo': 'De cu pra lua', 'edicao': 1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/desafio-do-bem-30-dias/', 'titulo': 'Desafio do bem: 30 dias', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 152, 'editora': 'Edições Loyola', 'ano': None, 'autores': ['Dra. Gisela Saviola'], 'tags': ['Culinária e Saúde'], 'preco': 44.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/desapegar-se-com-schopenhauer/', 'titulo': 'Desapegar-se com Schopenhauer', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 160, 'editora': 'Vozes', 'ano': None, 'autores': ['Céline Belloq'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 37.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/descubra-seu-proposito-desperte-seu-talento-realize-seus-sonhos-e-encontre-sentido-para-a-vida/', 'titulo': 'Descubra seu propósito: Desperte seu talento, realize seus sonhos e encontre sentido para a vida', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 184, 'editora': 'Vozes', 'ano': None, 'autores': ['Jussara Souza'], 'tags': ['Autoajuda', 'Autoajuda'], 'preco': 38.0}
+
+============ Discarded isbn due to wrong class: 7908249103670
+{'url': 'https://www.papelarianobel.com.br/produto/devocional-dose-biblica-street-inspirado-nos-livros-de-lucas-joao/', 'titulo': 'Devocional dose Bíblica – Street – Inspirado nos livros de Lucas & João', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': '7908249103670', 'numPaginas': 224, 'editora': 'MAQUINARIA STUDIO', 'ano': 2023, 'autores': ['SANKTO'], 'tags': ['Religião', 'Religioso'], 'preco': 64.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/diario-de-um-banana-batalha-neval-vol-13/'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/diario-de-uma-garota-nada-popular-vol-7/'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/dicionario-da-lingua-portuguesa-pequeno/', 'titulo': 'Dicionário da Língua Portuguesa (pequeno)', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 560, 'editora': 'Rideel (Bicho Esperto)', 'ano': 2015, 'autores': ['Cristina Klein'], 'tags': ['Dicionário'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/dificuldades-especificas-de-aprendizagem-ideias-praticas-para-trabalhar-com-dislexia-discalculia-disgrafia-dispraxia-tdah-tea-sindrome-de-asperger-e-toc/', 'titulo': 'Dificuldades específicas de aprendizagem: Ideias práticas para trabalhar com: dislexia, discalculia, disgrafia, dispraxia, Tdah, TEA, Síndrome de Asperger e TOC', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 248, 'editora': 'Vozes', 'ano': None, 'autores': ['Diana Hudson'], 'tags': ['Educação e Pedagogia', 'Livro adulto'], 'preco': 62.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/do-que-voce-realmente-precisa-para-liderar/', 'titulo': 'Do que você realmente precisa para liderar', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 192, 'editora': 'Vozes', 'ano': None, 'autores': ['Robert Steven Kaplan'], 'tags': ['Autoajuda / Administração', 'Autoajuda'], 'preco': 48.7}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/dona-benta-comer-bem-edicao-especial-completa/', 'titulo': 'Dona Benta: Comer bem – Edição especial completa', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 1120, 'editora': 'Companhia Editora Nacional', 'ano': None, 'autores': ['Vários autores'], 'tags': ['Culinária / Bolos', 'Culinária e Saúde'], 'preco': 129.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/educacao-profissional-inclusiva-uma-oportunidade-para-pessoas-com-deficiencia/', 'titulo': 'Educação profissional inclusiva: Uma oportunidade para pessoas com deficiência', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 128, 'editora': 'Vozes', 'ano': None, 'autores': ['Sandra Freitas de Souza e Maria Auxiliadora Monteiro Oliveira'], 'tags': ['Educação e Pedagogia', 'Livro adulto'], 'preco': 33.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/era-uma-vez-aprendendo-portugues/', 'titulo': 'Era uma vez… Aprendendo Português', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 64, 'editora': 'Girassol', 'ano': None, 'autores': ['Paula Furtado'], 'tags': ['Livros Didáticos', 'Livro juvenil'], 'preco': 59.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/era-uma-vez-cinderela/', 'titulo': 'Era uma vez… Cinderela', 'edicao': 1, 'serie': {'nome': ' Era Uma Vez', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Happy Books', 'ano': None, 'autores': ['Stefania Leonardi Hartley'], 'tags': ['Livro infantojuvenil', 'Livro infantil'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/era-uma-vez-o-gato-de-botas/', 'titulo': 'Era uma vez… O Gato de Botas', 'edicao': 1, 'serie': {'nome': ' Era Uma Vez', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Happy Books', 'ano': None, 'autores': ['Stefania Leonardi Hartley'], 'tags': ['Livro infantojuvenil', 'Livro infantil'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/esau-e-jaco-livro-de-bolso/', 'titulo': 'Esaú e Jacó – (Pocket)', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 312, 'editora': 'Vozes', 'ano': None, 'autores': ['Machado de Assis'], 'tags': ['Clássicos nacionais / Romance', 'Literatura brasileira', 'Livro adulto'], 'preco': 54.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/escolhas-e-impactos-gastronomia-funcional/', 'titulo': 'Escolhas e impactos: Gastronomia funcional', 'edicao': 12, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 256, 'editora': 'Edições Loyola', 'ano': None, 'autores': ['Gisela Savioli e Renato de Oliveira Caleffi'], 'tags': ['Culinária e Saúde'], 'preco': 58.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/este-e-matisse/', 'titulo': 'Este é Matisse', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 80, 'editora': 'Pinakotheke', 'ano': None, 'autores': ['Catherine Ingram'], 'tags': ['Arte / Pintura', 'Científico'], 'preco': 49.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/facil-de-apagar-alfabeto-escolinha-todolivro/', 'titulo': 'Fácil de Apagar: Alfabeto (Escolinha Todolivro)'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/felicidade-ou-morte/', 'titulo': 'Felicidade ou morte', 'edicao': 2016, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 96, 'editora': 'Número da Edição: 20ª;', 'ano': 2016, 'autores': ['Clóvis de Barro Filho e Leandro Karnal'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 34.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/gata-menina-col-do-re-mi-fa/', 'titulo': 'Gata Menina – Col. Dó-ré-mi-fá', 'edicao': 2, 'serie': {'nome': ' Dó-ré-mi-fá', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Scipione', 'ano': None, 'autores': ['Luciana Sandroni'], 'tags': ['Ficção infantojuvenil', 'Livro infantil'], 'preco': 51.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/gestao-da-saude-e-eficiencia-dos-gastos-publicos-uma-abordagem-a-luz-do-principio-da-maxima-efetividade-da-norma-constitucional/', 'titulo': 'Gestão da saúde e eficiência dos gastos públicos: Uma abordagem à luz do princípio da máxima efetividade da norma constitucional', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 176, 'editora': 'Dialética', 'ano': None, 'autores': ['Randolpho Martino Júnior'], 'tags': ['Direito / Administração Pública', 'Livro adulto'], 'preco': 59.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/ha-dois-mil-anos/', 'titulo': 'Há dois mil anos', 'edicao': 49, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 349, 'editora': 'FEB', 'ano': None, 'autores': ['Francisco Cândido Xavier'], 'tags': ['Religião', 'Religioso'], 'preco': 58.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/historias-fantasticas-e-de-medo/', 'titulo': 'Histórias fantásticas e de medo', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 128, 'editora': 'Girassol', 'ano': None, 'autores': ['Lorena Marín'], 'tags': ['Literatura infantojuvenil / Ficção', 'Livro juvenil'], 'preco': 39.9}
+
+============ Discarded isbn due to wrong class: 9798572322910
+{'url': 'https://www.papelarianobel.com.br/produto/iaia-garcia-bolso/', 'titulo': 'Iaiá Garcia – (Pocket)', 'edicao': 1, 'serie': {'nome': ' A obra-prima de cada autor – Vol. 194', 'numero': 194}, 'isbn': '9798572322910', 'numPaginas': 199, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Machado de Assis'], 'tags': ['Clássicos Nacionais / Romance', 'Literatura brasileira', 'Livro adulto'], 'preco': 24.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/iracema-2/', 'titulo': 'Iracema'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/megapad-colorir-atividades-corujas/', 'titulo': 'Megapad – Colorir & Atividades: Corujas', 'edicao': 1, 'serie': {'nome': ' Megapad – Colorir & Atividades', 'numero': None}, 'isbn': None, 'numPaginas': 48, 'editora': 'Brasileitura', 'ano': None, 'autores': ['Ana Cristina de Mattos Ribeiro'], 'tags': ['Atividades em geral', 'Livro adulto'], 'preco': 29.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/memorias-de-um-sargento-de-milicias-bolso/', 'titulo': 'Memórias de um sargento de milícias – (Pocket)', 'edicao': 6, 'serie': {'nome': 'ISBN-13: 9788572323529', 'numero': 139788572323529}, 'isbn': None, 'numPaginas': 206, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Manuel Antônio de Almeida'], 'tags': ['Clássicos Nacionais / Romance', 'Literatura brasileira'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/minha-primeira-biblia-com-a-turma-da-monica-tamanho-grande/', 'titulo': 'Minha primeira Bíblia com a Turma da Mônica – Tamanho Grande'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/minidicionario-da-lingua-portuguesa/', 'titulo': 'Minidicionário da Língua Portuguesa', 'edicao': 2, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 864, 'editora': 'FTD', 'ano': 2007, 'autores': ['Francisco da Silveira Bueno'], 'tags': ['Dicionário'], 'preco': 55.0}
+
+============ Discarded isbn due to wrong class: 7898925996972
+{'url': 'https://www.papelarianobel.com.br/produto/minutos-de-sabedoria-estilo-speki/', 'titulo': 'Minutos de sabedoria – Estilo speki', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': '7898925996972', 'numPaginas': 304, 'editora': 'VOZES', 'ano': 2013, 'autores': ['C. TORRES PASTORINO'], 'tags': ['Autoajuda', 'Autoajuda'], 'preco': 20.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/missa-do-galo-e-outros-contos-de-machado-de-assis/', 'titulo': 'Missa do galo e outros contos de Machado de Assis', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 80, 'editora': 'Editora do Brasil', 'ano': None, 'autores': ['Machado de Assis'], 'tags': ['Contos / História em Quadrinhos', 'Literatura brasileira', 'Livro juvenil'], 'preco': 68.5}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/mitologia-dos-orixas/', 'titulo': 'Mitologia dos Orixás', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 624, 'editora': 'Companhia das Letras', 'ano': None, 'autores': ['Reginaldo Prandi'], 'tags': ['Não-ficção', 'Livro adulto'], 'preco': 89.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/no-caos-da-convivencia-ideias-praticas-sobre-a-arte-de-lidar-com-os-outros/', 'titulo': 'No caos da convivência: Ideias práticas sobre a arte de lidar com os outros', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 264, 'editora': 'Vozes', 'ano': None, 'autores': ['Luís Mauro Sá Martino e Ângela Cristina Salgueiro Marques'], 'tags': ['Comunicação', 'Livro adulto'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/novo-normal-provocacoes-sobre-tempo-lideranca-relacionamento-e-o-si-mesmo/', 'titulo': 'Novo normal?: Provocações sobre tempo, liderança, relacionamento e o si-mesmo', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 160, 'editora': 'Vozes', 'ano': None, 'autores': ['Luciano Alves Meira et. all Gustavo Barcellos'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/novos-rumos-para-a-educacao-bolso/', 'titulo': 'Novos rumos para a Educação – (Pocket)', 'edicao': 1, 'serie': {'nome': 'ISBN-13: 9798572321982', 'numero': 139798572321982}, 'isbn': None, 'numPaginas': 144, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Huberto Rohden'], 'tags': ['Educação', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-8o-habito-da-eficacia-a-grandeza/', 'titulo': 'O 8º hábito: da eficácia à grandeza', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 440, 'editora': 'Alta Books', 'ano': None, 'autores': ['Stephen R. Covey'], 'tags': ['Livro adulto'], 'preco': 94.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-alienista-em-quadrinhos/', 'titulo': 'O alienista – em quadrinhos', 'edicao': 2, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 72, 'editora': 'Ática', 'ano': None, 'autores': ['Machado de Assis'], 'tags': ['Ficção / Novela / Clássico Brasileiro', 'Literatura brasileira', 'Livro juvenil'], 'preco': 69.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-alienista-casa-velha-pocket/', 'titulo': 'O Alienista / Casa velha – (Pocket)', 'edicao': 2, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 156, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Machado de Assis'], 'tags': ['Contos', 'Literatura brasileira', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-anticristo-maldicao-ao-cristianismo-livro-de-bolso/', 'titulo': 'O Anticristo: Maldição ao cristianismo (Pocket)', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 120, 'editora': 'Vozes', 'ano': None, 'autores': ['Friedrich Nietzsche'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 22.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-barulho-fantasma-col-estrelinhas-iii/', 'titulo': 'O barulho fantasma – Col. Estrelinhas (III)', 'edicao': 11, 'serie': {'nome': ' Estrelinha III', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-caminho-das-estrelas/', 'titulo': 'O caminho das estrelas', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 256, 'editora': 'Petit', 'ano': None, 'autores': ['Vera Lúcia Marinzeck'], 'tags': ['Romance espírita', 'Religioso'], 'preco': 43.5}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-caracol-viajante-col-estrelinha-ii/', 'titulo': 'O caracol viajante – Col. Estrelinha II', 'edicao': 12, 'serie': {'nome': ' Estrelinha II', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-caso-do-pote-quebrado/', 'titulo': 'O caso do pote quebrado', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 32, 'editora': 'Brinque-Book', 'ano': None, 'autores': ['Milton Célio de Oliveira Filho'], 'tags': ['Infantil', 'Livro infantil'], 'preco': 52.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-cortico-em-quadrinhos/', 'titulo': 'O cortiço: em quadrinhos', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 80, 'editora': 'Principis', 'ano': None, 'autores': ['Aluísio Azevedo'], 'tags': ['Clássico Nacional / Romance', 'Livro juvenil'], 'preco': 34.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-crime-do-padre-amaro/', 'titulo': 'O crime do Padre Amaro', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 111, 'editora': 'Scipione', 'ano': None, 'autores': ['Eça de Queiroz – Adaptação de José Louzeiro'], 'tags': ['Romance / Drama', 'Livro juvenil'], 'preco': 52.5}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-cristo-cosmico-e-os-essenios-bolso/', 'titulo': 'O Cristo cósmico e os Essênios – (Pocket)', 'edicao': 2, 'serie': {'nome': 'ISBN-13: 9788572321440', 'numero': 139788572321440}, 'isbn': None, 'numPaginas': 184, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Huberto Rohden'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-guarani-2/', 'titulo': 'O Guarani', 'edicao': 2, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 88, 'editora': 'Scipione', 'ano': None, 'autores': ['José de Alencar – Adaptação de Renata Pallottini'], 'tags': ['Romance', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-livro-do-bebe/', 'titulo': 'O Livro do Bebê'}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-lobo-do-mar-pocket/', 'titulo': 'O Lobo do Mar – (Pocket)', 'edicao': 1, 'serie': {'nome': ' A obra-prima de cada autor', 'numero': None}, 'isbn': None, 'numPaginas': 328, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Jack London'], 'tags': ['Ficção / Romance / Clássicos', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-macaco-medroso-col-estrelinha-ii/', 'titulo': 'O macaco medroso – Col. Estrelinha II', 'edicao': 13, 'serie': {'nome': ' Estrelinha II', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-macaco-que-inventava/', 'titulo': 'O macaco que inventava', 'edicao': 1, 'serie': {'nome': ' Macaco Disse', 'numero': None}, 'isbn': None, 'numPaginas': 32, 'editora': 'Formato', 'ano': None, 'autores': ['Anna Flora'], 'tags': ['Literatura infantil', 'Livro infantil'], 'preco': 68.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-medico-e-o-monstro/', 'titulo': 'O médico e o monstro', 'edicao': 12, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 76, 'editora': 'Scipione', 'ano': None, 'autores': ['Robert Louis Stevenson – Adaptação de Edla Van Steen'], 'tags': ['Terror / Suspense', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-menino-e-o-muro-col-estrelinha-ii/', 'titulo': 'O menino e o muro – Col. Estrelinha II', 'edicao': 9, 'serie': {'nome': ' Estrelinha II', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-menino-a-toupeira-a-raposa-e-o-cavalo-a-historia-em-movimento/', 'titulo': 'o Menino, a Toupeira, a Raposa e o Cavalo – a História em Movimento', 'edicao': None, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': ['Fantasia', 'Literatura estrangeira'], 'preco': 99.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-misterio-da-lua-col-estrelinha-iii/', 'titulo': 'O mistério da lua – Col. Estrelinha III', 'edicao': 12, 'serie': {'nome': ' Estrelinha III', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-mundo-e-plano-o-mundo-globalizado-no-seculo-xxi/', 'titulo': 'O mundo é plano: O mundo globalizado no século XXI', 'edicao': 3, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 640, 'editora': 'Objetiva', 'ano': None, 'autores': ['Thomas L. Friedman'], 'tags': ['Não-ficção / Globalização', 'Livro adulto'], 'preco': 69.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-peixe-pixote-col-estrelinha-iii/', 'titulo': 'O peixe Pixote – Col. Estrelinha (III)', 'edicao': 12, 'serie': {'nome': ' Estrelinha III', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-retrato-de-dorian-gray/', 'titulo': 'O retrato de Dorian Gray', 'edicao': 5, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 96, 'editora': 'Scipione', 'ano': None, 'autores': ['Oscar Wilde – Adaptação de Cláudia Lopes'], 'tags': ['Terror / Suspense', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-seminarista-bolso/', 'titulo': 'O Seminarista – (Pocket)', 'edicao': 1, 'serie': {'nome': 'ISBN-13: 9788572326032', 'numero': 139788572326032}, 'isbn': None, 'numPaginas': 144, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Bernardo Guimarães'], 'tags': ['Clássicos Nacionais / Romance', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-sonho-da-vaca-col-estrelinha-ii/', 'titulo': 'O sonho da vaca – Col. Estrelinha II', 'edicao': 10, 'serie': {'nome': ' Estrelinha II', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-susto-do-periquito-col-estrelinhas-iii/', 'titulo': 'O susto do periquito – Col. Estrelinhas (III)', 'edicao': 2, 'serie': {'nome': ' Estrelinha III', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-taro-e-o-amor-usando-as-cartas-para-compreender-nossos-relacionamentos/', 'titulo': 'O Tarô e o Amor: Usando as cartas para compreender nossos relacionamentos', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 160, 'editora': 'Jorger Zahar Editor', 'ano': None, 'autores': ['Gerd Ziegler'], 'tags': ['Relacionamento', 'Livro adulto'], 'preco': 52.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/o-velho-da-horta-farsa-de-quem-tem-farelos-farsa-chamada-auto-da-india-pocket/', 'titulo': 'O velho da Horta / Farsa de “Quem tem Farelos” / Farsa Chamada “Auto da Índia” (Pocket)', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 142, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Gil Vicente'], 'tags': ['Novela / Clássicos', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/orientando-para-a-autorrealizacao/', 'titulo': 'Orientando para a autorrealização – (Pocket)', 'edicao': 1, 'serie': {'nome': 'ISBN-13: 978-8572329361', 'numero': 139788572329361}, 'isbn': None, 'numPaginas': 176, 'editora': 'Martin Claret', 'ano': None, 'autores': ['Huberto Rohden'], 'tags': ['Filosofia', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/os-assassinatos-da-rua-morgue/', 'titulo': 'Os assassinatos da rua Morgue', 'edicao': 10, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 96, 'editora': 'Scipione', 'ano': None, 'autores': ['Edgar Allan Poe – Tradução e adaptação de Ricardo Gouveia'], 'tags': ['Suspense', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/os-inocentes/', 'titulo': 'Os inocentes', 'edicao': 8, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 94, 'editora': 'Scipione', 'ano': None, 'autores': ['Henry James – Adaptação de Cláudia Lopes'], 'tags': ['Terror / Suspense', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/os-nos-da-ansiedade/', 'titulo': 'Os nós da ansiedade', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 160, 'editora': 'Ideias e Letras', 'ano': None, 'autores': ['Thales Pereira'], 'tags': ['Autoajuda / Psicologia', 'Autoajuda'], 'preco': 19.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/paulo-e-estevao/', 'titulo': 'Paulo e Estêvão', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 311, 'editora': 'FEB', 'ano': None, 'autores': ['Francisco Cândido Xavier'], 'tags': ['Religião', 'Religioso'], 'preco': 75.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/politica-nos-tambem-sabemos-fazer/', 'titulo': 'Política: Nós também sabemos fazer', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 184, 'editora': 'Vozes', 'ano': None, 'autores': ['Clóvis de Barros Filho / Oswaldo Giacoia Junior / Viviane Mosé / Eduarda La Rocque'], 'tags': ['Ciência Política', 'Livro adulto'], 'preco': 44.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/pollyanna-moca-2/', 'titulo': 'Pollyanna moça', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 206, 'editora': 'Pandorga', 'ano': None, 'autores': ['Eleanor H. Porter'], 'tags': ['Livro juvenil'], 'preco': 39.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/quanto-lixo/', 'titulo': 'Quanto lixo!', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 64, 'editora': 'Girassol', 'ano': None, 'autores': ['Jess French'], 'tags': ['Literatura infantil', 'Livro infantil'], 'preco': 44.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/que-bicho-sera/', 'titulo': 'Que bicho será? – Col. Pingos', 'edicao': 9, 'serie': {'nome': ' Os Pingos', 'numero': None}, 'isbn': None, 'numPaginas': 16, 'editora': 'Ática', 'ano': None, 'autores': ['Mary França'], 'tags': ['Livro infantil'], 'preco': 26.7}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/quem-tem-medo-de-tempestade/', 'titulo': 'Quem tem medo de tempestade?', 'edicao': 6, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 32, 'editora': 'Scipione', 'ano': None, 'autores': ['Fanny Joly e Noël Rochut'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 55.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/razao-e-sensibilidade-2/', 'titulo': 'Razão e Sensibilidade', 'edicao': 2, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 104, 'editora': 'Scipione', 'ano': None, 'autores': ['Jane Austen – Adaptação de Lidia Cavalcante-Luther'], 'tags': ['Romance', 'Livro juvenil'], 'preco': 68.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/a-regina-e-o-magico-col-estrelinha-i/', 'titulo': 'Regina e o Mágico – Col. Estrelinha I', 'edicao': 3, 'serie': {'nome': ' Estrelinha I', 'numero': None}, 'isbn': None, 'numPaginas': 24, 'editora': 'Ática', 'ano': None, 'autores': ['Sonia Junqueira'], 'tags': ['Livro infantil', 'Livro infantil'], 'preco': 42.1}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/rei-lear-bolso/', 'titulo': 'Rei Lear – (Pocket)', 'edicao': 1, 'serie': {'nome': 'ISBN-13: 9788572324380', 'numero': 139788572324380}, 'isbn': None, 'numPaginas': 160, 'editora': 'Martin Claret', 'ano': None, 'autores': ['William Shakespeare'], 'tags': ['Clássicos Estrangeiros / Tragédia', 'Livro adulto'], 'preco': 28.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.papelarianobel.com.br/produto/retratos-de-carolina/', 'titulo': 'Retratos de Carolina', 'edicao': 1, 'serie': {'nome': None, 'numero': None}, 'isbn': None, 'numPaginas': 236, 'editora': 'Casa Lygia Bojunga', 'ano': None, 'autores': ['Lygia Bojunga'], 'tags': ['Romance juvenil', 'Livro juvenil'], 'preco': 38.0}
+
+=========================== Finalizado dados da Nobel =========================
+=========================== Unindo dados da Submarino =========================
+============ Discarded isbn due to wrong class: 7898383591078
+{'url': 'https://www.submarino.com.br/produto/7476746826/box-diario-de-um-banana-10-volumes', 'titulo': 'Box diário de um banana - 10 volumes', 'edicao': None, 'serie': None, 'isbn': '7898383591078', 'numPaginas': 224, 'editora': 'Vergara & riba', 'ano': 2021, 'autores': ['Jeff Kinney'], 'tags': [], 'preco': 231.21}
+
+============ Discarded isbn due to wrong class: 0840001932708
+{'url': 'https://www.submarino.com.br/produto/7473894588/moon-ball-bola-que-pula-incrivelmente-alto-waboba-moon-ball', 'titulo': 'Moon ball - bola que pula incrivelmente alto!! waboba moon ball', 'edicao': None, 'serie': None, 'isbn': '0840001932708', 'numPaginas': None, 'editora': 'Waboba', 'ano': None, 'autores': [], 'tags': [], 'preco': 64.9}
+
+============ Discarded isbn due to wrong class: 1031000789830
+{'url': 'https://www.submarino.com.br/produto/7369120977/kit-metafisica-da-saude-5-volumes', 'titulo': 'Kit metafísica da saúde 5 volumes', 'edicao': None, 'serie': None, 'isbn': '1031000789830', 'numPaginas': None, 'editora': 'Vida E consciencia', 'ano': None, 'autores': [], 'tags': [], 'preco': 130.48}
+
+============ Discarded isbn due to wrong class: 7898683435805
+{'url': 'https://www.submarino.com.br/produto/4261084097/conjunto-faca-ciencias-5o-ano-aluno-2a-ed', 'titulo': 'Conjunto faça - ciências - 5º ano - aluno - 2ª ed.', 'edicao': 2, 'serie': {'nome': 'FACA!', 'numero': None}, 'isbn': '7898683435805', 'numPaginas': 0, 'editora': 'FTD Educação', 'ano': 2021, 'autores': ['DIVERSOS'], 'tags': [], 'preco': 228.65}
+
+============ Discarded isbn due to wrong class: 7898683436109
+{'url': 'https://www.submarino.com.br/produto/2946377941/conjunto-faca-lingua-portuguesa-5o-ano-aluno-2a-ed', 'titulo': 'Conjunto faça - língua portuguesa - 5º ano - aluno - 2ª ed.', 'edicao': 2, 'serie': {'nome': 'FACA!', 'numero': None}, 'isbn': '7898683436109', 'numPaginas': 0, 'editora': 'FTD Educação', 'ano': 2021, 'autores': ['ANGÉLICA ALVES PRADO DEMASI'], 'tags': [], 'preco': 269.0}
+
+============ Discarded isbn due to wrong class: 7897763481794
+{'url': 'https://www.submarino.com.br/produto/2563678771/livro-mandalas-e-flores-para-colorir-e-relaxar', 'titulo': 'Mandalas & flores para colorir e relaxar', 'edicao': 1, 'serie': None, 'isbn': '7897763481794', 'numPaginas': 112, 'editora': 'Editora Lafonte', 'ano': 2020, 'autores': ['Lafonte Editora'], 'tags': ['Manuais de pintura', ' desenho e/ou arte', 'Mente', ' corpo', ' espírito'], 'preco': 20.93}
+
+============ Discarded isbn due to wrong class: 7891360900337
+{'url': 'https://www.submarino.com.br/produto/6019086991/kit-2-livros-aprenda-e-crie-seu-lettering-com-dicas-da-juh-lettering-caligrafia-criativa-para-iniciantes', 'titulo': 'Kit 2 livros aprenda e crie seu lettering com dicas da juh + lettering - caligrafia criativa para iniciantes', 'edicao': None, 'serie': None, 'isbn': '7891360900337', 'numPaginas': None, 'editora': 'Ciranda Cultural', 'ano': None, 'autores': [], 'tags': [], 'preco': 69.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/100235579/kit-3-livros-ed-e-lorraine-warren-demonologistas-arquivos-sobrenaturais-lugar-sombrio-vidas-eternas', 'titulo': 'Kit 3 livros ed & lorraine warren - demonologistas: arquivos sobrenaturais + lugar sombrio + vidas eternas', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': [], 'preco': 250.0}
+
+============ Discarded isbn due to wrong class: 4714247182219
+{'url': 'https://www.submarino.com.br/produto/2414548990/recado-adesivo-e-marcador-de-pagina-office-basics', 'titulo': 'Recado adesivo e marcador de página - office basics', 'edicao': None, 'serie': None, 'isbn': '4714247182219', 'numPaginas': None, 'editora': 'Office Basics', 'ano': None, 'autores': [], 'tags': [], 'preco': 9.99}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/115077307/livro-carrie-a-estranha'}
+
+============ Discarded isbn due to wrong class: 7803960825743
+{'url': 'https://www.submarino.com.br/produto/3895215829/homem-cao-o-marca-pagina', 'titulo': 'Homem-cão, o + marca página', 'edicao': 1, 'serie': None, 'isbn': '7803960825743', 'numPaginas': 248, 'editora': 'Companhia das Letras', 'ano': 1, 'autores': ['Pilkey', ' Dav'], 'tags': [], 'preco': 40.14}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/1428939211/kit-3-livros-maos-de-luz-cura-pela-luz-interior-luz-emergente', 'titulo': 'Kit 3 livros mãos de luz + cura pela luz interior + luz emergente', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': 'Pensamento', 'ano': None, 'autores': [], 'tags': [], 'preco': 276.0}
+
+============ Discarded isbn due to wrong class: 7898524348639
+{'url': 'https://www.submarino.com.br/produto/22145175/ativador-de-cachos-sos-coco-300ml-salon-line', 'titulo': 'Ativador de cachos sos coco 300ml - salon line', 'edicao': None, 'serie': None, 'isbn': '7898524348639', 'numPaginas': None, 'editora': 'Salon Line', 'ano': None, 'autores': [], 'tags': [], 'preco': 17.99}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/6107353156/livro-chocados-uma-historia-de-galinhas'}
+
+============ Discarded isbn due to wrong class: 7896311773121
+{'url': 'https://www.submarino.com.br/produto/7464295569/my-whey-unitario-banana-banana', 'titulo': 'My whey unitário - banana banana', 'edicao': None, 'serie': None, 'isbn': '7896311773121', 'numPaginas': None, 'editora': 'Integralmédica', 'ano': None, 'autores': [], 'tags': [], 'preco': 13.98}
+
+============ Discarded isbn due to wrong class: 7897763483651
+{'url': 'https://www.submarino.com.br/produto/4250510142/livro-jardim-das-mandalas', 'titulo': 'Jardim das mandalas', 'edicao': 1, 'serie': None, 'isbn': '7897763483651', 'numPaginas': 108, 'editora': 'Editora Lafonte', 'ano': 2021, 'autores': [], 'tags': ['Livros para colorir e/ou atividades para adultos'], 'preco': 29.9}
+
+============ Discarded isbn due to wrong class: 3558380064640
+{'url': 'https://www.submarino.com.br/produto/5190599050/timeline-brasil-jogo-de-cartas-galapagos-jogos', 'titulo': 'Timeline brasil - jogo de cartas - galápagos jogos', 'edicao': None, 'serie': None, 'isbn': '3558380064640', 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': [], 'preco': 69.9}
+
+============ Discarded isbn due to wrong class: 7898683435904
+{'url': 'https://www.submarino.com.br/produto/2946375621/conjunto-faca-geografia-5o-ano-aluno-2a-ed', 'titulo': 'Conjunto faça - geografia - 5º ano - aluno - 2ª ed.', 'edicao': 2, 'serie': {'nome': 'FACA!', 'numero': None}, 'isbn': '7898683435904', 'numPaginas': 0, 'editora': 'FTD Educação', 'ano': 2021, 'autores': ['DIVERSOS'], 'tags': [], 'preco': 269.0}
+
+============ Discarded isbn due to wrong class: 7798430765899
+{'url': 'https://www.submarino.com.br/produto/7474997412/prost-force-trata-prostata-aumentada-incotinencia-e-infeccao-urinaria-180-caps', 'titulo': 'Prost force - trata próstata aumentada, incotinência e infecção urinária 180 cáps', 'edicao': None, 'serie': None, 'isbn': '7798430765899', 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': [], 'preco': 417.22}
+
+============ Discarded isbn due to wrong class: 7898683436000
+{'url': 'https://www.submarino.com.br/produto/2946379795/conjunto-faca-historia-5o-ano-aluno-2a-ed', 'titulo': 'Conjunto faça - história - 5º ano - aluno - 2ª ed.', 'edicao': 2, 'serie': {'nome': 'FACA!', 'numero': None}, 'isbn': '7898683436000', 'numPaginas': 0, 'editora': 'FTD Educação', 'ano': 2021, 'autores': ['DIVERSOS'], 'tags': [], 'preco': 269.0}
+
+============ Discarded isbn due to wrong class: 7899091460007
+{'url': 'https://www.submarino.com.br/produto/7478022559/triciclo-escolar', 'titulo': 'Triciclo escolar', 'edicao': None, 'serie': None, 'isbn': '7899091460007', 'numPaginas': None, 'editora': 'Brinquedos Bandeirante', 'ano': None, 'autores': [], 'tags': [], 'preco': 376.35}
+
+============ Discarded isbn due to wrong class: 7891360900115
+{'url': 'https://www.submarino.com.br/produto/5698580376/kit-livros-serie-crossfire-5-livros-sylvia-day', 'titulo': 'Kit livros série crossfire (5 livros) sylvia day', 'edicao': None, 'serie': None, 'isbn': '7891360900115', 'numPaginas': None, 'editora': 'Paralela', 'ano': None, 'autores': [], 'tags': [], 'preco': 270.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/4281495002/livro-investindo-no-mercado-de-opcoes-2a-edicao', 'titulo': 'Investindo no mercado de opções – 2ª edição', 'edicao': 2, 'serie': None, 'isbn': None, 'numPaginas': 224, 'editora': 'Novatec Editora', 'ano': 2021, 'autores': ['Elvis Pfützenreuter'], 'tags': [], 'preco': 59.9}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/612497484/kit-3-livros-menina-bonita-laco-de-fita-chapeuzinho-amarelo-marcelo-marmelo-martelo', 'titulo': 'Kit 3 livros menina bonita laço de fita + chapeuzinho amarelo + marcelo, marmelo, martelo', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': 'Salamandra', 'ano': None, 'autores': [], 'tags': [], 'preco': 224.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/2991392657/kit-2-livros-christian-dunker-uma-biografia-da-depressao-o-palhaco-e-o-psicanalista', 'titulo': 'Kit 2 livros christian dunker uma biografia da depressão + o palhaço e o psicanalista', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': 'Planeta', 'ano': None, 'autores': [], 'tags': [], 'preco': 135.0}
+
+============ Discarded isbn due to wrong class: 7908428806842
+{'url': 'https://www.submarino.com.br/produto/7477648140/livro-de-questoes-gabaritadas-tj-mg-2024-analista', 'titulo': 'Livro de questões gabaritadas tj mg 2024 - analista', 'edicao': None, 'serie': None, 'isbn': '7908428806842', 'numPaginas': None, 'editora': 'Nova concursos', 'ano': None, 'autores': ['J'], 'tags': [], 'preco': 61.08}
+
+============ Discarded isbn due to wrong class: 7897355272007
+{'url': 'https://www.submarino.com.br/produto/3964575132/bolo-fake-falso-isopor-com-eva-sem-emenda-5and-branco', 'titulo': 'Bolo fake (falso) isopor com eva sem emenda 5and (branco)', 'edicao': None, 'serie': None, 'isbn': '7897355272007', 'numPaginas': None, 'editora': 'Decorplac', 'ano': None, 'autores': [], 'tags': [], 'preco': 75.47}
+
+============ Discarded isbn due to wrong class: 7896523174907
+{'url': 'https://www.submarino.com.br/produto/4210183175/kit-e-so-um-bolinho-bem-vindo-a-selva-junco', 'titulo': 'Kit é só um bolinho bem vindo a selva junco', 'edicao': None, 'serie': None, 'isbn': '7896523174907', 'numPaginas': None, 'editora': 'Junco', 'ano': None, 'autores': [], 'tags': [], 'preco': 82.62}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/3024645647/kit-3-livros-karen-mcmanus-um-de-nos-esta-mentindo-um-de-nos-e-o-proximo-mortos-nao-contam-segredos', 'titulo': 'Kit 3 livros karen mcmanus um de nós está mentindo + um de nós é o próximo + mortos não contam segredos', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': [], 'preco': 230.0}
+
+============ Discarded isbn due to wrong class: 7890668743073
+{'url': 'https://www.submarino.com.br/produto/3800723792/colecao-da-serie-trono-de-vidro-8-livros-sarah-j-maas', 'titulo': 'Coleção da série trono de vidro 8 livros sarah j. maas', 'edicao': None, 'serie': None, 'isbn': '7890668743073', 'numPaginas': None, 'editora': 'Galera', 'ano': None, 'autores': ['SARAH J. MAAS'], 'tags': [], 'preco': 590.0}
+
+============ Discarded isbn due to wrong class: 5425016926338
+{'url': 'https://www.submarino.com.br/produto/6019649660/jogo-de-tabuleiro-times-up-harry-potter-galapagos-board-game', 'titulo': 'Jogo de tabuleiro times up harry potter galápagos board game', 'edicao': None, 'serie': None, 'isbn': '5425016926338', 'numPaginas': None, 'editora': 'Galapagos', 'ano': None, 'autores': [], 'tags': [], 'preco': 159.0}
+
+============ Discarded isbn due to wrong class: 7892476449604
+{'url': 'https://www.submarino.com.br/produto/4210341760/kit-3-livro-amanda-lovelace-faca-coroa-gelo-brilhar-quebre-os-seus-sapatinhos-cristal-transformando-garotas-monstros', 'titulo': 'Kit 3 livro amanda lovelace faça coroa gelo brilhar + quebre os seus sapatinhos cristal + transformando garotas monstros', 'edicao': None, 'serie': None, 'isbn': '7892476449604', 'numPaginas': None, 'editora': 'LeYa', 'ano': None, 'autores': [], 'tags': [], 'preco': 140.0}
+
+============ Discarded isbn due to wrong class: 7896512905666
+{'url': 'https://www.submarino.com.br/produto/3456863015/shampoo-pet-azul-clareador-e-branqueador-granado-5-litros-para-caes-e-gatos', 'titulo': 'Shampoo pet azul (clareador e branqueador) granado 5 litros (para cães e gatos)', 'edicao': None, 'serie': None, 'isbn': '7896512905666', 'numPaginas': None, 'editora': 'Granado', 'ano': None, 'autores': [], 'tags': [], 'preco': 250.0}
+
+============ Discarded isbn due to wrong class: 7893189083697
+{'url': 'https://www.submarino.com.br/produto/6452063281/exame-rapido-dengue-ecodiagnostica', 'titulo': 'Exame rápido dengue ecodiagnostica', 'edicao': None, 'serie': None, 'isbn': '7893189083697', 'numPaginas': None, 'editora': 'Panvel clinic', 'ano': None, 'autores': [], 'tags': [], 'preco': 79.99}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/74094601/kit-4-livros-fred-elboni-notas-de-liberdade', 'titulo': 'Kit 4 livros fred elboni notas de liberdade', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': [], 'preco': 130.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/67537210/kit-livros-a-selecao-kiera-cass-6-livros-novos-brochura', 'titulo': 'Kit livros a seleção kiera cass - 6 livros novos brochura', 'edicao': None, 'serie': {'nome': 'A Seleção', 'numero': None}, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': ['Kiera Cass'], 'tags': [], 'preco': 270.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/3425265602/kit-4-livros-mary-pearson-cronicas-de-morrighan-the-heart-of-betrayal-the-beauty-of-darkness-the-kiss-of-deception', 'titulo': 'Kit 4 livros mary pearson crônicas de morrighan + the heart of betrayal + the beauty of darkness + the kiss of deception', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': 'Pearson', 'ano': None, 'autores': [], 'tags': [], 'preco': 320.0}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.submarino.com.br/produto/80376654/colecao-os-instrumentos-mortais-9-livros', 'titulo': 'Coleção os instrumentos mortais (9 livros)', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': None, 'ano': None, 'autores': [], 'tags': [], 'preco': 520.0}
+
+============ Discarded isbn due to wrong class: 7893334549887
+{'url': 'https://www.submarino.com.br/produto/2907583460/kit-2-livro-bridgertons-edicao-luxo-duque-e-eu-visconde', 'titulo': 'Kit 2 livro bridgertons edição luxo duque e eu + visconde', 'edicao': None, 'serie': None, 'isbn': '7893334549887', 'numPaginas': None, 'editora': 'Arqueiro', 'ano': None, 'autores': ['Julia Quinn'], 'tags': [], 'preco': 155.0}
+
+============ Discarded isbn due to wrong class: 7909527274372
+{'url': 'https://www.submarino.com.br/produto/5893026223/tenis-fila-recovery-masculino-corrida-caminhada', 'titulo': 'Tênis fila recovery - preto/azul/laranja', 'edicao': None, 'serie': None, 'isbn': '7909527274372', 'numPaginas': None, 'editora': 'Fila', 'ano': None, 'autores': [], 'tags': [], 'preco': 379.0}
+
+=========================== Finalizado dados da Submarino =========================
+=========================== Unindo dados da Livrarias Cultura =========================
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/vinte-mil-leguas-submarinas-2112182195/p', 'titulo': 'VINTE MIL LÉGUAS SUBMARINAS', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 34.9}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/vinte-mil-leguas-submarinas-2112182195/p', 'titulo': 'VINTE MIL LÉGUAS SUBMARINAS', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 34.9}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/swin-chanel-no01-9091993/p', 'titulo': 'SWIN CHANEL - Nº01', 'edicao': '2013', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 2013, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/finasa-esportes-11020439/p', 'titulo': 'FINASA ESPORTES', 'edicao': '2008', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 2008, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/flyfishing-1351009/p', 'titulo': 'FLYFISHING', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/team-building-29716592/p', 'titulo': 'TEAM BUILDING', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/camisa-brasileira-5101465/p', 'titulo': 'CAMISA BRASILEIRA', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/o-menino-no-espelho-53513/p', 'titulo': 'O MENINO NO ESPELHO', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 65.89}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/vou-morar-em-outro-pais-e-agora-870001847/p', 'titulo': 'VOU MORAR EM OUTRO PAIS. E AGORA?', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 12.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/relato-de-viagens-de-lazer-e-de-interesse-33061626/p', 'titulo': 'RELATO DE VIAGENS DE LAZER E DE INTERESSE', 'edicao': '1', 'isbn': '', 'numPaginas': 300, 'editora': 'EDIÇAO DO AUTOR', 'ano': 2013, 'autores': ['KNECHTEL, MARIA DO ROSARIO', 'KLAS, ARTHUR ORLANDO'], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/colecao-guia-7-dias-volume-2-recife-olinda-e-porto-de-galinhas-46329283/p', 'titulo': 'COLEÇÃO GUIA 7 DIAS VOLUME 2: RECIFE, OLINDA E PORTO DE GALINHAS', 'edicao': '2016', 'isbn': '', 'numPaginas': 82, 'editora': '', 'ano': 2016, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/nossas-viagens-brasileiras-5029866/p', 'titulo': 'NOSSAS VIAGENS BRASILEIRAS', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/viagens-de-negocios-que-negocio-e-esse-40044956/p', 'titulo': 'VIAGENS DE NEGÓCIOS: QUE NEGÓCIO E ESSE?', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/viajando-de-bicicleta-mundo-afora-2112306919/p', 'titulo': 'VIAJANDO DE BICICLETA: MUNDO AFORA', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/olhar-estrangeiro-nova-iorque-5073529/p', 'titulo': 'OLHAR ESTRANGEIRO - NOVA IORQUE', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+============ Discarded book due to non-existant isbn:
+{'URL': 'https://www.livrariacultura.com.br/drama-johan-van-der-keuken-complete-collection-vol-2-van-der-keuken-johan-9036289/p', 'titulo': 'JOHAN VAN DER KEUKEN: COMPLETE COLLECTION, VOL. 2', 'edicao': '', 'isbn': '', 'numPaginas': 0, 'editora': '', 'ano': 0, 'autores': [], 'preco': 0.0}
+
+=========================== Finalizado dados da Livrarias Cultura =========================
+=========================== Unindo dados da Livrarias Curitiba =========================
+============ Discarded isbn due to wrong class: 7896572039646
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-1-0mm-4-cores-jetlux-mentos-compactor-blister-pp070199/p', 'titulo': 'Caneta Esferográfica 1.0mm 4 Cores Jetlux Mentos Compactor Blister', 'edicao': '0', 'serie': None, 'isbn': '7896572039646', 'numPaginas': None, 'editora': 'COMPACTOR', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 10.8, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891360673163
+{'url': 'https://www.livrariascuritiba.com.br/lapis-de-cor-100-cores-supersoft-ecolapis-pp066331/p', 'titulo': 'Lápis De Cor 100 Cores Supersoft Ecolápis', 'edicao': '0', 'serie': None, 'isbn': '7891360673163', 'numPaginas': None, 'editora': 'FABER CASTELL', 'ano': '1900', 'autores': ['null'], 'tags': ['Lápis de Cor'], 'preco': 224.1, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898520008292
+{'url': 'https://www.livrariascuritiba.com.br/caneta-hidrografica-dual-brush-magic-06-cores-lc101-640-lyke-blister-pp065722/p', 'titulo': 'Caneta Hidrográfica Dual Brush Magic 06 Cores Lc101-640 Lyke Blister', 'edicao': '0', 'serie': None, 'isbn': '7898520008292', 'numPaginas': None, 'editora': 'LYKE', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Hidrográfica'], 'preco': 32.3, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0889698675345
+{'url': 'https://www.livrariascuritiba.com.br/star-wars---darth-vader--597----funko-in030401/p', 'titulo': 'Star Wars - Darth Vader (597) - Funko', 'edicao': '0', 'serie': None, 'isbn': '0889698675345', 'numPaginas': None, 'editora': 'FUNKO', 'ano': '1900', 'autores': ['null'], 'tags': ['Geek'], 'preco': 149.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778233012
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-letra-f-pp065074/p', 'titulo': 'Balão Metalizado 40cm Arco-Íris Letra F', 'edicao': '0', 'serie': None, 'isbn': '7897778233012', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778020018
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-u-pp064989/p', 'titulo': 'Balão Metalizado 40cm Dourado Letra U', 'edicao': '0', 'serie': None, 'isbn': '7897778020018', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7909438035642
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-spiro-glow-diversas-cores-pp066131/p', 'titulo': 'Caneta Esferográfica 0.7mm Spiro Glow Diversas Cores', 'edicao': '0', 'serie': None, 'isbn': '7909438035642', 'numPaginas': '0', 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 5.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.livrariascuritiba.com.br/eu-posso-ouvir--veiculos-de-resgate-lv506579/p', 'titulo': 'Eu Posso Ouvir: Veículos De Resgate', 'edicao': '1', 'serie': None, 'isbn': 'EU POSSO O', 'numPaginas': '10', 'editora': 'HAPPY BOOKS', 'ano': '2023', 'autores': ['LAKE PRESS'], 'tags': ['Literatura Infantil'], 'preco': 39.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788574067545
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-capitao-cueca-1-2-e-3-kt000032/p', 'titulo': 'Coleção Especial - Capitão Cueca  1, 2 e 3', 'edicao': None, 'serie': None, 'isbn': '9788574067545', 'numPaginas': None, 'editora': 'CIA DAS LETRINHAS', 'ano': None, 'autores': ['DAV PILKEY'], 'tags': ['Literatura Infantil'], 'preco': 106.96, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891430204792
+{'url': 'https://www.livrariascuritiba.com.br/dvd-jads---jadson---balada-bruta--dvd---cd--av107836/p', 'titulo': 'Dvd Jads & Jadson - Balada Bruta (Dvd + Cd)', 'edicao': '0', 'serie': None, 'isbn': '7891430204792', 'numPaginas': None, 'editora': 'SOM LIVRE', 'ano': '2017', 'autores': ['null'], 'tags': ['Shows DVD'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 4006381105316
+{'url': 'https://www.livrariascuritiba.com.br/caneta-preta-stabilo-pp022938/p', 'titulo': 'Caneta Preta Stabilo', 'edicao': '0', 'serie': None, 'isbn': '4006381105316', 'numPaginas': '0', 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Hidrográfica'], 'preco': 10.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036519
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-musgo-fashion-color-aquarela-silk-513-acrilex-pp065169/p', 'titulo': 'Tinta Tecido 60ml Verde Musgo Fashion Color Aquarela Silk 513 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036519', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036175
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-violeta-fashion-color-aquarela-silk-516-acrilex-pp065171/p', 'titulo': 'Tinta Tecido 60ml Violeta Fashion Color Aquarela Silk 516 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036175', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0742832503938
+{'url': 'https://www.livrariascuritiba.com.br/cd-edu-chociay-e-assim-2015-av100370/p', 'titulo': 'Cd Edu Chociay - É Assim - 2015', 'edicao': '0', 'serie': None, 'isbn': '0742832503938', 'numPaginas': None, 'editora': 'RICARDO CHOCIAY', 'ano': '2015', 'autores': None, 'tags': ['Sertanejo'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891040105335
+{'url': 'https://www.livrariascuritiba.com.br/fita-empacotamento-scotch-45x45cm-transparente-pp033591/p', 'titulo': 'Fita Empacotamento Scotch 45x45cm Transparente - Fita Empacotamento Scotch 45mmx45m Transparente', 'edicao': '0', 'serie': None, 'isbn': '7891040105335', 'numPaginas': None, 'editora': '3M', 'ano': '1900', 'autores': ['null'], 'tags': ['Fitas Adesivas'], 'preco': 9.8, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 6923520246717
+{'url': 'https://www.livrariascuritiba.com.br/fone-bluetooth-tws-w160t-preto---edifier-in031049/p', 'titulo': 'Fone Bluetooth Tws W160t Preto - Edifier', 'edicao': '0', 'serie': None, 'isbn': '6923520246717', 'numPaginas': None, 'editora': 'EDIFIER', 'ano': '1900', 'autores': None, 'tags': ['Fones'], 'preco': 199.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891173025067
+{'url': 'https://www.livrariascuritiba.com.br/papel-sulfite-a4-50-folhas-chamequinho-pp066070/p', 'titulo': 'Papel Sulfite A4 50 Folhas Chamequinho', 'edicao': '0', 'serie': None, 'isbn': '7891173025067', 'numPaginas': None, 'editora': 'INTERNATIONAL', 'ano': '1900', 'autores': ['null'], 'tags': ['Papel Escolar'], 'preco': 11.3, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7909438033617
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-bpx-preta-76-1112-cis-sertic-pp066563/p', 'titulo': 'Caneta Esferográfica 0.7mm Bpx Preta 76.1112 Cis Sertic', 'edicao': '0', 'serie': None, 'isbn': '7909438033617', 'numPaginas': '0', 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 5.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778416019
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-100cm-rosa-interrogacao-pp064882/p', 'titulo': 'Balão Metalizado 100cm Rosa Interrogação', 'edicao': '0', 'serie': None, 'isbn': '7897778416019', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 3.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891634013916
+{'url': 'https://www.livrariascuritiba.com.br/bloco-desenho-escolar-a4-20f-140g-br-1391-filiperson-pp057515/p', 'titulo': 'Bloco Desenho Escolar A4 20f 140g Br 1391 Filiperson', 'edicao': '0', 'serie': None, 'isbn': '7891634013916', 'numPaginas': None, 'editora': 'FILIPERSON NACIONAL', 'ano': '1900', 'autores': ['null'], 'tags': ['Blocos Escolares'], 'preco': 8.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891246022436
+{'url': 'https://www.livrariascuritiba.com.br/album-para-adesivos-10-folhas-brancas-diversas-capas-coloridas-21x14cm-mania-pp069606/p', 'titulo': 'Álbum Para Adesivos 10 Folhas Brancas Diversas Capas Coloridas 21x14cm Mania', 'edicao': '0', 'serie': None, 'isbn': '7891246022436', 'numPaginas': None, 'editora': 'MANIA DE STICKER', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Anotações'], 'preco': 6.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576836903
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-8-9-e-10-kt000048/p', 'titulo': 'Coleção Especial - Diário de um banana 8, 9 e 10', 'edicao': None, 'serie': None, 'isbn': '9788576836903', 'numPaginas': None, 'editora': 'Vergara e Riba', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 117.36, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 9990000361335
+{'url': 'https://www.livrariascuritiba.com.br/cordao-autismo-girassol-com-engate-pp070949/p', 'titulo': 'Cordão Autismo Girassol Com Engate', 'edicao': '0', 'serie': None, 'isbn': '9990000361335', 'numPaginas': None, 'editora': 'TOPCOR', 'ano': '1900', 'autores': ['null'], 'tags': ['Crachás'], 'preco': 8.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 4902506349675
+{'url': 'https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-infree-retratil-preta-pp069697/p', 'titulo': 'Caneta Gel 0,5mm Energel Infree Retrátil Preta', 'edicao': '0', 'serie': None, 'isbn': '4902506349675', 'numPaginas': None, 'editora': 'PENTEL', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Gel'], 'preco': 20.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899340745893
+{'url': 'https://www.livrariascuritiba.com.br/cd-joao-bosco---vinicius-ceu-de-sao-paulo-av105116/p', 'titulo': 'Cd João Bosco & Vinícius - Céu De São Paulo', 'edicao': '0', 'serie': None, 'isbn': '7899340745893', 'numPaginas': None, 'editora': 'RADAR RECORDS', 'ano': '2016', 'autores': None, 'tags': ['Sertanejo'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891246033470
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferogafica-gato-rabinho-diversas-cores-mania-de-sticker-12c-pp070829/p', 'titulo': 'Caneta Esferogáfica Gato Rabinho Diversas Cores Mania De Sticker 12c', 'edicao': '0', 'serie': None, 'isbn': '7891246033470', 'numPaginas': None, 'editora': 'MANIA DE STICKER', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 8.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891360679417
+{'url': 'https://www.livrariascuritiba.com.br/caneta-marca-texto-grifpen-ressaltadores-15-cores-pp068413/p', 'titulo': 'Caneta Marca Texto Grifpen Ressaltadores 15 Cores', 'edicao': '0', 'serie': None, 'isbn': '7891360679417', 'numPaginas': None, 'editora': 'FABER CASTELL', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Marca Texto'], 'preco': 89.2, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896008984724
+{'url': 'https://www.livrariascuritiba.com.br/jogo-de-cartas-baralho-naipe-espanhol-br001361/p', 'titulo': 'Jogo De Cartas Baralho Naipe Espanhol', 'edicao': '0', 'serie': None, 'isbn': '7896008984724', 'numPaginas': None, 'editora': 'COPAG', 'ano': '1900', 'autores': None, 'tags': ['Baralhos e Cartas'], 'preco': 14.2, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 9990000309313
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-azul-cristal-1-0mm-ponta-media-bic-pp032542/p', 'titulo': 'Caneta Esferográfica Azul Cristal 1.0mm Ponta Média Bic', 'edicao': '0', 'serie': None, 'isbn': '9990000309313', 'numPaginas': '0', 'editora': 'BIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 1.4, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576832295
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-1-2-e-3-jeff-kinney-vergara-e-riba-kt000200/p', 'titulo': 'Coleção Especial - Diário de um banana 1, 2 e 3', 'edicao': None, 'serie': None, 'isbn': '9788576832295', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899340745534
+{'url': 'https://www.livrariascuritiba.com.br/cd-loubet-made-in-roca-av103715/p', 'titulo': 'Cd Loubet - Made In Roça', 'edicao': '0', 'serie': None, 'isbn': '7899340745534', 'numPaginas': None, 'editora': 'RADAR RECORDS', 'ano': '2016', 'autores': None, 'tags': ['Sertanejo'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896578976280
+{'url': 'https://www.livrariascuritiba.com.br/bloco-de-mesa-planner-semanal-fitness-24f-76028-dustfest-pp065940/p', 'titulo': 'Bloco De Mesa Planner Semanal Fitness 24f 76028 Dustfest', 'edicao': '0', 'serie': None, 'isbn': '7896578976280', 'numPaginas': None, 'editora': 'DUSTER FESTAS', 'ano': '1900', 'autores': ['null'], 'tags': ['Bloco Lembrete'], 'preco': 6.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 6931759287623
+{'url': 'https://www.livrariascuritiba.com.br/mala-de-viagem-hogwarts-harry-potter-preta-luxel-pp068721/p', 'titulo': 'Mala De Viagem Hogwarts Harry Potter Preta Luxel', 'edicao': '0', 'serie': None, 'isbn': '6931759287623', 'numPaginas': None, 'editora': 'MAXLOG', 'ano': '1900', 'autores': ['null'], 'tags': ['Malas de Viagem'], 'preco': 349.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153035994
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-vermelho-carmim-fashion-color-aquarela-silk-509-acrilex-pp065166/p', 'titulo': 'Tinta Tecido 60ml Vermelho Carmim Fashion Color Aquarela Silk 509 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153035994', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 1.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891321105580
+{'url': 'https://www.livrariascuritiba.com.br/caderno-sketchbook-44-folhas-150-gramas-espiral-the-national-gallery-sem-pauta-sd-pp070310/p', 'titulo': 'Caderno Sketchbook 44 Folhas 150 Gramas Espiral The National Gallery Sem Pauta Sd', 'edicao': '0', 'serie': None, 'isbn': '7891321105580', 'numPaginas': None, 'editora': 'SAO DOMINGOS', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Sketchbook'], 'preco': 34.3, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898611683247
+{'url': 'https://www.livrariascuritiba.com.br/palito-para-espeto-churrasco-com-100-unidades-pp069690/p', 'titulo': 'Palito Para Espeto Churrasco Com 100 Unidades', 'edicao': '0', 'serie': None, 'isbn': '7898611683247', 'numPaginas': None, 'editora': 'NOVA', 'ano': '1900', 'autores': ['null'], 'tags': ['Armarinhos'], 'preco': 12.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0618231951901
+{'url': 'https://www.livrariascuritiba.com.br/batman-unleashed-deluxe---dc-comics---art-scale-1-10---iron-studios-in031241/p', 'titulo': 'Batman Unleashed Deluxe - Dc Comics - Art Scale 1/10 - Iron Studios', 'edicao': '0', 'serie': None, 'isbn': '0618231951901', 'numPaginas': None, 'editora': 'IRON STUDIOS', 'ano': '1900', 'autores': ['null'], 'tags': ['Geek'], 'preco': 1259.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0884851006714
+{'url': 'https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-azul-pp067567/p', 'titulo': 'Caneta Gel 0,5mm Energel Azul', 'edicao': '0', 'serie': None, 'isbn': '0884851006714', 'numPaginas': None, 'editora': 'PENTEL', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Gel'], 'preco': 11.0, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788550703642
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-16-17-e-18-kt000453/p', 'titulo': 'Coleção Especial - Diário de um banana 16, 17 e 18', 'edicao': None, 'serie': None, 'isbn': '9788550703642', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infantil'], 'preco': 143.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0193015522459
+{'url': 'https://www.livrariascuritiba.com.br/cartucho-hp-667--3ym79al--preto---2ml-in027822/p', 'titulo': 'Cartucho Hp 667 (3ym79al) Preto - 2ml', 'edicao': '0', 'serie': None, 'isbn': '0193015522459', 'numPaginas': '0', 'editora': 'HP BRASIL', 'ano': '1900', 'autores': ['null'], 'tags': ['Cartuchos e Tonners'], 'preco': 69.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891027322694
+{'url': 'https://www.livrariascuritiba.com.br/adesivo-sticker-duplo-now-united-tilibra-pp065372/p', 'titulo': 'Adesivo Sticker Duplo Now United Tilibra', 'edicao': '0', 'serie': None, 'isbn': '7891027322694', 'numPaginas': None, 'editora': 'TILIBRA', 'ano': '1900', 'autores': ['null'], 'tags': ['Adesivo / Stickers'], 'preco': 0.4, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897256217473
+{'url': 'https://www.livrariascuritiba.com.br/bloco-anotacoes-adesivo-transparente-1-unidade-diversas-cores-pp069502/p', 'titulo': 'Bloco Anotações Adesivo Transparente 1 Unidade Diversas Cores', 'edicao': '0', 'serie': None, 'isbn': '7897256217473', 'numPaginas': None, 'editora': 'LEONORA', 'ano': '1900', 'autores': ['null'], 'tags': ['Blocos e Guias'], 'preco': 3.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0887256111908
+{'url': 'https://www.livrariascuritiba.com.br/just-dance-2022---xbox-one-e-series-x-in028626/p', 'titulo': 'Just Dance 2022 - Xbox One E Series X', 'edicao': '0', 'serie': None, 'isbn': '0887256111908', 'numPaginas': None, 'editora': 'UBISOFT', 'ano': '1900', 'autores': ['null'], 'tags': ['Jogos'], 'preco': 149.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0711719503477
+{'url': 'https://www.livrariascuritiba.com.br/dreams---ps4-in027033/p', 'titulo': 'Dreams - Ps4', 'edicao': '0', 'serie': None, 'isbn': '0711719503477', 'numPaginas': None, 'editora': 'MEDIA MOLECULE', 'ano': '2020', 'autores': ['null'], 'tags': ['Jogos'], 'preco': 49.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896326931295
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-neotip-azul-cis-sertic-avulso-pp070846/p', 'titulo': 'Caneta Esferográfica 0.7mm Neotip Azul Cis Sertic Avulso', 'edicao': '0', 'serie': None, 'isbn': '7896326931295', 'numPaginas': None, 'editora': 'SERTIC', 'ano': '1900', 'autores': None, 'tags': ['Caneta Esferográfica'], 'preco': 2.3, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 4050538322248
+{'url': 'https://www.livrariascuritiba.com.br/cd-fergie-double-dutchess-av107091/p', 'titulo': 'Cd Fergie - Double Dutchess', 'edicao': '0', 'serie': None, 'isbn': '4050538322248', 'numPaginas': None, 'editora': 'WARNER MUSIC', 'ano': '2017', 'autores': None, 'tags': ['Pop / Rock Internacional'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7909438035666
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-azul-0-7mm-spiro-gem-cis-52-0621-sertic-pp066567/p', 'titulo': 'Caneta Esferográfica Azul 0.7mm Spiro Gem Cis 52.0621 Sertic', 'edicao': '0', 'serie': None, 'isbn': '7909438035666', 'numPaginas': '0', 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 5.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-15-16-e-17/p', 'titulo': 'Coleção Especial - Diário de um banana 15, 16 e 17', 'edicao': None, 'serie': None, 'isbn': None, 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': '9788550703634', 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 125.36, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778018015
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-s-pp064866/p', 'titulo': 'Balão Metalizado 40cm Dourado Letra S', 'edicao': '0', 'serie': None, 'isbn': '7897778018015', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898650390564
+{'url': 'https://www.livrariascuritiba.com.br/marcadores-adesivo-8-cores-neon-80-folhas-pp069237/p', 'titulo': 'Marcadores Adesivo 8 Cores Neon 80 Folhas', 'edicao': '0', 'serie': None, 'isbn': '7898650390564', 'numPaginas': None, 'editora': 'PALUMA DISTRIBUIDORA', 'ano': '1900', 'autores': ['null'], 'tags': ['Post-It'], 'preco': 1.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891246071137
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferogafica-com-6-cores-harry-potter-1-unidade-diversos-modelos-mania-de-sticker-pp070685/p', 'titulo': 'Caneta Esferogáfica Com 6 Cores Harry Potter 1 Unidade Diversos Modelos Mania De Sticker', 'edicao': '0', 'serie': None, 'isbn': '7891246071137', 'numPaginas': None, 'editora': 'MANIA DE STICKER', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 25.4, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7895099706956
+{'url': 'https://www.livrariascuritiba.com.br/capa-e-contracapa-a5-agatha-caderno-inteligente-pp068946/p', 'titulo': 'Capa E Contracapa A5 Agatha Caderno Inteligente', 'edicao': '0', 'serie': None, 'isbn': '7895099706956', 'numPaginas': None, 'editora': 'NOVITATE - CADERNO INTELIGENTE', 'ano': '1900', 'autores': ['null'], 'tags': ['Pasta Acessórios'], 'preco': 29.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036533
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-terra-queimada-fashion-color-aquarela-silk-514-acrilex-pp065170/p', 'titulo': 'Tinta Tecido 60ml Terra Queimada Fashion Color Aquarela Silk 514 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036533', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778373015
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-100cm-vermelho-numero-5-pp065088/p', 'titulo': 'Balão Metalizado 100cm Vermelho Número 5', 'edicao': '0', 'serie': None, 'isbn': '7897778373015', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 3.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7894494757402
+{'url': 'https://www.livrariascuritiba.com.br/caderno-inteligente-80f-a5-by-harry-potter-novitate-pp069873/p', 'titulo': 'Caderno Inteligente 80f A5 By Harry Potter Novitate', 'edicao': '0', 'serie': None, 'isbn': '7894494757402', 'numPaginas': None, 'editora': 'NOVITATE - CADERNO INTELIGENTE', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Discos'], 'preco': 114.2, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778019012
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-t-pp064988/p', 'titulo': 'Balão Metalizado 40cm Dourado Letra T', 'edicao': '0', 'serie': None, 'isbn': '7897778019012', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891027305239
+{'url': 'https://www.livrariascuritiba.com.br/caderneta-espiral-60f-organizer-pp063398/p', 'titulo': 'Caderneta Espiral 60f Organizer', 'edicao': '0', 'serie': None, 'isbn': '7891027305239', 'numPaginas': '0', 'editora': 'TILIBRA', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernetas'], 'preco': 5.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896030892639
+{'url': 'https://www.livrariascuritiba.com.br/copo-para-agua-180ml-100un-abnt-copobras-pp051082/p', 'titulo': 'Copo Para Água 180ml 100un Abnt Copobras', 'edicao': '0', 'serie': None, 'isbn': '7896030892639', 'numPaginas': None, 'editora': 'COPOBRAS S/A', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 9.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896192333544
+{'url': 'https://www.livrariascuritiba.com.br/pokemon-box-escartale-e-violeta---zapdos-ex---copag-in030667/p', 'titulo': 'Pokemon Box Escartale E Violeta - Zapdos Ex - Copag', 'edicao': '0', 'serie': None, 'isbn': '7896192333544', 'numPaginas': None, 'editora': 'COPAG', 'ano': '1900', 'autores': ['null'], 'tags': ['Card Games'], 'preco': 99.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036359
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-vivo-fashion-color-aquarela-silk-558-acrilex-pp065180/p', 'titulo': 'Tinta Tecido 60ml Verde Vivo Fashion Color Aquarela Silk 558 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036359', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0081159477462
+{'url': 'https://www.livrariascuritiba.com.br/cd-the-chanceller-synth-electro-bass--cd---dvd--av092854/p', 'titulo': 'Cd The Chanceller - Synth/electro/bass (cd + Dvd)', 'edicao': '0', 'serie': None, 'isbn': '0081159477462', 'numPaginas': None, 'editora': None, 'ano': '2013', 'autores': None, 'tags': ['Eletrônica'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576833926
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-15-16-e-faca-voce-mesmo-kt000205/p', 'titulo': 'Coleção Especial - Diário de um banana 15, 16 e faça você mesmo', 'edicao': None, 'serie': None, 'isbn': '9788576833926', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897476681105
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-eu-comigo-livro-de-colorir-kt004450-/p', 'titulo': 'Coleção Especial - Eu comigo - Livro de colorir', 'edicao': None, 'serie': None, 'isbn': '7897476681105', 'numPaginas': None, 'editora': 'VIDA E CONSCIENCIA', 'ano': None, 'autores': ['ZIBIA GASPARETTO'], 'tags': ['Para Colorir'], 'preco': 55.92, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778002014
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-c-pp064973/p', 'titulo': 'Balão Metalizado 40cm Dourado Letra C', 'edicao': '0', 'serie': None, 'isbn': '7897778002014', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897476681102
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-cabeca-fria-coracao-quente--kt004446/p', 'titulo': 'Coleção Especial - Cabeça Fria Coração quente', 'edicao': None, 'serie': None, 'isbn': '7897476681102', 'numPaginas': None, 'editora': 'GAROA', 'ano': None, 'autores': ['ABEL FERREIRA'], 'tags': ['Futebol'], 'preco': 99.84, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576832769
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-3-4-e-5-kt000201/p', 'titulo': 'Coleção Especial - Diário de um banana 3, 4 e 5', 'edicao': None, 'serie': None, 'isbn': '9788576832769', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897373148896
+{'url': 'https://www.livrariascuritiba.com.br/nos-nao-testamos-este-troco-cinetico-in030892/p', 'titulo': 'Nós Não Testamos Este Troço Cinético', 'edicao': '0', 'serie': None, 'isbn': '7897373148896', 'numPaginas': None, 'editora': 'BURO', 'ano': '2023', 'autores': ['null'], 'tags': ['Board Games'], 'preco': 99.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788574069160
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-homem-cao-7-8-e-9-kt000084-/p', 'titulo': 'Coleção Especial - Homem Cão - 7, 8 e 9', 'edicao': None, 'serie': None, 'isbn': '9788574069160', 'numPaginas': None, 'editora': 'CIA DAS LETRINHAS', 'ano': None, 'autores': ['DAV PILKEY'], 'tags': ['Literatura Infantil'], 'preco': 115.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788550703643
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-as-aventuras-de-mike-6-volumes-kt000454/p', 'titulo': 'Coleção Especial - As Aventuras de Mike - 6 volumes', 'edicao': None, 'serie': None, 'isbn': '9788550703643', 'numPaginas': None, 'editora': 'OUTRO PLANETA', 'ano': '2019 a 2023', 'autores': ['MANU DIGILO e GABRIEL DEARO'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 240.77, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891027322748
+{'url': 'https://www.livrariascuritiba.com.br/caderno-sem-pauta-a4-50-folhas-sketchbook-espiral-academie-pp065317/p', 'titulo': 'Caderno Sem Pauta A4 50 Folhas Sketchbook Espiral Académie', 'edicao': '0', 'serie': None, 'isbn': '7891027322748', 'numPaginas': None, 'editora': 'TILIBRA', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Sketchbook'], 'preco': 41.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778298011
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-100cm-dourado-numero-6-pp064870/p', 'titulo': 'Balão Metalizado 100cm Dourado Número 6', 'edicao': '0', 'serie': None, 'isbn': '7897778298011', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 3.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898650390403
+{'url': 'https://www.livrariascuritiba.com.br/bloco-de-anotacoes-adesivo-amarelo-neon-com-100-folhas-7-5x7-5cm-plm-pp069222/p', 'titulo': 'Bloco De Anotações Adesivo Amarelo Neon Com 100 Folhas 7,5x7,5cm Plm', 'edicao': '0', 'serie': None, 'isbn': '7898650390403', 'numPaginas': None, 'editora': 'PALUMA DISTRIBUIDORA', 'ano': '1900', 'autores': ['null'], 'tags': ['Post-It'], 'preco': 2.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896054032233
+{'url': 'https://www.livrariascuritiba.com.br/quebra-cabeca-500-pecas-nano-postais-do-mundo-egito-piramides-de-gize-br004147/p', 'titulo': 'Quebra-Cabeça 500 Peças Nano Postais Do Mundo Egito Pirâmides De Gizé', 'edicao': '0', 'serie': None, 'isbn': '7896054032233', 'numPaginas': None, 'editora': 'TOYSTER', 'ano': '1900', 'autores': ['null'], 'tags': ['Quebra-Cabeças'], 'preco': 40.6, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576833081
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-5-6-e-7-kt000047/p', 'titulo': 'Coleção Especial - Diário de um banana 5, 6 e 7', 'edicao': None, 'serie': None, 'isbn': '9788576833081', 'numPaginas': None, 'editora': 'Vergara e Riba', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 117.36, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded book due to non-existant isbn:
+{'url': 'https://www.livrariascuritiba.com.br/antimedo-lv504363/p', 'titulo': 'Antimedo', 'edicao': '1', 'serie': None, 'isbn': '6587817432, 6587817432', 'numPaginas': '96', 'editora': 'CAMELOT EDITORA', 'ano': '2021', 'autores': ['PABLO MARCAL'], 'tags': ['Negócios'], 'preco': 75.0, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899785583432
+{'url': 'https://www.livrariascuritiba.com.br/diario-com-chave-stitch-48-folhas-pp069861/p', 'titulo': 'Diário Com Chave Stitch 48 Folhas', 'edicao': '0', 'serie': None, 'isbn': '7899785583432', 'numPaginas': None, 'editora': 'VMP EMBALAGENS.', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos'], 'preco': 44.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7908045127962
+{'url': 'https://www.livrariascuritiba.com.br/jogo-de-xadrez-dama-e-gamao-dobravel-madeira-39x39cm-pr012836/p', 'titulo': 'Jogo De Xadrez Dama E Gamao Dobrável Madeira 39x39cm', 'edicao': '0', 'serie': None, 'isbn': '7908045127962', 'numPaginas': None, 'editora': 'BOM DIA COMPRAS', 'ano': '1900', 'autores': None, 'tags': ['Brinquedos e Presentes'], 'preco': 499.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898306084366
+{'url': 'https://www.livrariascuritiba.com.br/papel-fotografico-dupla-face-a4-220g-20folhas-00062-off-paper-pp055607/p', 'titulo': 'Papel Fotografico Dupla Face A4 220g 20folhas 00062 Off Paper', 'edicao': '0', 'serie': None, 'isbn': '7898306084366', 'numPaginas': None, 'editora': 'OFF PAPER', 'ano': '1900', 'autores': ['null'], 'tags': ['Papel Para Foto'], 'preco': 36.8, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898635857259
+{'url': 'https://www.livrariascuritiba.com.br/sacola-de-tecido-ecobag-eu-amo-livros-pr012221/p', 'titulo': 'Sacola De Tecido Ecobag Eu Amo Livros', 'edicao': '0', 'serie': None, 'isbn': '7898635857259', 'numPaginas': None, 'editora': 'MR FLY', 'ano': '1900', 'autores': ['null'], 'tags': ['Gifts'], 'preco': 16.1, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788550702477
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-12-13-e-14-kt000204/p', 'titulo': 'Coleção Especial - Diário de um banana 12, 13 e 14', 'edicao': None, 'serie': None, 'isbn': '9788550702477', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788550701449
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-11-12-e-13-kt000049/p', 'titulo': 'Coleção Especial - Diário de um banana 11, 12 e 13', 'edicao': None, 'serie': None, 'isbn': '9788550701449', 'numPaginas': None, 'editora': 'Vergara e Riba', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 117.36, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0097855186249
+{'url': 'https://www.livrariascuritiba.com.br/teclado-wireless-k380-layout-us-grafite---logitech-in030814/p', 'titulo': 'Teclado Wireless K380 Layout Us Grafite - Logitech', 'edicao': '0', 'serie': None, 'isbn': '0097855186249', 'numPaginas': None, 'editora': 'LOGITECH', 'ano': '1900', 'autores': ['null'], 'tags': ['Teclados'], 'preco': 249.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153037929
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-siena-natural-fashion-color-aquarela-silk-539-acrilex-pp065178/p', 'titulo': 'Tinta Tecido 60ml Siena Natural Fashion Color Aquarela Silk 539 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153037929', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7900126112805
+{'url': 'https://www.livrariascuritiba.com.br/harry-potter---hermione-granger--167----funko-in031470/p', 'titulo': 'Harry Potter - Hermione Granger (167) - Funko', 'edicao': '0', 'serie': None, 'isbn': '7900126112805', 'numPaginas': None, 'editora': 'FUNKO', 'ano': '1900', 'autores': None, 'tags': ['Geek'], 'preco': 149.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891430175597
+{'url': 'https://www.livrariascuritiba.com.br/dvd-luan-santana---1977-av104965/p', 'titulo': 'Dvd Luan Santana - 1977', 'edicao': '0', 'serie': None, 'isbn': '7891430175597', 'numPaginas': None, 'editora': 'SOM LIVRE', 'ano': '2016', 'autores': ['null'], 'tags': ['Shows DVD'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896572039660
+{'url': 'https://www.livrariascuritiba.com.br/caneta-marca-texto-destaq-mentos-4-cores-pastel-compactor-blister-pp070200/p', 'titulo': 'Caneta Marca Texto Destaq Mentos 4 Cores Pastel Compactor Blister', 'edicao': '0', 'serie': None, 'isbn': '7896572039660', 'numPaginas': None, 'editora': 'COMPACTOR', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Marca Texto'], 'preco': 19.0, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898957272013
+{'url': 'https://www.livrariascuritiba.com.br/papel-sulfite-print-papiro-a4-resma-500f-pp058769/p', 'titulo': 'Papel Sulfite Print Papiro A4 Resma 500f', 'edicao': '0', 'serie': None, 'isbn': '7898957272013', 'numPaginas': None, 'editora': 'PAPÉIS JARAGUÁ EIRELI', 'ano': '1900', 'autores': ['null'], 'tags': ['Papel Escolar'], 'preco': 24.6, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036151
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-bandeira-fashion-color-aquarela-silk-511-acrilex-pp065168/p', 'titulo': 'Tinta Tecido 60ml Verde Bandeira Fashion Color Aquarela Silk 511 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036151', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7894494757419
+{'url': 'https://www.livrariascuritiba.com.br/refil-para-caderno-inteligente-harry-potter-pautadas-grande-pp069886/p', 'titulo': 'Refil Para Caderno Inteligente Harry Potter Pautadas Grande', 'edicao': '0', 'serie': None, 'isbn': '7894494757419', 'numPaginas': None, 'editora': 'CIBOUND COMERCIO DE ARTIGOS DE PAPELARIA LTDA', 'ano': '1900', 'autores': ['null'], 'tags': ['Fichário / Bloco / Divisória'], 'preco': 35.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896640479749
+{'url': 'https://www.livrariascuritiba.com.br/jogo-da-memoria-24-pecas-harry-potter-br002915/p', 'titulo': 'Jogo Da Memória 24 Peças Harry Potter', 'edicao': '0', 'serie': None, 'isbn': '7896640479749', 'numPaginas': None, 'editora': 'XALINGO', 'ano': '1900', 'autores': ['null'], 'tags': ['Jogos da Memória'], 'preco': 33.8, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896008935139
+{'url': 'https://www.livrariascuritiba.com.br/jogo-de-cartas-baralho-com-55-cartas-dunga-copag-br003702/p', 'titulo': 'Jogo De Cartas Baralho Com 55 Cartas Dunga Copag', 'edicao': '0', 'serie': None, 'isbn': '7896008935139', 'numPaginas': None, 'editora': 'COPAG', 'ano': '1900', 'autores': None, 'tags': ['Baralhos e Cartas'], 'preco': 13.2, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898133859809
+{'url': 'https://www.livrariascuritiba.com.br/sacola-tecido-ecobag-preguica-pr014362/p', 'titulo': 'Sacola Tecido Ecobag Preguiça', 'edicao': '0', 'serie': None, 'isbn': '7898133859809', 'numPaginas': None, 'editora': 'HAPPY INDUSTRIA E COMERCIO DE ARTESANATOS LTDA', 'ano': '1900', 'autores': ['null'], 'tags': ['Gifts'], 'preco': 23.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576833681
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-6-7-e-8-kt000202/p', 'titulo': 'Coleção Especial - Diário de um banana 6, 7 e 8', 'edicao': None, 'serie': None, 'isbn': '9788576833681', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576833927
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-1-ao-17-livro-de-atividades-kt000333/p', 'titulo': 'Coleção Especial - Diário de um banana 1 ao 17 + Livro de atividades', 'edicao': None, 'serie': None, 'isbn': '9788576833927', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 718.56, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898133859816
+{'url': 'https://www.livrariascuritiba.com.br/sacola-tecido-ecobag-cachorro-pr014363/p', 'titulo': 'Sacola Tecido Ecobag Cachorro', 'edicao': '0', 'serie': None, 'isbn': '7898133859816', 'numPaginas': None, 'editora': 'HAPPY INDUSTRIA E COMERCIO DE ARTESANATOS LTDA', 'ano': '1900', 'autores': ['null'], 'tags': ['Gifts'], 'preco': 23.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788555341620
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-4-livros-heartstopper-alice-oseman-kt000156/p', 'titulo': 'Coleção Especial 4 Livros - Heartstopper', 'edicao': None, 'serie': None, 'isbn': '9788555341620', 'numPaginas': None, 'editora': 'CIA DAS LETRAS', 'ano': '2022', 'autores': ['ALICE OSEMAN'], 'tags': ['História em Quadrinhos'], 'preco': 194.31, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896054032226
+{'url': 'https://www.livrariascuritiba.com.br/quebra-cabeca-500-pecas-nano-postais-do-mundo-peru-machu-picchu-br004146/p', 'titulo': 'Quebra-Cabeça 500 Peças Nano Postais Do Mundo Peru Machu Picchu', 'edicao': '0', 'serie': None, 'isbn': '7896054032226', 'numPaginas': None, 'editora': 'TOYSTER', 'ano': '1900', 'autores': ['null'], 'tags': ['Quebra-Cabeças'], 'preco': 40.6, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0888751782426
+{'url': 'https://www.livrariascuritiba.com.br/cd-bruninho---davi-depois-das-3-av102169/p', 'titulo': 'Cd Bruninho & Davi - Depois Das 3', 'edicao': '0', 'serie': None, 'isbn': '0888751782426', 'numPaginas': None, 'editora': 'SONY MUSIC', 'ano': '2015', 'autores': None, 'tags': ['Sertanejo'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898957272020
+{'url': 'https://www.livrariascuritiba.com.br/papel-sulfite-a4-100f-printpapiro-pp069586/p', 'titulo': 'Papel Sulfite A4 100f Printpapiro', 'edicao': '0', 'serie': None, 'isbn': '7898957272020', 'numPaginas': None, 'editora': 'PAPÉIS JARAGUÁ EIRELI', 'ano': '1900', 'autores': ['null'], 'tags': ['Papel Escolar'], 'preco': 5.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576834848
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-7-8-e-9-kt000324/p', 'titulo': 'Coleção Especial - Diário de um banana 7, 8 e 9', 'edicao': None, 'serie': None, 'isbn': '9788576834848', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788594541681
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-terror-ed-e-lorraine-warren-kt000092/p', 'titulo': 'Coleção Especial Terror - Ed e Lorraine Warren', 'edicao': None, 'serie': None, 'isbn': '9788594541681', 'numPaginas': None, 'editora': 'DARKSIDE', 'ano': None, 'autores': ['DIVERSOS'], 'tags': ['Suspense e Terror'], 'preco': 255.68, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788543107203
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-3-livros-um-novo-olhar-pra-vida-/p', 'titulo': 'Coleção Especial 3 Livros - Um novo olhar pra vida', 'edicao': None, 'serie': None, 'isbn': '9788543107203', 'numPaginas': None, 'editora': 'SEXTANTE', 'ano': None, 'autores': ['ANA CLAUDIA QUINTANA ARANTES'], 'tags': ['Autoajuda'], 'preco': 107.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891360654124
+{'url': 'https://www.livrariascuritiba.com.br/lapis-de-cor-50-cores-supersoft-ecolapis-pp063805/p', 'titulo': 'Lápis De Cor 50 Cores Supersoft Ecolápis', 'edicao': '0', 'serie': None, 'isbn': '7891360654124', 'numPaginas': None, 'editora': 'FABER CASTELL', 'ano': '1900', 'autores': ['null'], 'tags': ['Lápis de Cor'], 'preco': 116.1, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9786559811398
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-colleen-hoover-e-assim-que-acaba-e-comeca-kt000346/p', 'titulo': 'Coleção Especial - Colleen Hoover - É assim que acaba e começa', 'edicao': None, 'serie': None, 'isbn': '9786559811398', 'numPaginas': None, 'editora': 'GALERA', 'ano': '2017 e 2022', 'autores': ['COLLEEN HOOVER'], 'tags': ['Romance'], 'preco': 79.84, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891027322793
+{'url': 'https://www.livrariascuritiba.com.br/caderno-sem-pauta-a5-50-folhas-150gr-322792-sketchbook-espiral-academie-tilibra-pp065316/p', 'titulo': 'Caderno Sem Pauta A5 50 Folhas 150gr 322792 Sketchbook Espiral Académie Tilibra', 'edicao': '0', 'serie': None, 'isbn': '7891027322793', 'numPaginas': '0', 'editora': 'TILIBRA', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Sketchbook'], 'preco': 39.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898914324182
+{'url': 'https://www.livrariascuritiba.com.br/etiqueta-vade-mecum-tradicional-60-unidades-marca-facil-pp030463/p', 'titulo': 'Etiqueta Vade Mecum Tradicional 60 Unidades Marca Fácil', 'edicao': '0', 'serie': None, 'isbn': '7898914324182', 'numPaginas': None, 'editora': 'MARCA FACIL', 'ano': '1900', 'autores': ['null'], 'tags': ['Etiquetas Adesivas'], 'preco': 29.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898707148834
+{'url': 'https://www.livrariascuritiba.com.br/caneta-marca-texto-retratil-tom-pastel-diversos-modelos-pp070110/p', 'titulo': 'Caneta Marca Texto Retrátil Tom Pastel Diversos Modelos', 'edicao': '0', 'serie': None, 'isbn': '7898707148834', 'numPaginas': None, 'editora': 'BRW', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Marca Texto'], 'preco': 9.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0884851006653
+{'url': 'https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-preta-bln105-an-pentel-avulso-pp067572/p', 'titulo': 'Caneta Gel 0,5mm Energel Preta Bln105-An Pentel Avulso', 'edicao': '0', 'serie': None, 'isbn': '0884851006653', 'numPaginas': '0', 'editora': 'PENTEL', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Gel'], 'preco': 11.0, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778013010
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-n-pp064984/p', 'titulo': 'Balão Metalizado 40cm Dourado Letra N', 'edicao': '0', 'serie': None, 'isbn': '7897778013010', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788574068481
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-homem-cao-4-5-e-6-kt000212/p', 'titulo': 'Coleção Especial - Homem Cão - 4, 5 e 6', 'edicao': None, 'serie': None, 'isbn': '9788574068481', 'numPaginas': None, 'editora': 'CIA DAS LETRINHAS', 'ano': None, 'autores': ['DAV PILKEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 114.96, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7908673902962
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-holic-dreamy-diversos-modelos-tris-avulso-pp070058/p', 'titulo': 'Caneta Esferográfica 0,7mm Holic Dreamy Diversos Modelos Tris Avulso', 'edicao': '0', 'serie': None, 'isbn': '7908673902962', 'numPaginas': None, 'editora': 'SUMMIT', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 3.2, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0097855185624
+{'url': 'https://www.livrariascuritiba.com.br/mouse-pebble-2-m350s-grafite---logitech-in030811/p', 'titulo': 'Mouse Pebble 2 M350s Grafite - Logitech', 'edicao': '0', 'serie': None, 'isbn': '0097855185624', 'numPaginas': None, 'editora': 'LOGITECH', 'ano': '1900', 'autores': ['null'], 'tags': ['Mouses'], 'preco': 123.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891191790008
+{'url': 'https://www.livrariascuritiba.com.br/papel-sulfite-report-75g-a4-500fl-resma-pp049916/p', 'titulo': 'Papel Sulfite Report 75g A4 500fl Resma', 'edicao': '0', 'serie': None, 'isbn': '7891191790008', 'numPaginas': '0', 'editora': 'SUZANO PAPEL E CELULOSE S/A', 'ano': '1900', 'autores': ['null'], 'tags': ['Papel Escolar'], 'preco': 28.1, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 8000825016608
+{'url': 'https://www.livrariascuritiba.com.br/giz-branco-para-quadro-negro-giotto-robercolor-10-palitos-canson-pp068289/p', 'titulo': 'Giz Branco Para Quadro Negro Giotto Robercolor 10 Palitos Canson', 'edicao': '0', 'serie': None, 'isbn': '8000825016608', 'numPaginas': None, 'editora': 'CANSON BRASIL', 'ano': '1900', 'autores': ['null'], 'tags': ['Giz / Apagador'], 'preco': 3.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788565765016
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-6-livros-a-selecao-kt000003/p', 'titulo': 'Coleção Especial 6 Livros - A seleção', 'edicao': None, 'serie': None, 'isbn': '9788565765016', 'numPaginas': None, 'editora': 'SEGUINTE', 'ano': None, 'autores': ['KIERA CASS'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 203.52, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898563610377
+{'url': 'https://www.livrariascuritiba.com.br/cd-mixtape-find-your-own-way-2012-av087940/p', 'titulo': 'Cd Mixtape - Find Your Own Way - 2012', 'edicao': '0', 'serie': None, 'isbn': '7898563610377', 'numPaginas': None, 'editora': None, 'ano': '2012', 'autores': None, 'tags': ['Eletrônica'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899838843551
+{'url': 'https://www.livrariascuritiba.com.br/base-para-notebook-gamer-warrior-lothaire-com-led---cooler--ac327----multilaser-in025414/p', 'titulo': 'Base Para Notebook Gamer Warrior Lothaire Com Led - Cooler (Ac327) - Multilaser', 'edicao': '0', 'serie': None, 'isbn': '7899838843551', 'numPaginas': None, 'editora': 'MULTILASER (*)', 'ano': '1900', 'autores': ['null'], 'tags': ['Acessórios Notebook'], 'preco': 199.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899866823495
+{'url': 'https://www.livrariascuritiba.com.br/caderno-criativo-argolado-joia-natural-100f-pautado-insecta-noite-cicero-pp070217/p', 'titulo': 'Caderno Criativo Argolado Joia Natural 100f Pautado Insecta Noite Cicero', 'edicao': '0', 'serie': None, 'isbn': '7899866823495', 'numPaginas': None, 'editora': 'CICERO PAPELARIA', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Fichário'], 'preco': 116.1, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898923264080
+{'url': 'https://www.livrariascuritiba.com.br/kit-com-50-figurinhas--sendo-10-envelopes-com-5-figurinhas-cada--nao-acompanha-album--lv514452/p', 'titulo': 'Kit Com 50 Figurinhas, Sendo 10 Envelopes Com 5 Figurinhas Cada. Não Acompanha Álbum.', 'edicao': '1', 'serie': None, 'isbn': '7898923264080', 'numPaginas': '1', 'editora': 'PIXEL', 'ano': '2024', 'autores': ['LUIZ PHELLIPE'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 30.8, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897771050708
+{'url': 'https://www.livrariascuritiba.com.br/mini-canetas-marca-texto-div-cores-10507-gatte-avulso-pp069975/p', 'titulo': 'Mini Canetas Marca Texto Div Cores 10507 Gatte Avulso', 'edicao': '0', 'serie': None, 'isbn': '7897771050708', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Marca Texto'], 'preco': 2.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7900126111006
+{'url': 'https://www.livrariascuritiba.com.br/naruto-shippuden---konan--1508----funko-in031064/p', 'titulo': 'Naruto Shippuden - Konan (1508) - Funko', 'edicao': '0', 'serie': None, 'isbn': '7900126111006', 'numPaginas': None, 'editora': 'FUNKO', 'ano': '1900', 'autores': ['null'], 'tags': ['Geek'], 'preco': 149.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7908489400751
+{'url': 'https://www.livrariascuritiba.com.br/pelucia-stitch-20cm-disney-f00775-fun-br003591/p', 'titulo': 'Pelúcia Stitch 20cm Disney F00775 Fun', 'edicao': '0', 'serie': None, 'isbn': '7908489400751', 'numPaginas': None, 'editora': 'FUN', 'ano': '1900', 'autores': None, 'tags': ['Pelucias Geral'], 'preco': 132.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036250
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-rosa-fashion-color-aquarela-silk-537-acrilex-pp065177/p', 'titulo': 'Tinta Tecido 60ml Rosa Fashion Color Aquarela Silk 537 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036250', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': ['null'], 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778108013
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-vermelho-numero-6-pp065054/p', 'titulo': 'Balão Metalizado 40cm Vermelho Número 6', 'edicao': '0', 'serie': None, 'isbn': '7897778108013', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788546501039
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-voce-pode-curar-sua-vida-sacola-kt000132/p', 'titulo': 'Coleção Especial - Você pode curar sua vida + Sacola mães', 'edicao': None, 'serie': None, 'isbn': '9788546501039', 'numPaginas': '256', 'editora': 'BEST SELLER', 'ano': None, 'autores': ['LOUISE L. HAY'], 'tags': ['Autoajuda'], 'preco': 39.04, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788576838235
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-9-10-e-11-kt000203/p', 'titulo': 'Coleção Especial - Diário de um banana  9, 10 e 11', 'edicao': None, 'serie': None, 'isbn': '9788576838235', 'numPaginas': None, 'editora': 'VERGARA E RIBA', 'ano': None, 'autores': ['JEFF KINNEY'], 'tags': ['Literatura Infanto Juvenil'], 'preco': 119.76, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7895098728614
+{'url': 'https://www.livrariascuritiba.com.br/refil-para-caderno-inteligente-pautadas-grande-50f-pp060613/p', 'titulo': 'Refil Para Caderno Inteligente Pautadas Grande 50f', 'edicao': '0', 'serie': None, 'isbn': '7895098728614', 'numPaginas': None, 'editora': 'NOVITATE - CADERNO INTELIGENTE', 'ano': '1900', 'autores': ['null'], 'tags': ['Fichário / Bloco / Divisória'], 'preco': 31.6, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899790233148
+{'url': 'https://www.livrariascuritiba.com.br/cantil-emborrachado-500ml-profissao-professora-1616-brasfoot-pr013704/p', 'titulo': 'Cantil Emborrachado 500ml Profissao Professora 1616 Brasfoot', 'edicao': '0', 'serie': None, 'isbn': '7899790233148', 'numPaginas': None, 'editora': 'BRASFOOT PRESENTES RS', 'ano': '1900', 'autores': ['null'], 'tags': ['Garrafas e Squezzes'], 'preco': 99.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7909438050447
+{'url': 'https://www.livrariascuritiba.com.br/cola-bastao-fun-13g-diversos-modelos-cis-pp069574/p', 'titulo': 'Cola Bastão Fun 13g Diversos Modelos Cis', 'edicao': '0', 'serie': None, 'isbn': '7909438050447', 'numPaginas': None, 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Colas'], 'preco': 8.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to verifier: 9788550703646
+{'url': 'https://www.livrariascuritiba.com.br/colecao-especial-antes-que-o-cafe-esfrie-kt000457/p', 'titulo': 'Coleção Especial - Antes que o café esfrie', 'edicao': None, 'serie': None, 'isbn': '9788550703646', 'numPaginas': None, 'editora': 'VALENTINA', 'ano': '2022 e 2023', 'autores': ['TOSHIKAZU KAWAGUCHI'], 'tags': ['Autoajuda'], 'preco': 97.06, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7909438042183
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-0-4mm-minus-preta-cis-sertic-avulso-pp068092/p', 'titulo': 'Caneta Esferográfica 0.4mm Minus Preta Cis Sertic Avulso', 'edicao': '0', 'serie': None, 'isbn': '7909438042183', 'numPaginas': '0', 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7890579540020
+{'url': 'https://www.livrariascuritiba.com.br/mini-luminaria-luz-de-led-para-leitura-com-clip-prendedor-loop-pr012859/p', 'titulo': 'Mini Luminaria Luz De Led Para Leitura Com Clip Prendedor Loop', 'edicao': '0', 'serie': None, 'isbn': '7890579540020', 'numPaginas': None, 'editora': 'LOOP PRESENTES CRIATIVOS LTDA', 'ano': '1900', 'autores': ['null'], 'tags': ['Luminárias'], 'preco': 20.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 3000030623504
+{'url': 'https://www.livrariascuritiba.com.br/bandeira-do-brasil-70x140cm-pr013714/p', 'titulo': 'Bandeira Do Brasil 70x140cm', 'edicao': '0', 'serie': None, 'isbn': '3000030623504', 'numPaginas': None, 'editora': 'UDAY', 'ano': '1900', 'autores': ['null'], 'tags': ['Gifts'], 'preco': 12.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896326933473
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-1-0mm-neotip-preta-cis-sertic-avulso-pp069511/p', 'titulo': 'Caneta Esferográfica 1.0mm Neotip Preta Cis Sertic Avulso', 'edicao': '0', 'serie': None, 'isbn': '7896326933473', 'numPaginas': None, 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 2.3, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896192336408
+{'url': 'https://www.livrariascuritiba.com.br/pokemon-escarlate-e-violeta-4---booster-unitario---fenda-paradoxal-in030704/p', 'titulo': 'Pokémon Escarlate E Violeta 4 - Booster Unitário - Fenda Paradoxal', 'edicao': '0', 'serie': None, 'isbn': '7896192336408', 'numPaginas': '0', 'editora': 'COPAG', 'ano': '2023', 'autores': ['null'], 'tags': ['Cardgames'], 'preco': 8.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778265013
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-simbolo---pp065068/p', 'titulo': 'Balão Metalizado 40cm Arco-Íris Símbolo &', 'edicao': '0', 'serie': None, 'isbn': '7897778265013', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778410017
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-100cm-rosa-numero-4-pp064885/p', 'titulo': 'Balão Metalizado 100cm Rosa Número 4', 'edicao': '0', 'serie': None, 'isbn': '7897778410017', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 3.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778241017
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-letra-n-pp065081/p', 'titulo': 'Balão Metalizado 40cm Arco-Íris Letra N', 'edicao': '0', 'serie': None, 'isbn': '7897778241017', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 0097855158024
+{'url': 'https://www.livrariascuritiba.com.br/mouse-wireless-pro-x-superlight-preto---logitech-g-in029440/p', 'titulo': 'Mouse Wireless Pro X Superlight Preto - Logitech G', 'edicao': '0', 'serie': None, 'isbn': '0097855158024', 'numPaginas': None, 'editora': 'LOGITECH', 'ano': '1900', 'autores': ['null'], 'tags': ['Mouses'], 'preco': 799.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891173023001
+{'url': 'https://www.livrariascuritiba.com.br/papel-sulfite-chamex-a4-resma-500-folhas-pp000189/p', 'titulo': 'Papel Sulfite Chamex A4 Resma 500 Folhas', 'edicao': '0', 'serie': None, 'isbn': '7891173023001', 'numPaginas': '0', 'editora': 'INTERNATIONAL', 'ano': '1900', 'autores': ['null'], 'tags': ['Papel Escolar'], 'preco': 28.0, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 4902506382160
+{'url': 'https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-infree-retratil-vermelha-pentel-pp069698/p', 'titulo': 'Caneta Gel 0,5mm Energel Infree Retrátil Vermelha Pentel', 'edicao': '0', 'serie': None, 'isbn': '4902506382160', 'numPaginas': None, 'editora': 'PENTEL', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Gel'], 'preco': 20.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036397
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-vinho-fashion-color-aquarela-silk-565-acrilex-pp065181/p', 'titulo': 'Tinta Tecido 60ml Vinho Fashion Color Aquarela Silk 565 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036397', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7908067170113
+{'url': 'https://www.livrariascuritiba.com.br/dvd-joao-bosco---vinicius---segura-maracaju--dvd---cd--av108774/p', 'titulo': 'Dvd João Bosco & Vinícius - Segura Maracaju (Dvd + Cd)', 'edicao': '0', 'serie': None, 'isbn': '7908067170113', 'numPaginas': None, 'editora': 'RADAR RECORDS', 'ano': '2018', 'autores': ['null'], 'tags': ['Shows DVD'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153035871
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-azul-turquesa-fashion-color-aquarela-silk-501-acrilex-pp065161/p', 'titulo': 'Tinta Tecido 60ml Azul Turquesa Fashion Color Aquarela Silk 501 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153035871', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778293016
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-100cm-dourado-numero-1-pp064868/p', 'titulo': 'Balão Metalizado 100cm Dourado Número 1', 'edicao': '0', 'serie': None, 'isbn': '7897778293016', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 8.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778247019
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-letra-t-pp064853/p', 'titulo': 'Balão Metalizado 40cm Arco-Íris Letra T', 'edicao': '0', 'serie': None, 'isbn': '7897778247019', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036557
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-marrom-fashion-color-aquarela-silk-531-acrilex-pp065175/p', 'titulo': 'Tinta Tecido 60ml Marrom Fashion Color Aquarela Silk 531 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036557', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899320355104
+{'url': 'https://www.livrariascuritiba.com.br/fita-colorida-12mmx10m-preta-sicad-eurocel-blister-pp069277/p', 'titulo': 'Fita Colorida 12mmx10m Preta Sicad Eurocel Blister', 'edicao': '0', 'serie': None, 'isbn': '7899320355104', 'numPaginas': None, 'editora': 'SICAD DO BRASIL FITAS AUTO ADESIVAS LT', 'ano': '1900', 'autores': ['null'], 'tags': ['Fitas Adesivas'], 'preco': 1.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7898675504359
+{'url': 'https://www.livrariascuritiba.com.br/bloco-adesivo-smart-notes-zoo-30f-avulso-pp065985/p', 'titulo': 'Bloco Adesivo Smart Notes Zoo 30f Avulso', 'edicao': '0', 'serie': None, 'isbn': '7898675504359', 'numPaginas': None, 'editora': 'BRW', 'ano': '1900', 'autores': ['null'], 'tags': ['Post-It'], 'preco': 3.8, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7891153036137
+{'url': 'https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-folha-fashion-color-aquarela-silk-510-acrilex-pp065167/p', 'titulo': 'Tinta Tecido 60ml Verde Folha Fashion Color Aquarela Silk 510 Acrilex', 'edicao': '0', 'serie': None, 'isbn': '7891153036137', 'numPaginas': None, 'editora': 'ACRILEX S/A', 'ano': '1900', 'autores': None, 'tags': ['Tintas'], 'preco': 2.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7896326931301
+{'url': 'https://www.livrariascuritiba.com.br/caneta-esferografica-0-7-mm-neotip-preta-pp069510/p', 'titulo': 'Caneta Esferográfica 0.7 Mm Neotip Preta', 'edicao': '0', 'serie': None, 'isbn': '7896326931301', 'numPaginas': None, 'editora': 'SERTIC', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Esferográfica'], 'preco': 2.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7897778008016
+{'url': 'https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-i-pp064979/p', 'titulo': 'Balão Metalizado 40cm Dourado Letra I', 'edicao': '0', 'serie': None, 'isbn': '7897778008016', 'numPaginas': None, 'editora': 'EVA MAIS', 'ano': '1900', 'autores': ['null'], 'tags': ['Artigos Para Festas'], 'preco': 1.5, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7899866813335
+{'url': 'https://www.livrariascuritiba.com.br/caderno-fichario-criativo-17x24cm-100-folhas-minerais-marmore-cicero-pp065821/p', 'titulo': 'Caderno Fichario Criativo 17x24cm 100 Folhas Minerais Marmore Cicero', 'edicao': '0', 'serie': None, 'isbn': '7899866813335', 'numPaginas': '0', 'editora': 'CICERO PAPELARIA', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Fichário'], 'preco': 125.1, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 4007817323199
+{'url': 'https://www.livrariascuritiba.com.br/caneta-hidro-1-0mm-triplus-color-preta-323-9-staedtler-pp066270/p', 'titulo': 'Caneta Hidro 1.0mm Triplus Color Preta 323-9 Staedtler', 'edicao': '0', 'serie': None, 'isbn': '4007817323199', 'numPaginas': None, 'editora': 'STAEDTLER DO BRASIL', 'ano': '1900', 'autores': ['null'], 'tags': ['Caneta Hidrográfica'], 'preco': 9.7, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7908347112062
+{'url': 'https://www.livrariascuritiba.com.br/caderno-universitario-1x1-80f-capa-dura-stitch-wire-o-culturama-pp070769/p', 'titulo': 'Caderno Universitário 1x1 80f Capa Dura Stitch Wire-O Culturama', 'edicao': '0', 'serie': None, 'isbn': '7908347112062', 'numPaginas': None, 'editora': 'CULTURAMA EDITORA E DISTRIBUIDORA LTDA', 'ano': '1900', 'autores': ['null'], 'tags': ['Cadernos - Universitário 1x1'], 'preco': 26.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+============ Discarded isbn due to wrong class: 7908584500691
+{'url': 'https://www.livrariascuritiba.com.br/copo-slim-canudo-500ml-vai-brasil-amarelo-cl0088-lumni-pr013437/p', 'titulo': 'Copo Slim Canudo 500ml Vai Brasil Amarelo Cl0088 Lumni', 'edicao': '0', 'serie': None, 'isbn': '7908584500691', 'numPaginas': None, 'editora': 'LUMNI PRESENTES LTDA', 'ano': '1900', 'autores': ['null'], 'tags': ['Copos'], 'preco': 4.9, 'nota': {'notaFinal': None, 'qtdVotos': None}}
+
+=========================== Finalizado dados da Livrarias Curitiba =========================
