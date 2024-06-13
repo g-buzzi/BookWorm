@@ -207,8 +207,8 @@ def run():
     fig.savefig('graphs/livros_por_fontes.png')
     plt.cla()
 
-    print(f'Total de livros {graph_data['todos']['total']}')
-    print(f'Total de livros únicos {graph_data['todos']['unique']}')
+    print(f'Total de livros {graph_data["todos"]["total"]}')
+    print(f'Total de livros únicos {graph_data["todos"]["unique"]}')
 
 
         

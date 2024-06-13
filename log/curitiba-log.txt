@@ -1,82 +1,4633 @@
 ====================================== Link Extraction =========================================
 ===================== Processando a página 0...
 Processando página 1....
-- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=0&_to=14
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=0&_to=48
 
-====================================== Total de livro a serem processados: 15
+===================== Processando a página 1...
+Processando página 2....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=49&_to=97
+
+===================== Processando a página 2...
+Processando página 3....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=98&_to=146
+
+===================== Processando a página 3...
+Processando página 4....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=147&_to=195
+
+===================== Processando a página 4...
+Processando página 5....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=196&_to=244
+
+===================== Processando a página 5...
+Processando página 6....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=245&_to=293
+
+===================== Processando a página 6...
+Processando página 7....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=294&_to=342
+
+===================== Processando a página 7...
+Processando página 8....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=343&_to=391
+
+===================== Processando a página 8...
+Processando página 9....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=392&_to=440
+
+===================== Processando a página 9...
+Processando página 10....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=441&_to=489
+
+===================== Processando a página 10...
+Processando página 11....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=490&_to=538
+
+===================== Processando a página 11...
+Processando página 12....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=539&_to=587
+
+===================== Processando a página 12...
+Processando página 13....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=588&_to=636
+
+===================== Processando a página 13...
+Processando página 14....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=637&_to=685
+
+===================== Processando a página 14...
+Processando página 15....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=686&_to=734
+
+===================== Processando a página 15...
+Processando página 16....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=735&_to=783
+
+===================== Processando a página 16...
+Processando página 17....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=784&_to=832
+
+===================== Processando a página 17...
+Processando página 18....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=833&_to=881
+
+===================== Processando a página 18...
+Processando página 19....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=882&_to=930
+
+===================== Processando a página 19...
+Processando página 20....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=931&_to=979
+
+===================== Processando a página 20...
+Processando página 21....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=980&_to=1028
+
+===================== Processando a página 21...
+Processando página 22....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1029&_to=1077
+
+===================== Processando a página 22...
+Processando página 23....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1078&_to=1126
+
+===================== Processando a página 23...
+Processando página 24....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1127&_to=1175
+
+===================== Processando a página 24...
+Processando página 25....
+- Link: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+
+====================================== Total de livro a serem processados: 1225
 ====================================== Data Extraction =========================================
 
 ===================== Livro 0
-- Link: https://www.livrariascuritiba.com.br/memorias-postumas-de-bras-cubas-lv486265/p
+- Link: https://www.livrariascuritiba.com.br/um-defeito-de-cor-lv199779/p
 
 
 ===================== Livro 1
-- Link: https://www.livrariascuritiba.com.br/noiva---edicao-luxo---com-brinde-lv512963/p
+- Link: https://www.livrariascuritiba.com.br/boa-noite--lua-lv512312/p
 
 
 ===================== Livro 2
-- Link: https://www.livrariascuritiba.com.br/orar-faz-muito-bem--lv512865/p
+- Link: https://www.livrariascuritiba.com.br/as-bencaos-do-meu-avo-lv489211/p
 
 
 ===================== Livro 3
-- Link: https://www.livrariascuritiba.com.br/diversao-na-escola---espaco-lv518071/p
+- Link: https://www.livrariascuritiba.com.br/one-piece-106-lv511635/p
 
 
 ===================== Livro 4
-- Link: https://www.livrariascuritiba.com.br/bluey-hora-de-brincar-lv517963/p
-
-
-===================== Livro 5
-- Link: https://www.livrariascuritiba.com.br/amor-em-jogo---ecobag-lv516604/p
-
-
-===================== Livro 6
-- Link: https://www.livrariascuritiba.com.br/os-bridgertons---um-amor-de-familia-lv482857/p
-
-
-===================== Livro 7
-- Link: https://www.livrariascuritiba.com.br/o-alienista---edicao-de-luxo-lv480484/p
-
-
-===================== Livro 8
-- Link: https://www.livrariascuritiba.com.br/bolofofos-colorindo-especial-lv518068/p
-
-
-===================== Livro 9
-- Link: https://www.livrariascuritiba.com.br/rainha-charlotte-lv501292/p
-
-
-===================== Livro 10
-- Link: https://www.livrariascuritiba.com.br/breve-historia-da-arte-moderna-lv516661/p
-
-
-===================== Livro 11
-- Link: https://www.livrariascuritiba.com.br/cafe-com-deus-pai-porcoes-diarias-de-paz-2024-lv505761/p
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-1-0mm-4-cores-jetlux-mentos-compactor-blister-pp070199/p
 
 
 =============================== Missing attributes
-Missing attributes:isbn
+Missing attributes:numPaginas
 
 ======== Available attributes
-Formato -> BROCHURA
-Número de Páginas -> 0
-Subtítulo -> Café Com Deus Pai Porções Diárias De Paz 2024
-Editora -> EDITORA VELOS
-Autor -> JUNIOR ROSTIROLA
-Ano da Edição -> 2024
-EAN13 -> 9786598078805
-Edição -> 1
-Idioma -> PORTUGUES
-Fabricante -> EDITORA VELOS
+Editora -> COMPACTOR
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896572039646
+Edição -> 0
+Fabricante -> COMPACTOR
 Páginas -> 0
 
 
+===================== Livro 5
+- Link: https://www.livrariascuritiba.com.br/constituicao-federal-2024-lv513835/p
+
+
+===================== Livro 6
+- Link: https://www.livrariascuritiba.com.br/visualizacao-holografica-lv511181/p
+
+
+===================== Livro 7
+- Link: https://www.livrariascuritiba.com.br/copa-america-2024---envelopes-soltos-af000024/p
+
+
+===================== Livro 8
+- Link: https://www.livrariascuritiba.com.br/escolinha-quebra-cabeca--silabas-lv502964/p
+
+
+===================== Livro 9
+- Link: https://www.livrariascuritiba.com.br/voce-pode-curar-sua-vida---capa-nova-lv432491/p
+
+
+===================== Livro 10
+- Link: https://www.livrariascuritiba.com.br/tomates-verdes-fritos-lv435536/p
+
+
+===================== Livro 11
+- Link: https://www.livrariascuritiba.com.br/ruination---uma-historia-de-league-of-legends---com-brinde-lv497311/p
+
+
 ===================== Livro 12
-- Link: https://www.livrariascuritiba.com.br/colecao-especial-colleen-hoover-e-assim-que-acaba-e-comeca-kt000346/p
+- Link: https://www.livrariascuritiba.com.br/ariadne-lv493729/p
+
+
+===================== Livro 13
+- Link: https://www.livrariascuritiba.com.br/uma-vida-pequena-lv396770/p
+
+
+===================== Livro 14
+- Link: https://www.livrariascuritiba.com.br/a-bala-que-errou-o-alvo---vol-3-lv495027/p
+
+
+===================== Livro 15
+- Link: https://www.livrariascuritiba.com.br/dr-stone-10-panini-lv462665/p
+
+
+===================== Livro 16
+- Link: https://www.livrariascuritiba.com.br/descubra-seus-pontos-fortes-2-0-lv450344/p
+
+
+===================== Livro 17
+- Link: https://www.livrariascuritiba.com.br/o-animal-social-lv510026/p
+
+
+===================== Livro 18
+- Link: https://www.livrariascuritiba.com.br/trono-de-vidro---coroa-da-meia-noite-vol-3---edicao-especial---brindes-lv506753/p
+
+
+===================== Livro 19
+- Link: https://www.livrariascuritiba.com.br/lapis-de-cor-100-cores-supersoft-ecolapis-pp066331/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> FABER CASTELL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891360673163
+Edição -> 0
+Fabricante -> FABER CASTELL
+Páginas -> 0
+
+
+===================== Livro 20
+- Link: https://www.livrariascuritiba.com.br/se-nao-fosse-voce-lv466709/p
+
+
+===================== Livro 21
+- Link: https://www.livrariascuritiba.com.br/mundos-sombrios-de-clive-barker-lv509133/p
+
+
+===================== Livro 22
+- Link: https://www.livrariascuritiba.com.br/a-danca-da-floresta-lv509910/p
+
+
+===================== Livro 23
+- Link: https://www.livrariascuritiba.com.br/caneta-hidrografica-dual-brush-magic-06-cores-lc101-640-lyke-blister-pp065722/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> LYKE
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898520008292
+Edição -> 0
+Fabricante -> LYKE
+Páginas -> 0
+
+
+===================== Livro 24
+- Link: https://www.livrariascuritiba.com.br/mashle---magia-e-musculos-13-lv514005/p
+
+
+===================== Livro 25
+- Link: https://www.livrariascuritiba.com.br/a-quimica-do-olfato-lv496729/p
+
+
+===================== Livro 26
+- Link: https://www.livrariascuritiba.com.br/star-wars---darth-vader--597----funko-in030401/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> FUNKO
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0889698675345
+Edição -> 0
+Fabricante -> FUNKO
+Páginas -> 0
+
+
+===================== Livro 27
+- Link: https://www.livrariascuritiba.com.br/todos-os-caminhos-levam-a-roma--nossa-jornada-ate-o-catolicismo-lv511142/p
+
+
+===================== Livro 28
+- Link: https://www.livrariascuritiba.com.br/murdle---vol-1-lv515587/p
+
+
+===================== Livro 29
+- Link: https://www.livrariascuritiba.com.br/o-pequeno-principe-lv371700/p
+
+
+===================== Livro 30
+- Link: https://www.livrariascuritiba.com.br/spawn-origens-01-lv513960/p
+
+
+===================== Livro 31
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-letra-f-pp065074/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778233012
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 32
+- Link: https://www.livrariascuritiba.com.br/pequeno-manual-antirracista-lv455847/p
+
+
+===================== Livro 33
+- Link: https://www.livrariascuritiba.com.br/america-latina-lado-b-lv515503/p
+
+
+===================== Livro 34
+- Link: https://www.livrariascuritiba.com.br/o-livro-que-voce-gostaria-que-seus-pais-tivessem-lido-lv460183/p
+
+
+===================== Livro 35
+- Link: https://www.livrariascuritiba.com.br/vida---papa-francisco-lv514271/p
+
+
+===================== Livro 36
+- Link: https://www.livrariascuritiba.com.br/a-vila-dos-tecidos-1-lv503083/p
+
+
+===================== Livro 37
+- Link: https://www.livrariascuritiba.com.br/mais-frio-que-gelo-lv498313/p
+
+
+===================== Livro 38
+- Link: https://www.livrariascuritiba.com.br/uma-galaxia-multicor-e-os-confins-do-universo-lv507179/p
+
+
+===================== Livro 39
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-u-pp064989/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778020018
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 40
+- Link: https://www.livrariascuritiba.com.br/o-livro-da-matematica-lv466310/p
+
+
+===================== Livro 41
+- Link: https://www.livrariascuritiba.com.br/palacio-iguacu-lv515858/p
+
+
+===================== Livro 42
+- Link: https://www.livrariascuritiba.com.br/eldest---livro-2-lv206551/p
+
+
+===================== Livro 43
+- Link: https://www.livrariascuritiba.com.br/biblia-de-jerusalem---media---cristo-lv515498/p
+
+
+===================== Livro 44
+- Link: https://www.livrariascuritiba.com.br/tempo-de-reacender-estrelas-lv466249/p
+
+
+===================== Livro 45
+- Link: https://www.livrariascuritiba.com.br/iluminacoes-da-alma-lv423159/p
+
+
+===================== Livro 46
+- Link: https://www.livrariascuritiba.com.br/o-silmarillion-ilustrado-por-ted-nasmith-lv511294/p
+
+
+===================== Livro 47
+- Link: https://www.livrariascuritiba.com.br/brevidade-inteligente-lv503391/p
+
+
+===================== Livro 48
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-spiro-glow-diversas-cores-pp066131/p
+
+
+===================== Livro 49
+- Link: https://www.livrariascuritiba.com.br/ataque-dos-titas-05-lv479035/p
+
+
+===================== Livro 50
+- Link: https://www.livrariascuritiba.com.br/fique-rico-investindo-de-maneira-simples-lv475817/p
+
+
+===================== Livro 51
+- Link: https://www.livrariascuritiba.com.br/dr-stone-09-lv460126/p
+
+
+===================== Livro 52
+- Link: https://www.livrariascuritiba.com.br/eu-posso-ouvir--veiculos-de-resgate-lv506579/p
+
+
+===================== Livro 53
+- Link: https://www.livrariascuritiba.com.br/harry-potter-e-a-pedra-filosofal---vol-1-lv113000/p
+
+
+===================== Livro 54
+- Link: https://www.livrariascuritiba.com.br/humanidade-lv471547/p
+
+
+===================== Livro 55
+- Link: https://www.livrariascuritiba.com.br/como-convencer-alguem-em-90-segundos-lv310257/p
+
+
+===================== Livro 56
+- Link: https://www.livrariascuritiba.com.br/pequena-coreografia-do-adeus-lv473475/p
+
+
+===================== Livro 57
+- Link: https://www.livrariascuritiba.com.br/a-historia-do-mundo-para-quem-tem-pressa-lv374832/p
+
+
+===================== Livro 58
+- Link: https://www.livrariascuritiba.com.br/storyselling-lv500099/p
+
+
+===================== Livro 59
+- Link: https://www.livrariascuritiba.com.br/antiestresse-para-todos-lv381725/p
+
+
+===================== Livro 60
+- Link: https://www.livrariascuritiba.com.br/o-livro-da-magia-das-velas-lv516834/p
+
+
+===================== Livro 61
+- Link: https://www.livrariascuritiba.com.br/noivas-em-fuga-lv470712/p
+
+
+===================== Livro 62
+- Link: https://www.livrariascuritiba.com.br/uma-familia-feliz-lv512961/p
+
+
+===================== Livro 63
+- Link: https://www.livrariascuritiba.com.br/a-gratidao-transforma-os-seus-pensamentos-lv423607/p
+
+
+===================== Livro 64
+- Link: https://www.livrariascuritiba.com.br/astrid-parker-nunca-falha---vol-2-lv504400/p
+
+
+===================== Livro 65
+- Link: https://www.livrariascuritiba.com.br/sapiens---uma-breve-historia-da-humanidade---nova-edicao-lv467840/p
+
+
+===================== Livro 66
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---21-lv510401/p
+
+
+===================== Livro 67
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-capitao-cueca-1-2-e-3-kt000032/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> CIA DAS LETRINHAS
+Autor -> DAV PILKEY
+EAN13 -> 9788574067545
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 68
+- Link: https://www.livrariascuritiba.com.br/tratado-da-verdadeira-devocao-a-santissima-virgem-bolso-lv429301/p
+
+
+===================== Livro 69
+- Link: https://www.livrariascuritiba.com.br/dvd-jads---jadson---balada-bruta--dvd---cd--av107836/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SOM LIVRE
+Autor -> null
+Ano da Edição -> 2017
+EAN13 -> 7891430204792
+Edição -> 0
+Fabricante -> SOM LIVRE
+Páginas -> 0
+
+
+===================== Livro 70
+- Link: https://www.livrariascuritiba.com.br/caneta-preta-stabilo-pp022938/p
+
+
+===================== Livro 71
+- Link: https://www.livrariascuritiba.com.br/berserk-02-lv416543/p
+
+
+===================== Livro 72
+- Link: https://www.livrariascuritiba.com.br/tokyo-revengers-19-lv514533/p
+
+
+===================== Livro 73
+- Link: https://www.livrariascuritiba.com.br/coraline-lv463090/p
+
+
+===================== Livro 74
+- Link: https://www.livrariascuritiba.com.br/top-50-sonhos-lv510317/p
+
+
+===================== Livro 75
+- Link: https://www.livrariascuritiba.com.br/black-clover-32-lv497456/p
+
+
+===================== Livro 76
+- Link: https://www.livrariascuritiba.com.br/dragon-ball-32-lv472953/p
+
+
+===================== Livro 77
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-musgo-fashion-color-aquarela-silk-513-acrilex-pp065169/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036519
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 78
+- Link: https://www.livrariascuritiba.com.br/o-poder-do-subconsciente---nova-edicao-lv443832/p
+
+
+===================== Livro 79
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-violeta-fashion-color-aquarela-silk-516-acrilex-pp065171/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036175
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 80
+- Link: https://www.livrariascuritiba.com.br/madonna---uma-vida-rebelde-lv515162/p
+
+
+===================== Livro 81
+- Link: https://www.livrariascuritiba.com.br/cd-edu-chociay-e-assim-2015-av100370/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> RICARDO CHOCIAY
+Ano da Edição -> 2015
+EAN13 -> 0742832503938
+Edição -> 0
+Fabricante -> RICARDO CHOCIAY
+Páginas -> 0
+
+
+===================== Livro 82
+- Link: https://www.livrariascuritiba.com.br/o-apagao-e-a-magnifica-operacao-de-miguel-arcanjo-lv511078/p
+
+
+===================== Livro 83
+- Link: https://www.livrariascuritiba.com.br/maldicao-lv481878/p
+
+
+===================== Livro 84
+- Link: https://www.livrariascuritiba.com.br/box---manual-de-assassinato-para-boas-garotas-lv503070/p
+
+
+===================== Livro 85
+- Link: https://www.livrariascuritiba.com.br/rosas-de-maio-lv502943/p
+
+
+===================== Livro 86
+- Link: https://www.livrariascuritiba.com.br/ou-isto-ou-aquilo-lv320986/p
+
+
+===================== Livro 87
+- Link: https://www.livrariascuritiba.com.br/o-menino-maluquinho-lv510964/p
+
+
+===================== Livro 88
+- Link: https://www.livrariascuritiba.com.br/sharp-objects---objetos-cortantes-lv371562/p
+
+
+===================== Livro 89
+- Link: https://www.livrariascuritiba.com.br/as-aventuras-de-mike-2-o-bebe-chegou---com-brinde-lv500368/p
+
+
+===================== Livro 90
+- Link: https://www.livrariascuritiba.com.br/o-cair-da-noite-lv509121/p
+
+
+===================== Livro 91
+- Link: https://www.livrariascuritiba.com.br/planeje-sua-vida-lv481545/p
+
+
+===================== Livro 92
+- Link: https://www.livrariascuritiba.com.br/morando-com-um-vampiro-lv515239/p
+
+
+===================== Livro 93
+- Link: https://www.livrariascuritiba.com.br/livro-box-divertido--fazenda-lv514564/p
+
+
+===================== Livro 94
+- Link: https://www.livrariascuritiba.com.br/diversao-na-escola---floresta-encantada-lv518073/p
+
+
+===================== Livro 95
+- Link: https://www.livrariascuritiba.com.br/como-arrumar-a-casa-quando-a-vida-esta-caotica-lv501374/p
+
+
+===================== Livro 96
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-os-ultimos-jovens-da-terra-3-4-e-5-kt000177/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> MILK SHAKESPEARE
+Autor -> MAX BRALLIER
+EAN13 -> 9786586041132
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9786586041132
+
+
+===================== Livro 97
+- Link: https://www.livrariascuritiba.com.br/fita-empacotamento-scotch-45x45cm-transparente-pp033591/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> 3M
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891040105335
+Edição -> 0
+Fabricante -> 3M
+Páginas -> 0
+
+
+===================== Livro 98
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-7-lv326696/p
+
+
+===================== Livro 99
+- Link: https://www.livrariascuritiba.com.br/blade-1-lv515224/p
+
+
+===================== Livro 100
+- Link: https://www.livrariascuritiba.com.br/spy-x-family-12-lv510491/p
+
+
+===================== Livro 101
+- Link: https://www.livrariascuritiba.com.br/jeff-bezos-lv499015/p
+
+
+===================== Livro 102
+- Link: https://www.livrariascuritiba.com.br/karmen-lv507561/p
+
+
+===================== Livro 103
+- Link: https://www.livrariascuritiba.com.br/nova-edicao---box-percy-jackson-e-os-olimpianos-lv510922/p
+
+
+===================== Livro 104
+- Link: https://www.livrariascuritiba.com.br/depois-das-brasas-lv505465/p
+
+
+===================== Livro 105
+- Link: https://www.livrariascuritiba.com.br/o-jardim-pop-up-lv398513/p
+
+
+===================== Livro 106
+- Link: https://www.livrariascuritiba.com.br/pipo-e-fifi-lv498327/p
+
+
+===================== Livro 107
+- Link: https://www.livrariascuritiba.com.br/casa-de-chama-e-sombra---vol-3-lv510558/p
+
+
+===================== Livro 108
+- Link: https://www.livrariascuritiba.com.br/black-clover-30-lv494906/p
+
+
+===================== Livro 109
+- Link: https://www.livrariascuritiba.com.br/all-you-need-is-love---a-historia-oral-do-fim-dos-beatles---capa-dura-lv516445/p
+
+
+===================== Livro 110
+- Link: https://www.livrariascuritiba.com.br/o-ladrao-de-raios---vol--i---nova-capa-lv506946/p
+
+
+===================== Livro 111
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun---vol-2-lv444545/p
+
+
+===================== Livro 112
+- Link: https://www.livrariascuritiba.com.br/box---as-aventuras-de-pinoquio-lv484722/p
+
+
+===================== Livro 113
+- Link: https://www.livrariascuritiba.com.br/sete-dias-em-junho-lv512985/p
+
+
+===================== Livro 114
+- Link: https://www.livrariascuritiba.com.br/a-psicologia-das-cores-lv476791/p
+
+
+===================== Livro 115
+- Link: https://www.livrariascuritiba.com.br/temporada-de-caca-lv489204/p
+
+
+===================== Livro 116
+- Link: https://www.livrariascuritiba.com.br/a-espada-do-destino---the-witcher---2-lv459511/p
+
+
+===================== Livro 117
+- Link: https://www.livrariascuritiba.com.br/o-livro-das-virtudes-para-criancas-lv475587/p
+
+
+===================== Livro 118
+- Link: https://www.livrariascuritiba.com.br/o-poder-da-autorresponsabilidade---bolso-lv425069/p
+
+
+===================== Livro 119
+- Link: https://www.livrariascuritiba.com.br/o-diario-de-uma-princesa-desastrada-2-lv506249/p
+
+
+===================== Livro 120
+- Link: https://www.livrariascuritiba.com.br/corte-de-mel-e-cinzas---livro-1---com-brinde-lv507173/p
+
+
+===================== Livro 121
+- Link: https://www.livrariascuritiba.com.br/box---caminhando-com-maria-lv485336/p
+
+
+===================== Livro 122
+- Link: https://www.livrariascuritiba.com.br/capitao-cueca-2-lv413026/p
+
+
+===================== Livro 123
+- Link: https://www.livrariascuritiba.com.br/o-pedido-da-fada-madrinha-lv504394/p
+
+
+===================== Livro 124
+- Link: https://www.livrariascuritiba.com.br/e-assim-que-acaba---edicao-de-colecionador-lv501492/p
+
+
+===================== Livro 125
+- Link: https://www.livrariascuritiba.com.br/carlo-acutis---padroeiro-da-internet-lv511443/p
+
+
+===================== Livro 126
+- Link: https://www.livrariascuritiba.com.br/blame-5-lv418637/p
+
+
+===================== Livro 127
+- Link: https://www.livrariascuritiba.com.br/os-persas-lv508782/p
+
+
+===================== Livro 128
+- Link: https://www.livrariascuritiba.com.br/o-livro-de-feiticos-para-novas-bruxas-lv484653/p
+
+
+===================== Livro 129
+- Link: https://www.livrariascuritiba.com.br/o-metodo-silva-de-controle-mental-lv510501/p
+
+
+===================== Livro 130
+- Link: https://www.livrariascuritiba.com.br/ducktales--os-cacadores-de-aventuras-vol-06-lv488026/p
+
+
+===================== Livro 131
+- Link: https://www.livrariascuritiba.com.br/como-sobreviver-a-realeza---royals-1-lv463719/p
+
+
+===================== Livro 132
+- Link: https://www.livrariascuritiba.com.br/vade-mecum-compacto-2024-lv512510/p
+
+
+===================== Livro 133
+- Link: https://www.livrariascuritiba.com.br/fone-bluetooth-tws-w160t-preto---edifier-in031049/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Garantia -> 12 MESES DE GARANTIA PELO FABRICANTE
+Editora -> EDIFIER
+Ano da Edição -> 1900
+EAN13 -> 6923520246717
+Edição -> 0
+Fabricante -> EDIFIER
+Páginas -> 0
+
+
+===================== Livro 134
+- Link: https://www.livrariascuritiba.com.br/amor-e-gelato-lv416363/p
+
+
+===================== Livro 135
+- Link: https://www.livrariascuritiba.com.br/ative-sua-mente-lv497760/p
+
+
+===================== Livro 136
+- Link: https://www.livrariascuritiba.com.br/dicionario-de-magia-e-esoterismo-lv108425/p
+
+
+===================== Livro 137
+- Link: https://www.livrariascuritiba.com.br/papel-sulfite-a4-50-folhas-chamequinho-pp066070/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> INTERNATIONAL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891173025067
+Edição -> 0
+Fabricante -> INTERNATIONAL
+Páginas -> 0
+
+
+===================== Livro 138
+- Link: https://www.livrariascuritiba.com.br/x-men-67-lv511374/p
+
+
+===================== Livro 139
+- Link: https://www.livrariascuritiba.com.br/olhos-vazios-lv506987/p
+
+
+===================== Livro 140
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-bpx-preta-76-1112-cis-sertic-pp066563/p
+
+
+===================== Livro 141
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-100cm-rosa-interrogacao-pp064882/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778416019
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 142
+- Link: https://www.livrariascuritiba.com.br/livro-de-ideias-fotograficas-lv516662/p
+
+
+===================== Livro 143
+- Link: https://www.livrariascuritiba.com.br/mais-quente-que-fogo-lv494346/p
+
+
+=============================== Missing attributes
+Missing attributes:autores
+
+======== Available attributes
+Formato -> BROCHURA
+Número de Páginas -> 368
+Editora -> BOOK ONE EDITORA LTDA
+Ano da Edição -> 2022
+EAN13 -> 9786585086028
+Edição -> 1
+Idioma -> PORTUGUES
+ISBN -> 6585086023
+Páginas -> 368
+
+
+===================== Livro 144
+- Link: https://www.livrariascuritiba.com.br/bloco-desenho-escolar-a4-20f-140g-br-1391-filiperson-pp057515/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> FILIPERSON NACIONAL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891634013916
+Edição -> 0
+Fabricante -> FILIPERSON NACIONAL
+Páginas -> 0
+
+
+===================== Livro 145
+- Link: https://www.livrariascuritiba.com.br/a-monja-e-o-poeta-lv478072/p
+
+
+===================== Livro 146
+- Link: https://www.livrariascuritiba.com.br/perto-demais-lv457644/p
+
+
+===================== Livro 147
+- Link: https://www.livrariascuritiba.com.br/os-segredos-da-mente-milionaria-lv202947/p
+
+
+===================== Livro 148
+- Link: https://www.livrariascuritiba.com.br/um-defeito-de-cor---edicao-especial-lv493440/p
+
+
+===================== Livro 149
+- Link: https://www.livrariascuritiba.com.br/conan--o-barbaro--2023--02-lv512700/p
+
+
+===================== Livro 150
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun-vol-6-jbc-lv449970/p
+
+
+===================== Livro 151
+- Link: https://www.livrariascuritiba.com.br/a-ilha-das-arvores-perdidas-lv497335/p
+
+
+===================== Livro 152
+- Link: https://www.livrariascuritiba.com.br/armadilha-lv402442/p
+
+
+===================== Livro 153
+- Link: https://www.livrariascuritiba.com.br/as-16-leis-do-sucesso-lv415299/p
+
+
+===================== Livro 154
+- Link: https://www.livrariascuritiba.com.br/eragon---livro-1-lv502806/p
+
+
+===================== Livro 155
+- Link: https://www.livrariascuritiba.com.br/onde-pastam-os-minotauros-lv504572/p
+
+
+===================== Livro 156
+- Link: https://www.livrariascuritiba.com.br/mil-vezes-amor-lv511058/p
+
+
+===================== Livro 157
+- Link: https://www.livrariascuritiba.com.br/tudo-o-que-eu-sei-sobre-o-amor-lv490237/p
+
+
+===================== Livro 158
+- Link: https://www.livrariascuritiba.com.br/a-saga-do-batman-18-lv491498/p
+
+
+===================== Livro 159
+- Link: https://www.livrariascuritiba.com.br/blue-lock-19-lv511410/p
+
+
+===================== Livro 160
+- Link: https://www.livrariascuritiba.com.br/haikyu---3-lv486501/p
+
+
+===================== Livro 161
+- Link: https://www.livrariascuritiba.com.br/a-maldicao-do-tita---vol--iii---nova-capa-lv506942/p
+
+
+===================== Livro 162
+- Link: https://www.livrariascuritiba.com.br/morte-no-internato-lv487947/p
+
+
+===================== Livro 163
+- Link: https://www.livrariascuritiba.com.br/murtagh-lv509728/p
+
+
+===================== Livro 164
+- Link: https://www.livrariascuritiba.com.br/album-para-adesivos-10-folhas-brancas-diversas-capas-coloridas-21x14cm-mania-pp069606/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MANIA DE STICKER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891246022436
+Edição -> 0
+Fabricante -> MANIA DE STICKER
+Páginas -> 0
+
+
+===================== Livro 165
+- Link: https://www.livrariascuritiba.com.br/pense-e-enriqueca---nova-versao-lv460099/p
+
+
+===================== Livro 166
+- Link: https://www.livrariascuritiba.com.br/a-gente-mira-no-amor-e-acerta-na-solidao-lv487734/p
+
+
+===================== Livro 167
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-8-9-e-10-kt000048/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> Vergara e Riba
+Autor -> JEFF KINNEY
+EAN13 -> 9788576836903
+Idioma -> PORTUGUÊS, PORTUGÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 168
+- Link: https://www.livrariascuritiba.com.br/de-repente-uma-noite-de-paixao-lv460090/p
+
+
+===================== Livro 169
+- Link: https://www.livrariascuritiba.com.br/pai-rico-pai-pobre-lv416614/p
+
+
+===================== Livro 170
+- Link: https://www.livrariascuritiba.com.br/box-japoneses---contos-de-guerreiros-e-outras-historias-lv488816/p
+
+
+===================== Livro 171
+- Link: https://www.livrariascuritiba.com.br/viva-a-sua-real-identidade-lv478594/p
+
+
+===================== Livro 172
+- Link: https://www.livrariascuritiba.com.br/cordao-autismo-girassol-com-engate-pp070949/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> TOPCOR
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 9990000361335
+Edição -> 0
+Fabricante -> TOPCOR
+Páginas -> 0
+
+
+===================== Livro 173
+- Link: https://www.livrariascuritiba.com.br/os-vingadores-05-62-lv513996/p
+
+
+===================== Livro 174
+- Link: https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-infree-retratil-preta-pp069697/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PENTEL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 4902506349675
+Edição -> 0
+Fabricante -> PENTEL
+Páginas -> 0
+
+
+===================== Livro 175
+- Link: https://www.livrariascuritiba.com.br/tres-para-casar-lv508283/p
+
+
+===================== Livro 176
+- Link: https://www.livrariascuritiba.com.br/fahrenheit-451-lv454225/p
+
+
+===================== Livro 177
+- Link: https://www.livrariascuritiba.com.br/einstein-lv517849/p
+
+
+===================== Livro 178
+- Link: https://www.livrariascuritiba.com.br/dragon-masters-2---a-dragoa-do-sol-lv508896/p
+
+
+===================== Livro 179
+- Link: https://www.livrariascuritiba.com.br/a-arte-de-falar-e-fazer-lv505913/p
+
+
+===================== Livro 180
+- Link: https://www.livrariascuritiba.com.br/nunca-e-hora-de-parar-lv506527/p
+
+
+===================== Livro 181
+- Link: https://www.livrariascuritiba.com.br/turma-da-monica---lendas-para-criancas-lv461828/p
+
+
+===================== Livro 182
+- Link: https://www.livrariascuritiba.com.br/cd-joao-bosco---vinicius-ceu-de-sao-paulo-av105116/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> RADAR RECORDS
+Ano da Edição -> 2016
+EAN13 -> 7899340745893
+Edição -> 0
+Fabricante -> RADAR RECORDS
+Páginas -> 0
+
+
+===================== Livro 183
+- Link: https://www.livrariascuritiba.com.br/comece-pelo-porque-lv438337/p
+
+
+===================== Livro 184
+- Link: https://www.livrariascuritiba.com.br/gatilhos-mentais-lv445729/p
+
+
+===================== Livro 185
+- Link: https://www.livrariascuritiba.com.br/mae-e-pai-me-contem-a-minha-historia--lv472794/p
+
+
+===================== Livro 186
+- Link: https://www.livrariascuritiba.com.br/historias-de-ananse-lv214369/p
+
+
+===================== Livro 187
+- Link: https://www.livrariascuritiba.com.br/diversao-na-escola---espaco-lv518071/p
+
+
+===================== Livro 188
+- Link: https://www.livrariascuritiba.com.br/dias-perfeitos-lv341084/p
+
+
+===================== Livro 189
+- Link: https://www.livrariascuritiba.com.br/como-ler-livros-lv309610/p
+
+
+===================== Livro 190
+- Link: https://www.livrariascuritiba.com.br/eu--meu-pavio-curto-e-deus-lv509272/p
+
+
+===================== Livro 191
+- Link: https://www.livrariascuritiba.com.br/aporofobia-lv504390/p
+
+
+===================== Livro 192
+- Link: https://www.livrariascuritiba.com.br/o-menino-do-dedo-verde-lv415003/p
+
+
+===================== Livro 193
+- Link: https://www.livrariascuritiba.com.br/sono-bisque-doll-09-lv513979/p
+
+
+===================== Livro 194
+- Link: https://www.livrariascuritiba.com.br/rei-do-orgulho---vol-2-lv513518/p
+
+
+===================== Livro 195
+- Link: https://www.livrariascuritiba.com.br/btk-profile-lv453143/p
+
+
+===================== Livro 196
+- Link: https://www.livrariascuritiba.com.br/caneta-esferogafica-gato-rabinho-diversas-cores-mania-de-sticker-12c-pp070829/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MANIA DE STICKER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891246033470
+Edição -> 0
+Fabricante -> MANIA DE STICKER
+Páginas -> 0
+
+
+===================== Livro 197
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---3-lv486823/p
+
+
+===================== Livro 198
+- Link: https://www.livrariascuritiba.com.br/biblia-king-james-1611-com-estudo-holman---marrom-com-preto-lv455322/p
+
+
+===================== Livro 199
+- Link: https://www.livrariascuritiba.com.br/mil-beijos-de-garoto-lv413779/p
+
+
+===================== Livro 200
+- Link: https://www.livrariascuritiba.com.br/caneta-marca-texto-grifpen-ressaltadores-15-cores-pp068413/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> FABER CASTELL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891360679417
+Edição -> 0
+Fabricante -> FABER CASTELL
+Páginas -> 0
+
+
+===================== Livro 201
+- Link: https://www.livrariascuritiba.com.br/blame-6-lv421163/p
+
+
+===================== Livro 202
+- Link: https://www.livrariascuritiba.com.br/a-insustentavel-leveza-do-ser-lv414155/p
+
+
+===================== Livro 203
+- Link: https://www.livrariascuritiba.com.br/predador-americano-lv505352/p
+
+
+===================== Livro 204
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-05-lv463643/p
+
+
+===================== Livro 205
+- Link: https://www.livrariascuritiba.com.br/bolo-de-limao-com-sementes-de-papoula-lv494025/p
+
+
+===================== Livro 206
+- Link: https://www.livrariascuritiba.com.br/jogo-de-cartas-baralho-naipe-espanhol-br001361/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> COPAG
+Ano da Edição -> 1900
+EAN13 -> 7896008984724
+Edição -> 0
+Fabricante -> COPAG
+Páginas -> 0
+
+
+===================== Livro 207
+- Link: https://www.livrariascuritiba.com.br/cafe-com-deus-pai-porcoes-diarias-de-paz-2024-lv505761/p
+
+
+===================== Livro 208
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-azul-cristal-1-0mm-ponta-media-bic-pp032542/p
+
+
+===================== Livro 209
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-1-2-e-3-jeff-kinney-vergara-e-riba-kt000200/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576832295
+Idioma -> PORTUGUÊS
+Compre Junto -> 5379766655
+ISBN -> 9788576832295
+
+
+===================== Livro 210
+- Link: https://www.livrariascuritiba.com.br/o-deus-que-destroi-sonhos-lv472645/p
+
+
+===================== Livro 211
+- Link: https://www.livrariascuritiba.com.br/como-evitar-preocupacoes-e-comecar-a-viver-lv459332/p
+
+
+===================== Livro 212
+- Link: https://www.livrariascuritiba.com.br/holly-lv505470/p
+
+
+===================== Livro 213
+- Link: https://www.livrariascuritiba.com.br/cd-loubet-made-in-roca-av103715/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> RADAR RECORDS
+Ano da Edição -> 2016
+EAN13 -> 7899340745534
+Edição -> 0
+Fabricante -> RADAR RECORDS
+Páginas -> 0
+
+
+===================== Livro 214
+- Link: https://www.livrariascuritiba.com.br/tudo-bem-ser-diferente-lv177211/p
+
+
+===================== Livro 215
+- Link: https://www.livrariascuritiba.com.br/toque-e-sinta---o-mundo-da-selva-lv504628/p
+
+
+===================== Livro 216
+- Link: https://www.livrariascuritiba.com.br/bloco-de-mesa-planner-semanal-fitness-24f-76028-dustfest-pp065940/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> DUSTER FESTAS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896578976280
+Edição -> 0
+Fabricante -> DUSTER FESTAS
+Páginas -> 0
+
+
+===================== Livro 217
+- Link: https://www.livrariascuritiba.com.br/mala-de-viagem-hogwarts-harry-potter-preta-luxel-pp068721/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MAXLOG
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 6931759287623
+Edição -> 0
+Fabricante -> MAXLOG
+Páginas -> 0
+
+
+===================== Livro 218
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---13-lv500785/p
+
+
+===================== Livro 219
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana---faca-voce-mesmo-lv315363/p
+
+
+===================== Livro 220
+- Link: https://www.livrariascuritiba.com.br/nos-lv499971/p
+
+
+===================== Livro 221
+- Link: https://www.livrariascuritiba.com.br/good-omens---ed--luxo---belas-maldicoes-lv495368/p
+
+
+===================== Livro 222
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-5-lv291529/p
+
+
+===================== Livro 223
+- Link: https://www.livrariascuritiba.com.br/tudo-pode-mudar-lv493315/p
+
+
+===================== Livro 224
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-vermelho-carmim-fashion-color-aquarela-silk-509-acrilex-pp065166/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153035994
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 225
+- Link: https://www.livrariascuritiba.com.br/ideias-para-adiar-o-fim-do-mundo-lv464750/p
+
+
+===================== Livro 226
+- Link: https://www.livrariascuritiba.com.br/ingrid--a-filha-do-comandante-lv515476/p
+
+
+===================== Livro 227
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-14-lv504152/p
+
+
+===================== Livro 228
+- Link: https://www.livrariascuritiba.com.br/vo-me-conta-a-sua-historia--lv439826/p
+
+
+===================== Livro 229
+- Link: https://www.livrariascuritiba.com.br/rei-da-ira---reis-do-pecado---livro-1-lv508832/p
+
+
+===================== Livro 230
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---9-lv496206/p
+
+
+===================== Livro 231
+- Link: https://www.livrariascuritiba.com.br/chainsaw-man-15-lv510428/p
+
+
+===================== Livro 232
+- Link: https://www.livrariascuritiba.com.br/amor-e-odio---twisted-hate-vol-3-lv515820/p
+
+
+===================== Livro 233
+- Link: https://www.livrariascuritiba.com.br/box-paulo-vieira-lv503300/p
+
+
+===================== Livro 234
+- Link: https://www.livrariascuritiba.com.br/a-saga-da-liga-da-justica-06-lv496244/p
+
+
+===================== Livro 235
+- Link: https://www.livrariascuritiba.com.br/malala---a-menina-que-queria-ir-para-a-escola-lv374913/p
+
+
+===================== Livro 236
+- Link: https://www.livrariascuritiba.com.br/invisibilidade-lv500982/p
+
+
+===================== Livro 237
+- Link: https://www.livrariascuritiba.com.br/blue-lock-05-lv494905/p
+
+
+===================== Livro 238
+- Link: https://www.livrariascuritiba.com.br/olhos-d-agua-lv389312/p
+
+
+===================== Livro 239
+- Link: https://www.livrariascuritiba.com.br/uma-farsa-de-amor-na-espanha-lv487842/p
+
+
+===================== Livro 240
+- Link: https://www.livrariascuritiba.com.br/paulo-para-todos-romanos-9-16-parte-2-lv480789/p
+
+
+===================== Livro 241
+- Link: https://www.livrariascuritiba.com.br/anne-de-green-gables---edicao-de-luxo-lv467834/p
+
+
+===================== Livro 242
+- Link: https://www.livrariascuritiba.com.br/contato-de-emergencia---nova-edicao-lv497873/p
+
+
+===================== Livro 243
+- Link: https://www.livrariascuritiba.com.br/historia-de-uma-alma-lv514928/p
+
+
+===================== Livro 244
+- Link: https://www.livrariascuritiba.com.br/noiva-lv512870/p
+
+
+===================== Livro 245
+- Link: https://www.livrariascuritiba.com.br/caderno-sketchbook-44-folhas-150-gramas-espiral-the-national-gallery-sem-pauta-sd-pp070310/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SAO DOMINGOS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891321105580
+Edição -> 0
+Fabricante -> SAO DOMINGOS
+Páginas -> 0
+
+
+===================== Livro 246
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---1-lv484747/p
+
+
+===================== Livro 247
+- Link: https://www.livrariascuritiba.com.br/jojo-s-bizarre-adventure-42--parte-6--stone-ocean-vol--03--lv516520/p
+
+
+===================== Livro 248
+- Link: https://www.livrariascuritiba.com.br/uma-vida-com-propositos-capa-2022-lv491824/p
+
+
+===================== Livro 249
+- Link: https://www.livrariascuritiba.com.br/palavras-de-radiancia---livro-2-lv506373/p
+
+
+===================== Livro 250
+- Link: https://www.livrariascuritiba.com.br/caraval--trilogia-caraval--vol--1--lv493061/p
+
+
+===================== Livro 251
+- Link: https://www.livrariascuritiba.com.br/puro-impulso-lv516062/p
+
+
+===================== Livro 252
+- Link: https://www.livrariascuritiba.com.br/criacao-biblia-compativel-lv507460/p
+
+
+===================== Livro 253
+- Link: https://www.livrariascuritiba.com.br/faca-fortuna-com-acoes---antes-que-seja-tarde-lv245318/p
+
+
+===================== Livro 254
+- Link: https://www.livrariascuritiba.com.br/textos-crueis-demais-para-serem-lidos-rapidamente-lv443786/p
+
+
+===================== Livro 255
+- Link: https://www.livrariascuritiba.com.br/nao-confie-em-ninguem-lv434872/p
+
+
+===================== Livro 256
+- Link: https://www.livrariascuritiba.com.br/voce-nasceu-rico-lv429489/p
+
+
+===================== Livro 257
+- Link: https://www.livrariascuritiba.com.br/o-sol-na-cabeca-lv426685/p
+
+
+===================== Livro 258
+- Link: https://www.livrariascuritiba.com.br/jojo-s-bizarre-adventure---parte-05---vol-02-lv499732/p
+
+
+===================== Livro 259
+- Link: https://www.livrariascuritiba.com.br/o-morro-dos-ventos-uivantes-lv489673/p
+
+
+===================== Livro 260
+- Link: https://www.livrariascuritiba.com.br/a-hipotese-do-amor--sucesso-do-tiktok--lv488760/p
+
+
+===================== Livro 261
+- Link: https://www.livrariascuritiba.com.br/biblia-sagrada-com-ziper-marrom---media-lv253484/p
+
+
+===================== Livro 262
+- Link: https://www.livrariascuritiba.com.br/o-principe-lv502296/p
+
+
+===================== Livro 263
+- Link: https://www.livrariascuritiba.com.br/quebrando-ciclos-lv500033/p
+
+
+===================== Livro 264
+- Link: https://www.livrariascuritiba.com.br/o-mito-do-normal-lv504588/p
+
+
+===================== Livro 265
+- Link: https://www.livrariascuritiba.com.br/liberte-se-dos-seus-medos-lv494225/p
+
+
+===================== Livro 266
+- Link: https://www.livrariascuritiba.com.br/kit-hopeless-lv489215/p
+
+
+===================== Livro 267
+- Link: https://www.livrariascuritiba.com.br/apenas-amigos--lv515470/p
+
+
+===================== Livro 268
+- Link: https://www.livrariascuritiba.com.br/a-ilha-das-emocoes-lv485500/p
+
+
+===================== Livro 269
+- Link: https://www.livrariascuritiba.com.br/bleach-remix---01-lv485695/p
+
+
+===================== Livro 270
+- Link: https://www.livrariascuritiba.com.br/por-que-nao-posso-ser-crianca--lv517661/p
+
+
+===================== Livro 271
+- Link: https://www.livrariascuritiba.com.br/o-restaurador-de-rostos-lv497968/p
+
+
+===================== Livro 272
+- Link: https://www.livrariascuritiba.com.br/para-sir-phillip-com-amor---vol-5-lv371988/p
+
+
+===================== Livro 273
+- Link: https://www.livrariascuritiba.com.br/palito-para-espeto-churrasco-com-100-unidades-pp069690/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> NOVA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898611683247
+Edição -> 0
+Fabricante -> NOVA
+Páginas -> 0
+
+
+===================== Livro 274
+- Link: https://www.livrariascuritiba.com.br/batman-unleashed-deluxe---dc-comics---art-scale-1-10---iron-studios-in031241/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> IRON STUDIOS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0618231951901
+Edição -> 0
+Fabricante -> IRON STUDIOS
+Páginas -> 0
+
+
+===================== Livro 275
+- Link: https://www.livrariascuritiba.com.br/box---as-melhores-historias-da-turma-da-monica-lv504851/p
+
+
+===================== Livro 276
+- Link: https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-azul-pp067567/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PENTEL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0884851006714
+Edição -> 0
+Fabricante -> PENTEL
+Páginas -> 0
+
+
+===================== Livro 277
+- Link: https://www.livrariascuritiba.com.br/quebrando-o-gelo-lv503621/p
+
+
+===================== Livro 278
+- Link: https://www.livrariascuritiba.com.br/caminhos-da-inovacao-lv504215/p
+
+
+===================== Livro 279
+- Link: https://www.livrariascuritiba.com.br/a-anatomia-do-crime-lv501269/p
+
+
+===================== Livro 280
+- Link: https://www.livrariascuritiba.com.br/kit-para-colorir---selva-magica-e-oceano-perdido-lv463027/p
+
+
+===================== Livro 281
+- Link: https://www.livrariascuritiba.com.br/na-sala-dos-espelhos-lv498382/p
+
+
+===================== Livro 282
+- Link: https://www.livrariascuritiba.com.br/heranca---livro-4---capa-nova-lv482540/p
+
+
+===================== Livro 283
+- Link: https://www.livrariascuritiba.com.br/o-metodo-facil-de-parar-de-fumar-lv424232/p
+
+
+===================== Livro 284
+- Link: https://www.livrariascuritiba.com.br/a-marca-de-atena-lv326241/p
+
+
+===================== Livro 285
+- Link: https://www.livrariascuritiba.com.br/biblia-king-james-1611-com-estudo-holman---preta-lv440018/p
+
+
+===================== Livro 286
+- Link: https://www.livrariascuritiba.com.br/deus-nos-le-pela-sua-palavra-lv485999/p
+
+
+===================== Livro 287
+- Link: https://www.livrariascuritiba.com.br/hamlet-lv377040/p
+
+
+===================== Livro 288
+- Link: https://www.livrariascuritiba.com.br/o-palhaco-e-o-psicanalista-lv471565/p
+
+
+===================== Livro 289
+- Link: https://www.livrariascuritiba.com.br/quem-pensa-enriquece---edicao-oficial-e-original-de-1937-lv465968/p
+
+
+===================== Livro 290
+- Link: https://www.livrariascuritiba.com.br/o-dizimo-revelado-lv503701/p
+
+
+===================== Livro 291
+- Link: https://www.livrariascuritiba.com.br/os-ultimos-jovens-da-terra---a-estrada-dos-esqueletos---vol-6-lv483076/p
+
+
+===================== Livro 292
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-9-lv376213/p
+
+
+===================== Livro 293
+- Link: https://www.livrariascuritiba.com.br/o-segredo-da-empregada---livro-2-lv510553/p
+
+
+===================== Livro 294
+- Link: https://www.livrariascuritiba.com.br/como-se-tornar-sobrenatural-lv465969/p
+
+
+===================== Livro 295
+- Link: https://www.livrariascuritiba.com.br/marketing-e-comunicacao-na-era-pos-digital-lv453887/p
+
+
+===================== Livro 296
+- Link: https://www.livrariascuritiba.com.br/box-authenticgames---com-brinde-lv475841/p
+
+
+===================== Livro 297
+- Link: https://www.livrariascuritiba.com.br/plenitude-lv499462/p
+
+
+===================== Livro 298
+- Link: https://www.livrariascuritiba.com.br/liberdade-liberdade-lv480091/p
+
+
+===================== Livro 299
+- Link: https://www.livrariascuritiba.com.br/frieren-e-a-jornada-para-o-alem-01-lv488019/p
+
+
+===================== Livro 300
+- Link: https://www.livrariascuritiba.com.br/uma-mulher-no-escuro-lv447655/p
+
+
+===================== Livro 301
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-07-lv464568/p
+
+
+===================== Livro 302
+- Link: https://www.livrariascuritiba.com.br/a-saga-do-batman-35-lv511363/p
+
+
+===================== Livro 303
+- Link: https://www.livrariascuritiba.com.br/um-mundo-sem-judeus-lv394431/p
+
+
+===================== Livro 304
+- Link: https://www.livrariascuritiba.com.br/o-medico-da-emocao-lv487064/p
+
+
+===================== Livro 305
+- Link: https://www.livrariascuritiba.com.br/permissao-para-sentir-lv478764/p
+
+
+===================== Livro 306
+- Link: https://www.livrariascuritiba.com.br/metodologia-pemd-lv503295/p
+
+
+===================== Livro 307
+- Link: https://www.livrariascuritiba.com.br/o-demonio-na-floresta-lv498037/p
+
+
+===================== Livro 308
+- Link: https://www.livrariascuritiba.com.br/diversao-na-escola---dinossauros-lv518072/p
+
+
+===================== Livro 309
+- Link: https://www.livrariascuritiba.com.br/o-hobbit-lv449170/p
+
+
+===================== Livro 310
+- Link: https://www.livrariascuritiba.com.br/as-cinco-linguagens-do-amor-lv329963/p
+
+
+===================== Livro 311
+- Link: https://www.livrariascuritiba.com.br/orar-faz-muito-bem--lv512865/p
+
+
+===================== Livro 312
+- Link: https://www.livrariascuritiba.com.br/quebre-os-seus-sapatinhos-de-cristal-lv478392/p
+
+
+===================== Livro 313
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-16-17-e-18-kt000453/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788550703642
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 314
+- Link: https://www.livrariascuritiba.com.br/cartucho-hp-667--3ym79al--preto---2ml-in027822/p
+
+
+===================== Livro 315
+- Link: https://www.livrariascuritiba.com.br/taylor-swift-atraves-das-eras---com-brinde-lv508183/p
+
+
+===================== Livro 316
+- Link: https://www.livrariascuritiba.com.br/o-contador-de-historias-lv482975/p
+
+
+===================== Livro 317
+- Link: https://www.livrariascuritiba.com.br/sonic-the-hedgehog---vol-11-lv505384/p
+
+
+===================== Livro 318
+- Link: https://www.livrariascuritiba.com.br/o-alienista---edicao-de-luxo-lv480484/p
+
+
+===================== Livro 319
+- Link: https://www.livrariascuritiba.com.br/as-cabanas-que-o-amor-faz-em-nos-lv517121/p
+
+
+===================== Livro 320
+- Link: https://www.livrariascuritiba.com.br/bolofofos-colorindo-especial-lv518068/p
+
+
+===================== Livro 321
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---16-lv504169/p
+
+
+===================== Livro 322
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-10-lv499758/p
+
+
+===================== Livro 323
+- Link: https://www.livrariascuritiba.com.br/vamos-dormir--lv507945/p
+
+
+===================== Livro 324
+- Link: https://www.livrariascuritiba.com.br/antes-que-o-cafe-esfrie-lv486950/p
+
+
+===================== Livro 325
+- Link: https://www.livrariascuritiba.com.br/nao-venda-produtos--venda-resultado--lv514519/p
+
+
+===================== Livro 326
+- Link: https://www.livrariascuritiba.com.br/princesas-mortas-nao-se-apaixonam-lv502654/p
+
+
+===================== Livro 327
+- Link: https://www.livrariascuritiba.com.br/a-historia-de-anne-frank-lv489792/p
+
+
+===================== Livro 328
+- Link: https://www.livrariascuritiba.com.br/disciplina-sem-drama-lv407530/p
+
+
+===================== Livro 329
+- Link: https://www.livrariascuritiba.com.br/adesivo-sticker-duplo-now-united-tilibra-pp065372/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> TILIBRA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891027322694
+Edição -> 0
+Fabricante -> TILIBRA
+Páginas -> 0
+
+
+===================== Livro 330
+- Link: https://www.livrariascuritiba.com.br/bloco-anotacoes-adesivo-transparente-1-unidade-diversas-cores-pp069502/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> LEONORA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897256217473
+Edição -> 0
+Fabricante -> LEONORA
+Páginas -> 0
+
+
+===================== Livro 331
+- Link: https://www.livrariascuritiba.com.br/just-dance-2022---xbox-one-e-series-x-in028626/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> UBISOFT
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0887256111908
+Edição -> 0
+Fabricante -> UBISOFT
+Páginas -> 0
+
+
+===================== Livro 332
+- Link: https://www.livrariascuritiba.com.br/x-men-60-lv502737/p
+
+
+===================== Livro 333
+- Link: https://www.livrariascuritiba.com.br/fronteiras-do-universo-lv389208/p
+
+
+===================== Livro 334
+- Link: https://www.livrariascuritiba.com.br/os-coracoes-perdidos-lv497958/p
+
+
+===================== Livro 335
+- Link: https://www.livrariascuritiba.com.br/dreams---ps4-in027033/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MEDIA MOLECULE
+Autor -> null
+Ano da Edição -> 2020
+EAN13 -> 0711719503477
+Edição -> 0
+Fabricante -> MEDIA MOLECULE
+Páginas -> 0
+
+
+===================== Livro 336
+- Link: https://www.livrariascuritiba.com.br/o-visconde-que-me-amava---vol-2-lv331772/p
+
+
+===================== Livro 337
+- Link: https://www.livrariascuritiba.com.br/a-ciranda-das-mulheres-sabias-lv504947/p
+
+
+===================== Livro 338
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-neotip-azul-cis-sertic-avulso-pp070846/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> SERTIC
+Ano da Edição -> 1900
+EAN13 -> 7896326931295
+Edição -> 0
+Fabricante -> SERTIC
+Páginas -> 0
+
+
+===================== Livro 339
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---10-lv497422/p
+
+
+===================== Livro 340
+- Link: https://www.livrariascuritiba.com.br/o-fabricante-de-lagrimas-lv506674/p
+
+
+===================== Livro 341
+- Link: https://www.livrariascuritiba.com.br/cd-fergie-double-dutchess-av107091/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> WARNER MUSIC
+Ano da Edição -> 2017
+EAN13 -> 4050538322248
+Edição -> 0
+Fabricante -> WARNER MUSIC
+Páginas -> 0
+
+
+===================== Livro 342
+- Link: https://www.livrariascuritiba.com.br/haikyu---11-lv514503/p
+
+
+===================== Livro 343
+- Link: https://www.livrariascuritiba.com.br/promessas-crueis-com-brinde-vol-2-lv514851/p
+
+
+===================== Livro 344
+- Link: https://www.livrariascuritiba.com.br/menino-larva-lv497941/p
+
+
+===================== Livro 345
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-azul-0-7mm-spiro-gem-cis-52-0621-sertic-pp066567/p
+
+
+===================== Livro 346
+- Link: https://www.livrariascuritiba.com.br/a-casa-do-sol---vol-2-lv506040/p
+
+
+===================== Livro 347
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-15-16-e-17/p
 
 
 =============================== Missing attributes
 Missing attributes:edicao,isbn,numPaginas
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+Ano da Edição -> 9788550703634
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 348
+- Link: https://www.livrariascuritiba.com.br/os-filhos-de-hitler-lv466556/p
+
+
+===================== Livro 349
+- Link: https://www.livrariascuritiba.com.br/gerencie-suas-emocoes-lv479144/p
+
+
+===================== Livro 350
+- Link: https://www.livrariascuritiba.com.br/vita-contemplativa-ou-sobre-a-inatividade-lv504485/p
+
+
+===================== Livro 351
+- Link: https://www.livrariascuritiba.com.br/a-natureza-da-mordida-lv495119/p
+
+
+===================== Livro 352
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-s-pp064866/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778018015
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 353
+- Link: https://www.livrariascuritiba.com.br/o-livro-dos-espiritos-lv213439/p
+
+
+===================== Livro 354
+- Link: https://www.livrariascuritiba.com.br/para-sempre-seu-lv508315/p
+
+
+===================== Livro 355
+- Link: https://www.livrariascuritiba.com.br/blue-lock-04-lv493667/p
+
+
+===================== Livro 356
+- Link: https://www.livrariascuritiba.com.br/rainha-charlotte-lv501292/p
+
+
+===================== Livro 357
+- Link: https://www.livrariascuritiba.com.br/o-taro-adivinhatorio-lv492430/p
+
+
+===================== Livro 358
+- Link: https://www.livrariascuritiba.com.br/o-lado-feio-do-amor-lv384374/p
+
+
+===================== Livro 359
+- Link: https://www.livrariascuritiba.com.br/o-livro-da-biologia-compacto-lv486700/p
+
+
+===================== Livro 360
+- Link: https://www.livrariascuritiba.com.br/um-dia-de-ceu-noturno----vol-2-lv504518/p
+
+
+===================== Livro 361
+- Link: https://www.livrariascuritiba.com.br/medicina-do-amanha-lv470359/p
+
+
+===================== Livro 362
+- Link: https://www.livrariascuritiba.com.br/o-peso-do-passaro-morto-lv449609/p
+
+
+===================== Livro 363
+- Link: https://www.livrariascuritiba.com.br/gokushufudou---tatsu-imortal-10-lv514022/p
+
+
+===================== Livro 364
+- Link: https://www.livrariascuritiba.com.br/marcadores-adesivo-8-cores-neon-80-folhas-pp069237/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PALUMA DISTRIBUIDORA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898650390564
+Edição -> 0
+Fabricante -> PALUMA DISTRIBUIDORA
+Páginas -> 0
+
+
+===================== Livro 365
+- Link: https://www.livrariascuritiba.com.br/selton-mello---eu-me-lembro-lv511046/p
+
+
+===================== Livro 366
+- Link: https://www.livrariascuritiba.com.br/quebrando-o-habito-de-ser-voce-mesmo-lv427172/p
+
+
+===================== Livro 367
+- Link: https://www.livrariascuritiba.com.br/diario-de-uma-garota-nada-popular-4---ed-bolso-lv509745/p
+
+
+===================== Livro 368
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-6-lv310272/p
+
+
+===================== Livro 369
+- Link: https://www.livrariascuritiba.com.br/box-allan-kardec-pocket-lv478582/p
+
+
+===================== Livro 370
+- Link: https://www.livrariascuritiba.com.br/a-estranha-sally-diamond-lv509726/p
+
+
+===================== Livro 371
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-12-lv501827/p
+
+
+===================== Livro 372
+- Link: https://www.livrariascuritiba.com.br/amor-de-redencao---nova-edicao-lv472514/p
+
+
+===================== Livro 373
+- Link: https://www.livrariascuritiba.com.br/o-tatuador-de-auschwitz-capa-serie-lv518307/p
+
+
+===================== Livro 374
+- Link: https://www.livrariascuritiba.com.br/caneta-esferogafica-com-6-cores-harry-potter-1-unidade-diversos-modelos-mania-de-sticker-pp070685/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MANIA DE STICKER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891246071137
+Edição -> 0
+Fabricante -> MANIA DE STICKER
+Páginas -> 0
+
+
+===================== Livro 375
+- Link: https://www.livrariascuritiba.com.br/garotas-em-chamas-lv471846/p
+
+
+===================== Livro 376
+- Link: https://www.livrariascuritiba.com.br/jantar-secreto-lv407199/p
+
+
+===================== Livro 377
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---17-lv505216/p
+
+
+===================== Livro 378
+- Link: https://www.livrariascuritiba.com.br/verity---edicao-de-colecionador-lv517384/p
+
+
+===================== Livro 379
+- Link: https://www.livrariascuritiba.com.br/vai-com-medo--lv487111/p
+
+
+===================== Livro 380
+- Link: https://www.livrariascuritiba.com.br/tipobilhete---todas-as-flores-que-nao-te-enviei-lv438075/p
+
+
+===================== Livro 381
+- Link: https://www.livrariascuritiba.com.br/ed-e-lorraine-warren---demonologistas-lv405519/p
+
+
+===================== Livro 382
+- Link: https://www.livrariascuritiba.com.br/a-mulher-em-mim---com-brinde-lv505600/p
+
+
+===================== Livro 383
+- Link: https://www.livrariascuritiba.com.br/sergio-rodrigues-em-brasilia-1956-1981-lv508531/p
+
+
+===================== Livro 384
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-06-lv464366/p
+
+
+===================== Livro 385
+- Link: https://www.livrariascuritiba.com.br/ataque-dos-titas---11-lv480322/p
+
+
+===================== Livro 386
+- Link: https://www.livrariascuritiba.com.br/comunicacao-nao-violenta---nova-edicao-lv476295/p
+
+
+===================== Livro 387
+- Link: https://www.livrariascuritiba.com.br/vinte-mil-leguas-submarinas-lv502271/p
+
+
+===================== Livro 388
+- Link: https://www.livrariascuritiba.com.br/capa-e-contracapa-a5-agatha-caderno-inteligente-pp068946/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> NOVITATE - CADERNO INTELIGENTE
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7895099706956
+Edição -> 0
+Fabricante -> NOVITATE - CADERNO INTELIGENTE
+Páginas -> 0
+
+
+===================== Livro 389
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-terra-queimada-fashion-color-aquarela-silk-514-acrilex-pp065170/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036533
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 390
+- Link: https://www.livrariascuritiba.com.br/blue-lock-vol--3-lv492559/p
+
+
+===================== Livro 391
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-10-lv468109/p
+
+
+===================== Livro 392
+- Link: https://www.livrariascuritiba.com.br/classico-para-todos-o-anticristo-lv494449/p
+
+
+===================== Livro 393
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-03-lv463521/p
+
+
+===================== Livro 394
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-100cm-vermelho-numero-5-pp065088/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778373015
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 395
+- Link: https://www.livrariascuritiba.com.br/a-aposta-final-jogos-de-heranca---livro-3-lv493518/p
+
+
+===================== Livro 396
+- Link: https://www.livrariascuritiba.com.br/assistente-do-vilao-lv510648/p
+
+
+===================== Livro 397
+- Link: https://www.livrariascuritiba.com.br/meus-dias-na-livraria-morisaki-lv509695/p
+
+
+===================== Livro 398
+- Link: https://www.livrariascuritiba.com.br/frieren-e-a-jornada-para-o-alem-5-lv497445/p
+
+
+===================== Livro 399
+- Link: https://www.livrariascuritiba.com.br/trono-de-vidro---edicao-especial---rainha-das-sombras---vol-5-lv509508/p
+
+
+===================== Livro 400
+- Link: https://www.livrariascuritiba.com.br/bloom-into-you-3-lv476014/p
+
+
+===================== Livro 401
+- Link: https://www.livrariascuritiba.com.br/caderno-inteligente-80f-a5-by-harry-potter-novitate-pp069873/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> NOVITATE - CADERNO INTELIGENTE
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7894494757402
+Edição -> 0
+Fabricante -> NOVITATE - CADERNO INTELIGENTE
+Páginas -> 0
+
+
+===================== Livro 402
+- Link: https://www.livrariascuritiba.com.br/dragon-ball-edicao-definitiva-01-lv445970/p
+
+
+===================== Livro 403
+- Link: https://www.livrariascuritiba.com.br/neon-genesis-evangelion-collector-s-edition---vol-1-lv495779/p
+
+
+===================== Livro 404
+- Link: https://www.livrariascuritiba.com.br/momentos-especiais---livro-do-bebe--azul--lv502960/p
+
+
+===================== Livro 405
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-t-pp064988/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778019012
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 406
+- Link: https://www.livrariascuritiba.com.br/a-volta-do-parafuso-lv513069/p
+
+
+===================== Livro 407
+- Link: https://www.livrariascuritiba.com.br/caderneta-espiral-60f-organizer-pp063398/p
+
+
+===================== Livro 408
+- Link: https://www.livrariascuritiba.com.br/uma-lista-quase-definitiva-de-piores-medos-lv465046/p
+
+
+===================== Livro 409
+- Link: https://www.livrariascuritiba.com.br/mude-seus-horarios-mude-sua-vida-lv459317/p
+
+
+===================== Livro 410
+- Link: https://www.livrariascuritiba.com.br/a-saga-do-batman-34-lv510396/p
+
+
+===================== Livro 411
+- Link: https://www.livrariascuritiba.com.br/o-visconde-que-me-amava---livro-2---edicao-de-luxo-lv470115/p
+
+
+===================== Livro 412
+- Link: https://www.livrariascuritiba.com.br/o-ego-e-seu-inimigo-lv420309/p
+
+
+===================== Livro 413
+- Link: https://www.livrariascuritiba.com.br/em-chamas---capa-preta-lv504274/p
+
+
+===================== Livro 414
+- Link: https://www.livrariascuritiba.com.br/um-livro-kit-divertido--arca-lv517468/p
+
+
+===================== Livro 415
+- Link: https://www.livrariascuritiba.com.br/amor-e-sorte-lv465384/p
+
+
+===================== Livro 416
+- Link: https://www.livrariascuritiba.com.br/ataque-dos-titas---02-lv479031/p
+
+
+===================== Livro 417
+- Link: https://www.livrariascuritiba.com.br/x-men-66-lv510408/p
+
+
+===================== Livro 418
+- Link: https://www.livrariascuritiba.com.br/experimentos-ao-ar-livre-com-o-manual-do-mundo-lv479255/p
+
+
+===================== Livro 419
+- Link: https://www.livrariascuritiba.com.br/demon-slayer-01---flor-da-felicidade-lv484794/p
+
+
+===================== Livro 420
+- Link: https://www.livrariascuritiba.com.br/a-unica-coisa-lv471844/p
+
+
+===================== Livro 421
+- Link: https://www.livrariascuritiba.com.br/copo-para-agua-180ml-100un-abnt-copobras-pp051082/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> COPOBRAS S/A
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896030892639
+Edição -> 0
+Fabricante -> COPOBRAS S/A
+Páginas -> 0
+
+
+===================== Livro 422
+- Link: https://www.livrariascuritiba.com.br/pokemon-box-escartale-e-violeta---zapdos-ex---copag-in030667/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> COPAG
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896192333544
+Edição -> 0
+Fabricante -> COPAG
+Páginas -> 0
+
+
+===================== Livro 423
+- Link: https://www.livrariascuritiba.com.br/magra-para-sempre---edicao-pop-lv505189/p
+
+
+===================== Livro 424
+- Link: https://www.livrariascuritiba.com.br/os-32-principios-lv508971/p
+
+
+===================== Livro 425
+- Link: https://www.livrariascuritiba.com.br/o-clube-do-pepezinho-lv474602/p
+
+
+===================== Livro 426
+- Link: https://www.livrariascuritiba.com.br/ate-nunca-mais-lv507667/p
+
+
+===================== Livro 427
+- Link: https://www.livrariascuritiba.com.br/o-jeito-disney-de-encantar-os-clientes-lv285714/p
+
+
+===================== Livro 428
+- Link: https://www.livrariascuritiba.com.br/venda--lv502266/p
+
+
+===================== Livro 429
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-vivo-fashion-color-aquarela-silk-558-acrilex-pp065180/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036359
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 430
+- Link: https://www.livrariascuritiba.com.br/o-grande-livro-de-matematica-do-manual-do-mundo-lv489252/p
+
+
+===================== Livro 431
+- Link: https://www.livrariascuritiba.com.br/salvar-o-fogo-lv500711/p
+
+
+===================== Livro 432
+- Link: https://www.livrariascuritiba.com.br/cd-the-chanceller-synth-electro-bass--cd---dvd--av092854/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,editora,autores
+
+======== Available attributes
+Ano da Edição -> 2013
+EAN13 -> 0081159477462
+Edição -> 0
+Fabricante -> CHANCELLER
+Páginas -> 0
+
+
+===================== Livro 433
+- Link: https://www.livrariascuritiba.com.br/loucas-de-familia-lv500556/p
+
+
+===================== Livro 434
+- Link: https://www.livrariascuritiba.com.br/nada-fica-no-passado-lv497143/p
+
+
+===================== Livro 435
+- Link: https://www.livrariascuritiba.com.br/guerra--adoravel-guerra-lv514861/p
+
+
+===================== Livro 436
+- Link: https://www.livrariascuritiba.com.br/mega-magicas---premium-lv508620/p
+
+
+===================== Livro 437
+- Link: https://www.livrariascuritiba.com.br/berserk-05-lv474182/p
+
+
+===================== Livro 438
+- Link: https://www.livrariascuritiba.com.br/orixas-na-umbanda-lv513907/p
+
+
+===================== Livro 439
+- Link: https://www.livrariascuritiba.com.br/as-vitoriosas-lv492675/p
+
+
+===================== Livro 440
+- Link: https://www.livrariascuritiba.com.br/amor-e-azeitonas-lv477544/p
+
+
+===================== Livro 441
+- Link: https://www.livrariascuritiba.com.br/a-floresta-sombria-vol-2-lv420729/p
+
+
+===================== Livro 442
+- Link: https://www.livrariascuritiba.com.br/moksha-lv488128/p
+
+
+===================== Livro 443
+- Link: https://www.livrariascuritiba.com.br/o-gato-que-amava-livros-lv489853/p
+
+
+===================== Livro 444
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-15-16-e-faca-voce-mesmo-kt000205/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> 2 CAPA DURA 1 BROCHURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576833926
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788576833926
+
+
+===================== Livro 445
+- Link: https://www.livrariascuritiba.com.br/cacador--five-nights-at-freddy-s--pavores-de-fazbear--2-lv513303/p
+
+
+===================== Livro 446
+- Link: https://www.livrariascuritiba.com.br/amor-em-jogo---ecobag-lv516604/p
+
+
+===================== Livro 447
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-1-lv228501/p
+
+
+===================== Livro 448
+- Link: https://www.livrariascuritiba.com.br/o-poder-do-agora-lv160818/p
+
+
+===================== Livro 449
+- Link: https://www.livrariascuritiba.com.br/o-parque-da-minha-cidade-lv516389/p
+
+
+===================== Livro 450
+- Link: https://www.livrariascuritiba.com.br/biblia-todo-dia-coracao-lv510962/p
+
+
+===================== Livro 451
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-eu-comigo-livro-de-colorir-kt004450-/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> VIDA E CONSCIENCIA
+Autor -> ZIBIA GASPARETTO
+EAN13 -> 7897476681105
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 452
+- Link: https://www.livrariascuritiba.com.br/de-sangue-e-cinzas---vol-1-lv479999/p
+
+
+===================== Livro 453
+- Link: https://www.livrariascuritiba.com.br/sonic-the-hedgehog---vol-12-lv504239/p
+
+
+===================== Livro 454
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-c-pp064973/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778002014
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 455
+- Link: https://www.livrariascuritiba.com.br/os-sete-maridos-de-evelyn-hugo-lv454345/p
+
+
+===================== Livro 456
+- Link: https://www.livrariascuritiba.com.br/o-ato-criativo-lv504643/p
+
+
+===================== Livro 457
+- Link: https://www.livrariascuritiba.com.br/bluey-prancheta-divertida-lv518069/p
+
+
+===================== Livro 458
+- Link: https://www.livrariascuritiba.com.br/cabeca-fria-coracao-quente-lv487602/p
+
+
+===================== Livro 459
+- Link: https://www.livrariascuritiba.com.br/o-guia-juridico-da-tokenizacao-lv510448/p
+
+
+===================== Livro 460
+- Link: https://www.livrariascuritiba.com.br/nos-dois-na-lua-lv494542/p
+
+
+===================== Livro 461
+- Link: https://www.livrariascuritiba.com.br/1964--os-olhos-do-furacao-lv499601/p
+
+
+===================== Livro 462
+- Link: https://www.livrariascuritiba.com.br/se-nao-eu-quem-vai-fazer-voce-feliz--lv434989/p
+
+
+===================== Livro 463
+- Link: https://www.livrariascuritiba.com.br/o-mar-de-monstros---vol--ii---nova-capa-lv506945/p
+
+
+===================== Livro 464
+- Link: https://www.livrariascuritiba.com.br/dopamina--a-molecula-do-desejo-lv499997/p
+
+
+===================== Livro 465
+- Link: https://www.livrariascuritiba.com.br/avatar-as-aventuras-perdidas-a-lenda-de-aang-lv485415/p
+
+
+===================== Livro 466
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---19-lv507829/p
+
+
+===================== Livro 467
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---12-lv499719/p
+
+
+===================== Livro 468
+- Link: https://www.livrariascuritiba.com.br/o-testamento-do-juizo-final-lv334984/p
+
+
+===================== Livro 469
+- Link: https://www.livrariascuritiba.com.br/causas-nao-naturais-lv518288/p
+
+
+===================== Livro 470
+- Link: https://www.livrariascuritiba.com.br/papo-com-deus-lv512199/p
+
+
+===================== Livro 471
+- Link: https://www.livrariascuritiba.com.br/spy-x-family-n-11-lv504638/p
+
+
+===================== Livro 472
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-cabeca-fria-coracao-quente--kt004446/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> GAROA
+Autor -> ABEL FERREIRA
+EAN13 -> 7897476681102
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 473
+- Link: https://www.livrariascuritiba.com.br/a-maldicao-do-ex-lv490336/p
+
+
+===================== Livro 474
+- Link: https://www.livrariascuritiba.com.br/spa-lv502543/p
+
+
+===================== Livro 475
+- Link: https://www.livrariascuritiba.com.br/boa-garota-segredo-mortal---vol-2-lv491963/p
+
+
+===================== Livro 476
+- Link: https://www.livrariascuritiba.com.br/eu-te-amo-porque----lv501448/p
+
+
+===================== Livro 477
+- Link: https://www.livrariascuritiba.com.br/slash-a-autobiografia-edicao-luxo-com-brindes-lv492922/p
+
+
+===================== Livro 478
+- Link: https://www.livrariascuritiba.com.br/deadpool---ainda-mais-sangue-ruim-lv514031/p
+
+
+===================== Livro 479
+- Link: https://www.livrariascuritiba.com.br/o-ano-em-que-menos-e-muito-mais-lv469089/p
+
+
+===================== Livro 480
+- Link: https://www.livrariascuritiba.com.br/a-magica-mortal-com-brinde-lv507409/p
+
+
+===================== Livro 481
+- Link: https://www.livrariascuritiba.com.br/clarice-lispector---todos-os-contos-lv397387/p
+
+
+===================== Livro 482
+- Link: https://www.livrariascuritiba.com.br/o-caderno-de-maldades-do-scorpio-lv515827/p
+
+
+===================== Livro 483
+- Link: https://www.livrariascuritiba.com.br/maria-madalena-lv514801/p
+
+
+===================== Livro 484
+- Link: https://www.livrariascuritiba.com.br/manual-para-damas-em-busca-de-um-marido--rico--lv499298/p
+
+
+===================== Livro 485
+- Link: https://www.livrariascuritiba.com.br/mulheres-que-correm-com-os-lobos-lv437200/p
+
+
+===================== Livro 486
+- Link: https://www.livrariascuritiba.com.br/pintura-magica--selva-lv498911/p
+
+
+===================== Livro 487
+- Link: https://www.livrariascuritiba.com.br/verity-lv461348/p
+
+
+===================== Livro 488
+- Link: https://www.livrariascuritiba.com.br/harry-potter-e-o-prisioneiro-de-azkaban---ilustrado-por-minalima-lv509731/p
+
+
+===================== Livro 489
+- Link: https://www.livrariascuritiba.com.br/e-assim-que-acaba-lv424631/p
+
+
+===================== Livro 490
+- Link: https://www.livrariascuritiba.com.br/madre-teresa---amar-e-ser-amado-lv493212/p
+
+
+===================== Livro 491
+- Link: https://www.livrariascuritiba.com.br/os-quatro-ventos-lv485165/p
+
+
+===================== Livro 492
+- Link: https://www.livrariascuritiba.com.br/corrupcao-da-linguagem--corrupcao-do-carater-lv517490/p
+
+
+===================== Livro 493
+- Link: https://www.livrariascuritiba.com.br/box-mulheres-e-bruxaria-lv494814/p
+
+
+===================== Livro 494
+- Link: https://www.livrariascuritiba.com.br/one-piece-receitas-piratas-1-lv509248/p
+
+
+===================== Livro 495
+- Link: https://www.livrariascuritiba.com.br/as-48-leis-do-poder-lv478115/p
+
+
+===================== Livro 496
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-09-lv467319/p
+
+
+===================== Livro 497
+- Link: https://www.livrariascuritiba.com.br/ayrton-senna-lv256919/p
+
+
+===================== Livro 498
+- Link: https://www.livrariascuritiba.com.br/mo-dao-zu-shi--o-fundador-da-cultivacao-demoniaca-livro-1-lv487557/p
+
+
+===================== Livro 499
+- Link: https://www.livrariascuritiba.com.br/copo-slim-canudo-500ml-vai-brasil-azul-cl0088-lumni-pr013729/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 499
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun---vol-7-lv452165/p
+
+
+===================== Livro 500
+- Link: https://www.livrariascuritiba.com.br/o-passeador-de-livros-lv495109/p
+
+
+===================== Livro 501
+- Link: https://www.livrariascuritiba.com.br/promessas-crueis-vol-2-lv514852/p
+
+
+===================== Livro 502
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-3-4-e-5-kt000201/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576832769
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788576832769
+
+
+===================== Livro 503
+- Link: https://www.livrariascuritiba.com.br/re-zero---comecando-uma-vida-em-outro-mundo---vol-24-lv514893/p
+
+
+===================== Livro 504
+- Link: https://www.livrariascuritiba.com.br/tupac-shakur---a-biografia-autorizada-lv509332/p
+
+
+===================== Livro 505
+- Link: https://www.livrariascuritiba.com.br/nos-nao-testamos-este-troco-cinetico-in030892/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> BURO
+Autor -> null
+Ano da Edição -> 2023
+EAN13 -> 7897373148896
+Edição -> 0
+Fabricante -> BURO
+Páginas -> 0
+
+
+===================== Livro 506
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-homem-cao-7-8-e-9-kt000084-/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> CIA DAS LETRINHAS
+Autor -> DAV PILKEY
+EAN13 -> 9788574069160
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788574069160
+
+
+===================== Livro 507
+- Link: https://www.livrariascuritiba.com.br/a-coragem-para-liderar-lv449172/p
+
+
+===================== Livro 508
+- Link: https://www.livrariascuritiba.com.br/jogo-fatal-lv503069/p
+
+
+===================== Livro 509
+- Link: https://www.livrariascuritiba.com.br/cancao-dos-ossos---brindes-lv515460/p
+
+
+===================== Livro 510
+- Link: https://www.livrariascuritiba.com.br/experiencia-carnivora-lv511826/p
+
+
+===================== Livro 511
+- Link: https://www.livrariascuritiba.com.br/a-queda-da-casa-morta-lv508824/p
+
+
+===================== Livro 512
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-as-aventuras-de-mike-6-volumes-kt000454/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas
+
+======== Available attributes
+Formato -> Brochura e Capa Dura
+Editora -> OUTRO PLANETA
+Autor -> MANU DIGILO e GABRIEL DEARO
+Ano da Edição -> 2019 a 2023
+EAN13 -> 9788550703643
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 513
+- Link: https://www.livrariascuritiba.com.br/talvez-a-sua-jornada-agora-seja-so-sobre-voce-lv488552/p
+
+
+===================== Livro 514
+- Link: https://www.livrariascuritiba.com.br/caderno-sem-pauta-a4-50-folhas-sketchbook-espiral-academie-pp065317/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> TILIBRA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891027322748
+Edição -> 0
+Fabricante -> TILIBRA
+Páginas -> 0
+
+
+===================== Livro 515
+- Link: https://www.livrariascuritiba.com.br/ted---falar-convencer-emocionar-lv353404/p
+
+
+===================== Livro 516
+- Link: https://www.livrariascuritiba.com.br/em-outra-vida--talvez--lv484662/p
+
+
+===================== Livro 517
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-100cm-dourado-numero-6-pp064870/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778298011
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 518
+- Link: https://www.livrariascuritiba.com.br/dragon-ball-super-16-lv480947/p
+
+
+===================== Livro 519
+- Link: https://www.livrariascuritiba.com.br/box-o-castelo-animado-lv472796/p
+
+
+===================== Livro 520
+- Link: https://www.livrariascuritiba.com.br/brisingr---livro-3---nova-versao-lv473691/p
+
+
+===================== Livro 521
+- Link: https://www.livrariascuritiba.com.br/o-rei-perverso---vol-2-lv463140/p
+
+
+===================== Livro 522
+- Link: https://www.livrariascuritiba.com.br/diario-de-uma-garota-nada-popular-2---ed-bolso-lv509747/p
+
+
+===================== Livro 523
+- Link: https://www.livrariascuritiba.com.br/poema-sujo-lv401672/p
+
+
+===================== Livro 524
+- Link: https://www.livrariascuritiba.com.br/amor-em-roma-lv507532/p
+
+
+===================== Livro 525
+- Link: https://www.livrariascuritiba.com.br/bloco-de-anotacoes-adesivo-amarelo-neon-com-100-folhas-7-5x7-5cm-plm-pp069222/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PALUMA DISTRIBUIDORA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898650390403
+Edição -> 0
+Fabricante -> PALUMA DISTRIBUIDORA
+Páginas -> 0
+
+
+===================== Livro 526
+- Link: https://www.livrariascuritiba.com.br/a-floresta-dos-cinco-poderes-lv450728/p
+
+
+===================== Livro 527
+- Link: https://www.livrariascuritiba.com.br/album-capa-dura-prata-copa-do-mundo-qatar-2022-lv494815/p
+
+
+===================== Livro 528
+- Link: https://www.livrariascuritiba.com.br/a-coragem-de-nao-agradar-lv426280/p
+
+
+===================== Livro 529
+- Link: https://www.livrariascuritiba.com.br/meu-sol-de-primavera-lv511187/p
+
+
+===================== Livro 530
+- Link: https://www.livrariascuritiba.com.br/biblia-lion-colors---letra-normal-lv508190/p
+
+
+===================== Livro 531
+- Link: https://www.livrariascuritiba.com.br/as-armas-da-persuasao-lv313058/p
+
+
+===================== Livro 532
+- Link: https://www.livrariascuritiba.com.br/meia-palavra-basta-lv515834/p
+
+
+===================== Livro 533
+- Link: https://www.livrariascuritiba.com.br/quebra-cabeca-500-pecas-nano-postais-do-mundo-egito-piramides-de-gize-br004147/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> TOYSTER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896054032233
+Edição -> 0
+Fabricante -> TOYSTER
+Páginas -> 0
+
+
+===================== Livro 534
+- Link: https://www.livrariascuritiba.com.br/a-biblioteca-da-meia-noite-lv479133/p
+
+
+===================== Livro 535
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-5-6-e-7-kt000047/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> Vergara e Riba
+Autor -> JEFF KINNEY
+EAN13 -> 9788576833081
+Idioma -> PORTUGUÊS, PORTUGÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 536
+- Link: https://www.livrariascuritiba.com.br/os-quatro-compromissos-lv474545/p
+
+
+===================== Livro 537
+- Link: https://www.livrariascuritiba.com.br/mulheres-enraizadas-lv508134/p
+
+
+===================== Livro 538
+- Link: https://www.livrariascuritiba.com.br/os-ultimos-jovens-da-terra-a-jornada-heroica-de-quint-e-dirk---spin-off-lv501472/p
+
+
+===================== Livro 539
+- Link: https://www.livrariascuritiba.com.br/carmilla---a-vampira-de-karnstein-e-o-vampiro-de-john-william-polidori-lv478533/p
+
+
+===================== Livro 540
+- Link: https://www.livrariascuritiba.com.br/amor-corrompido-lv500477/p
+
+
+===================== Livro 541
+- Link: https://www.livrariascuritiba.com.br/bom-dia--veronica---nova-edicao-lv492331/p
+
+
+===================== Livro 542
+- Link: https://www.livrariascuritiba.com.br/chainsaw-man-01-lv472354/p
+
+
+===================== Livro 543
+- Link: https://www.livrariascuritiba.com.br/como-morrem-os-pobres-e-outras-historias-lv486416/p
+
+
+===================== Livro 544
+- Link: https://www.livrariascuritiba.com.br/ze-carioca-conta-a-historia-do-brasil-lv507306/p
+
+
+===================== Livro 545
+- Link: https://www.livrariascuritiba.com.br/mo-dao-zu-shi-o-fundador-da-cultivacao-demoniaca---livro-3-lv504247/p
+
+
+===================== Livro 546
+- Link: https://www.livrariascuritiba.com.br/fazendo-arte-livro-dos-bichinhos-de-origami-toyster-br003875/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> TOYSTER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 9786586215304
+Edição -> 0
+Fabricante -> TOYSTER
+Páginas -> 0
+
+
+===================== Livro 547
+- Link: https://www.livrariascuritiba.com.br/as-cronicas-de-narnia--principe-caspian-lv498228/p
+
+
+===================== Livro 548
+- Link: https://www.livrariascuritiba.com.br/arsene-lupin---o-ladrao-de-casaca-lv471320/p
+
+
+===================== Livro 549
+- Link: https://www.livrariascuritiba.com.br/manual-do-luto-lv507175/p
+
+
+===================== Livro 550
+- Link: https://www.livrariascuritiba.com.br/arrancada-do-meu-mundo-lv462938/p
+
+
+===================== Livro 551
+- Link: https://www.livrariascuritiba.com.br/inexigibilidade-de-licitacao-lv510838/p
+
+
+===================== Livro 552
+- Link: https://www.livrariascuritiba.com.br/frieren-e-a-jornada-para-o-alem---4-lv494897/p
+
+
+===================== Livro 553
+- Link: https://www.livrariascuritiba.com.br/antimedo-lv504363/p
+
+
+===================== Livro 554
+- Link: https://www.livrariascuritiba.com.br/sacola-dia-das-maes-lv487174/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> LIVRARIAS CURITIBA
+Ano da Edição -> 2022
+EAN13 -> 9780002976466
+Edição -> 1
+Fabricante -> LIVRARIAS CURITIBA
+Compre Junto -> Compre Junto
+Páginas -> 0
+
+
+===================== Livro 555
+- Link: https://www.livrariascuritiba.com.br/idiotices-que-pessoas-inteligentes-fazem-com-o-proprio-dinheiro-lv458984/p
+
+
+===================== Livro 556
+- Link: https://www.livrariascuritiba.com.br/diario-com-chave-stitch-48-folhas-pp069861/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> VMP EMBALAGENS.
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7899785583432
+Edição -> 0
+Fabricante -> VMP EMBALAGENS.
+Páginas -> 0
+
+
+===================== Livro 557
+- Link: https://www.livrariascuritiba.com.br/a-inconveniente-loja-de-conveniencia-lv509925/p
+
+
+===================== Livro 558
+- Link: https://www.livrariascuritiba.com.br/hello-kitty-2024---envelopes-soltos-af000022/p
+
+
+===================== Livro 559
+- Link: https://www.livrariascuritiba.com.br/jogo-de-xadrez-dama-e-gamao-dobravel-madeira-39x39cm-pr012836/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> BOM DIA COMPRAS
+Ano da Edição -> 1900
+EAN13 -> 7908045127962
+Edição -> 0
+Fabricante -> BOM DIA COMPRAS
+Páginas -> 0
+
+
+===================== Livro 560
+- Link: https://www.livrariascuritiba.com.br/em-agosto-nos-vemos-lv513546/p
+
+
+===================== Livro 561
+- Link: https://www.livrariascuritiba.com.br/o-cerebro-da-crianca-lv389356/p
+
+
+===================== Livro 562
+- Link: https://www.livrariascuritiba.com.br/jojo-s-bizarre-adventure-parte-5--golden-wind-vol--10-lv509235/p
+
+
+===================== Livro 563
+- Link: https://www.livrariascuritiba.com.br/corpo-publico-lv480337/p
+
+
+===================== Livro 564
+- Link: https://www.livrariascuritiba.com.br/jesus-lv429492/p
+
+
+===================== Livro 565
+- Link: https://www.livrariascuritiba.com.br/manual-de-assassinato-para-boas-garotas---vol-1-lv486173/p
+
+
+===================== Livro 566
+- Link: https://www.livrariascuritiba.com.br/pintura-magica--animais-de-estimacao-lv498912/p
+
+
+===================== Livro 567
+- Link: https://www.livrariascuritiba.com.br/harry-potter--o-almanaque-magico-lv508287/p
+
+
+===================== Livro 568
+- Link: https://www.livrariascuritiba.com.br/papel-fotografico-dupla-face-a4-220g-20folhas-00062-off-paper-pp055607/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> OFF PAPER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898306084366
+Edição -> 0
+Fabricante -> OFF PAPER
+Páginas -> 0
+
+
+===================== Livro 569
+- Link: https://www.livrariascuritiba.com.br/bunny-lv513796/p
+
+
+===================== Livro 570
+- Link: https://www.livrariascuritiba.com.br/nadando-no-escuro---com-brinde-lv513757/p
+
+
+===================== Livro 571
+- Link: https://www.livrariascuritiba.com.br/cd-antara---en-vivo-av064901/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> GAITEIROS DE LUME
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 9780000289742
+Edição -> 0
+Fabricante -> GAITEIROS DE LUME
+Páginas -> 0
+
+
+===================== Livro 572
+- Link: https://www.livrariascuritiba.com.br/amores-verdadeiros-lv463483/p
+
+
+===================== Livro 573
+- Link: https://www.livrariascuritiba.com.br/as-aventuras-de-mike-4---a-origem-de-robson-lv509320/p
+
+
+===================== Livro 574
+- Link: https://www.livrariascuritiba.com.br/elon-musk-lv503301/p
+
+
+===================== Livro 575
+- Link: https://www.livrariascuritiba.com.br/um-feitico-de-amor-lv512399/p
+
+
+===================== Livro 576
+- Link: https://www.livrariascuritiba.com.br/o-filho-de-hitler-lv472638/p
+
+
+===================== Livro 577
+- Link: https://www.livrariascuritiba.com.br/a-cada-ultimo-suspiro-lv501500/p
+
+
+===================== Livro 578
+- Link: https://www.livrariascuritiba.com.br/o-assassino-em-mim-lv506357/p
+
+
+===================== Livro 579
+- Link: https://www.livrariascuritiba.com.br/classico-para-todos---auto-da-compadecida-lv494460/p
+
+
+===================== Livro 580
+- Link: https://www.livrariascuritiba.com.br/imitacao-de-cristo-lv384784/p
+
+
+===================== Livro 581
+- Link: https://www.livrariascuritiba.com.br/o-menino-da-lista-de-schindler-lv368057/p
+
+
+===================== Livro 582
+- Link: https://www.livrariascuritiba.com.br/neon-genesis-evangelion-collector-s-edition---vol-4-lv514501/p
+
+
+===================== Livro 583
+- Link: https://www.livrariascuritiba.com.br/sao-paulo-nas-alturas-lv511531/p
+
+
+===================== Livro 584
+- Link: https://www.livrariascuritiba.com.br/amor--teoricamente-lv505089/p
+
+
+===================== Livro 585
+- Link: https://www.livrariascuritiba.com.br/sacola-de-tecido-ecobag-eu-amo-livros-pr012221/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MR FLY
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898635857259
+Edição -> 0
+Fabricante -> MR FLY
+Páginas -> 0
+
+
+===================== Livro 586
+- Link: https://www.livrariascuritiba.com.br/os-ultimos-jovens-da-terra---a-ameaca-cosmica---vol-4-lv466426/p
+
+
+===================== Livro 587
+- Link: https://www.livrariascuritiba.com.br/maria-clara---jp--um-mundo-de-diversao-para-voce--lv495398/p
+
+
+===================== Livro 588
+- Link: https://www.livrariascuritiba.com.br/o-menino-a-toupeira-a-raposa-e-o-cavalo-lv468300/p
+
+
+===================== Livro 589
+- Link: https://www.livrariascuritiba.com.br/talvez-um-dia-lv397546/p
+
+
+===================== Livro 590
+- Link: https://www.livrariascuritiba.com.br/divertida-mente-2---envelopes-soltos-af000042/p
+
+
+===================== Livro 591
+- Link: https://www.livrariascuritiba.com.br/a-princesa-e-o-queijo-quente-lv506642/p
+
+
+===================== Livro 592
+- Link: https://www.livrariascuritiba.com.br/a-saga-do-batman-23-lv497467/p
+
+
+===================== Livro 593
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-12-13-e-14-kt000204/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788550702477
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788550702477
+
+
+===================== Livro 594
+- Link: https://www.livrariascuritiba.com.br/guia-pratico-me-poupe--lv468715/p
+
+
+===================== Livro 595
+- Link: https://www.livrariascuritiba.com.br/haikyu---7-lv506662/p
+
+
+===================== Livro 596
+- Link: https://www.livrariascuritiba.com.br/quarta-asa-lv512445/p
+
+
+===================== Livro 597
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-11-12-e-13-kt000049/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> Vergara e Riba
+Autor -> JEFF KINNEY
+EAN13 -> 9788550701449
+Idioma -> PORTUGUÊS, PORTUGÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 598
+- Link: https://www.livrariascuritiba.com.br/teclado-wireless-k380-layout-us-grafite---logitech-in030814/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Garantia -> 12 MESES DE GARANTIA PELO FABRICANTE
+Editora -> LOGITECH
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0097855186249
+Edição -> 0
+Fabricante -> LOGITECH
+Páginas -> 0
+
+
+===================== Livro 599
+- Link: https://www.livrariascuritiba.com.br/uma-ideia-de-voce-lv501688/p
+
+
+===================== Livro 600
+- Link: https://www.livrariascuritiba.com.br/os-ultimos-jovens-da-terra-e-a-corrida-do-fim-do-mundo-vol-7-lv495132/p
+
+
+===================== Livro 601
+- Link: https://www.livrariascuritiba.com.br/jogos-vorazes---capa-preta-lv487170/p
+
+
+===================== Livro 602
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-siena-natural-fashion-color-aquarela-silk-539-acrilex-pp065178/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153037929
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 603
+- Link: https://www.livrariascuritiba.com.br/black-clover-31-lv496233/p
+
+
+===================== Livro 604
+- Link: https://www.livrariascuritiba.com.br/amor-as-causas-perdidas-lv506366/p
+
+
+===================== Livro 605
+- Link: https://www.livrariascuritiba.com.br/o-sol-e-a-estrela-lv502865/p
+
+
+===================== Livro 606
+- Link: https://www.livrariascuritiba.com.br/bloom-into-you-2-lv474222/p
+
+
+===================== Livro 607
+- Link: https://www.livrariascuritiba.com.br/habitos-atomicos-lv453264/p
+
+
+===================== Livro 608
+- Link: https://www.livrariascuritiba.com.br/harry-potter---hermione-granger--167----funko-in031470/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> FUNKO
+Ano da Edição -> 1900
+EAN13 -> 7900126112805
+Edição -> 0
+Fabricante -> FUNKO
+Páginas -> 0
+
+
+===================== Livro 609
+- Link: https://www.livrariascuritiba.com.br/para-conquistar-um-libertino---livro-1-lv469427/p
+
+
+===================== Livro 610
+- Link: https://www.livrariascuritiba.com.br/as-cronicas-de-spiderwick-lv507474/p
+
+
+===================== Livro 611
+- Link: https://www.livrariascuritiba.com.br/o-calice-dos-deuses---vol--vi-lv506947/p
+
+
+===================== Livro 612
+- Link: https://www.livrariascuritiba.com.br/eu-vou-te-encontrar-lv512871/p
+
+
+===================== Livro 613
+- Link: https://www.livrariascuritiba.com.br/dvd-luan-santana---1977-av104965/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Legendas -> INGLÊS, PORTUGUÊS, ESPANHOL
+Editora -> SOM LIVRE
+Autor -> null
+Ano da Edição -> 2016
+EAN13 -> 7891430175597
+Edição -> 0
+Fabricante -> SOM LIVRE
+Páginas -> 0
+
+
+===================== Livro 614
+- Link: https://www.livrariascuritiba.com.br/a-travessia-de-greta-james-lv489209/p
+
+
+===================== Livro 615
+- Link: https://www.livrariascuritiba.com.br/nana-1-lv496572/p
+
+
+===================== Livro 616
+- Link: https://www.livrariascuritiba.com.br/ataque-dos-titas-12-lv480323/p
+
+
+===================== Livro 617
+- Link: https://www.livrariascuritiba.com.br/cacador-sem-coracao---com-brinde-lv517079/p
+
+
+===================== Livro 618
+- Link: https://www.livrariascuritiba.com.br/caneta-marca-texto-destaq-mentos-4-cores-pastel-compactor-blister-pp070200/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> COMPACTOR
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896572039660
+Edição -> 0
+Fabricante -> COMPACTOR
+Páginas -> 0
+
+
+===================== Livro 619
+- Link: https://www.livrariascuritiba.com.br/foco-roubado-lv502856/p
+
+
+===================== Livro 620
+- Link: https://www.livrariascuritiba.com.br/o-pacto-da-agua-lv514091/p
+
+
+===================== Livro 621
+- Link: https://www.livrariascuritiba.com.br/o-manifesto-comunista-lv481769/p
+
+
+===================== Livro 622
+- Link: https://www.livrariascuritiba.com.br/voos-da-imaginacao-lv379699/p
+
+
+===================== Livro 623
+- Link: https://www.livrariascuritiba.com.br/frieren-e-a-jornada-para-o-alem---03-lv492506/p
+
+
+===================== Livro 624
+- Link: https://www.livrariascuritiba.com.br/ataque-dos-titas-07-lv479038/p
+
+
+===================== Livro 625
+- Link: https://www.livrariascuritiba.com.br/como-chegar-ao-sim-lv432938/p
+
+
+===================== Livro 626
+- Link: https://www.livrariascuritiba.com.br/biblia-youversion---the-lion-colorida-lv508358/p
+
+
+===================== Livro 627
+- Link: https://www.livrariascuritiba.com.br/papel-sulfite-print-papiro-a4-resma-500f-pp058769/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PAPÉIS JARAGUÁ EIRELI
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898957272013
+Edição -> 0
+Fabricante -> PAPÉIS JARAGUÁ EIRELI
+Páginas -> 0
+
+
+===================== Livro 628
+- Link: https://www.livrariascuritiba.com.br/tres-lv507653/p
+
+
+===================== Livro 629
+- Link: https://www.livrariascuritiba.com.br/o-rei-de-amarelo-lv505088/p
+
+
+===================== Livro 630
+- Link: https://www.livrariascuritiba.com.br/escuridao-total-sem-estrelas-lv376580/p
+
+
+===================== Livro 631
+- Link: https://www.livrariascuritiba.com.br/nossos-amigos--os-ogros-lv514701/p
+
+
+===================== Livro 632
+- Link: https://www.livrariascuritiba.com.br/a-jornada-da-heroina-lv487571/p
+
+
+===================== Livro 633
+- Link: https://www.livrariascuritiba.com.br/dragon-ball---edicao-definitiva-vol-29-lv507892/p
+
+
+===================== Livro 634
+- Link: https://www.livrariascuritiba.com.br/livrai-nos-do-mal-lv505849/p
+
+
+===================== Livro 635
+- Link: https://www.livrariascuritiba.com.br/desenhos-ocultos-lv493851/p
+
+
+===================== Livro 636
+- Link: https://www.livrariascuritiba.com.br/equipes-brilhantes-lv481300/p
+
+
+===================== Livro 637
+- Link: https://www.livrariascuritiba.com.br/uma-sombra-na-brasa---vol-1-lv497838/p
+
+
+===================== Livro 638
+- Link: https://www.livrariascuritiba.com.br/a-pequena-livraria-dos-sonhos-lv447680/p
+
+
+===================== Livro 639
+- Link: https://www.livrariascuritiba.com.br/comer-intuitivo-lv481441/p
+
+
+===================== Livro 640
+- Link: https://www.livrariascuritiba.com.br/tudo-sobre-o-amor-lv480412/p
+
+
+===================== Livro 641
+- Link: https://www.livrariascuritiba.com.br/a-praia-infinita-lv498789/p
+
+
+===================== Livro 642
+- Link: https://www.livrariascuritiba.com.br/odisseia-da-filosofia-lv476753/p
+
+
+===================== Livro 643
+- Link: https://www.livrariascuritiba.com.br/maria-mania-lv497674/p
+
+
+===================== Livro 644
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-bandeira-fashion-color-aquarela-silk-511-acrilex-pp065168/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036151
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 645
+- Link: https://www.livrariascuritiba.com.br/refil-para-caderno-inteligente-harry-potter-pautadas-grande-pp069886/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> CIBOUND COMERCIO DE ARTIGOS DE PAPELARIA LTDA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7894494757419
+Edição -> 0
+Fabricante -> CIBOUND COMERCIO DE ARTIGOS DE PAPELARIA LTDA
+Páginas -> 0
+
+
+===================== Livro 646
+- Link: https://www.livrariascuritiba.com.br/a-arte-da-seducao-lv485231/p
+
+
+===================== Livro 647
+- Link: https://www.livrariascuritiba.com.br/jujutsu-kaisen---batalha-de-feiticeiros-24-lv512675/p
+
+
+===================== Livro 648
+- Link: https://www.livrariascuritiba.com.br/yona---a-princesa-do-alvorecer---04-lv515228/p
+
+
+===================== Livro 649
+- Link: https://www.livrariascuritiba.com.br/kit-album-do-enaldinho---50-figurinhas-lv501476/p
+
+
+===================== Livro 650
+- Link: https://www.livrariascuritiba.com.br/spawn-01-lv513978/p
+
+
+===================== Livro 651
+- Link: https://www.livrariascuritiba.com.br/your-name---edicao-unica-lv458216/p
+
+
+===================== Livro 652
+- Link: https://www.livrariascuritiba.com.br/a-casta-dos-metabaroes-lv497819/p
+
+
+===================== Livro 653
+- Link: https://www.livrariascuritiba.com.br/a-balada-do-felizes-para-nunca-lv496893/p
+
+
+===================== Livro 654
+- Link: https://www.livrariascuritiba.com.br/destrua-este-diario-lv335688/p
+
+
+===================== Livro 655
+- Link: https://www.livrariascuritiba.com.br/a-psicologia-financeira-lv471779/p
+
+
+===================== Livro 656
+- Link: https://www.livrariascuritiba.com.br/realeza-americana---livro-1---com-brinde-lv488559/p
+
+
+===================== Livro 657
+- Link: https://www.livrariascuritiba.com.br/dom-casmurro-lv506156/p
+
+
+===================== Livro 658
+- Link: https://www.livrariascuritiba.com.br/um-sedutor-sem-coracao---livro-1-lv425498/p
+
+
+===================== Livro 659
+- Link: https://www.livrariascuritiba.com.br/acolhendo-sua-crianca-interior---caderno-de-atividades-lv504645/p
+
+
+===================== Livro 660
+- Link: https://www.livrariascuritiba.com.br/entre-deuses-e-herois-lv382283/p
+
+
+===================== Livro 661
+- Link: https://www.livrariascuritiba.com.br/outsider-lv431724/p
+
+
+===================== Livro 662
+- Link: https://www.livrariascuritiba.com.br/flores-feitas-de-espinhos-lv495257/p
+
+
+===================== Livro 663
+- Link: https://www.livrariascuritiba.com.br/o-rei-dos-dividendos-lv494540/p
+
+
+===================== Livro 664
+- Link: https://www.livrariascuritiba.com.br/jogo-da-memoria-24-pecas-harry-potter-br002915/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> XALINGO
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896640479749
+Edição -> 0
+Fabricante -> XALINGO
+Páginas -> 0
+
+
+===================== Livro 665
+- Link: https://www.livrariascuritiba.com.br/quando-as-coisas-nao-saem-como-voce-espera-lv513844/p
+
+
+===================== Livro 666
+- Link: https://www.livrariascuritiba.com.br/monster-kanzenban-03-lv463561/p
+
+
+===================== Livro 667
+- Link: https://www.livrariascuritiba.com.br/o-diario-perdido-de-gravity-falls---vol-3-lv434083/p
+
+
+===================== Livro 668
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---8-lv494881/p
+
+
+===================== Livro 669
+- Link: https://www.livrariascuritiba.com.br/caos-total-6-lv512774/p
+
+
+===================== Livro 670
+- Link: https://www.livrariascuritiba.com.br/o-homem-cao--mamae-dos-ventos-uivantes-lv492942/p
+
+
+===================== Livro 671
+- Link: https://www.livrariascuritiba.com.br/box-especial---obras-basicas---allan-kardec-lv471357/p
+
+
+===================== Livro 672
+- Link: https://www.livrariascuritiba.com.br/magia-elemental-lv510214/p
+
+
+===================== Livro 673
+- Link: https://www.livrariascuritiba.com.br/x-men-54-lv496255/p
+
+
+===================== Livro 674
+- Link: https://www.livrariascuritiba.com.br/desenhos-de-guerra-e-de-amor---nova-edicao-lv506880/p
+
+
+===================== Livro 675
+- Link: https://www.livrariascuritiba.com.br/todo-dia-faca-algo-para-ser-feliz-lv494187/p
+
+
+===================== Livro 676
+- Link: https://www.livrariascuritiba.com.br/minha-avo-pede-desculpas-lv438041/p
+
+
+===================== Livro 677
+- Link: https://www.livrariascuritiba.com.br/destinado-vol-3-lv385698/p
+
+
+===================== Livro 678
+- Link: https://www.livrariascuritiba.com.br/o-drible-lv333704/p
+
+
+===================== Livro 679
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-04-lv463565/p
+
+
+===================== Livro 680
+- Link: https://www.livrariascuritiba.com.br/capi-e-o-misterio-do-pinhao-lv515677/p
+
+
+===================== Livro 681
+- Link: https://www.livrariascuritiba.com.br/a-sombra-da-terra-do-nunca-lv509742/p
+
+
+===================== Livro 682
+- Link: https://www.livrariascuritiba.com.br/toda-ansiedade-merece-um-abraco-lv505115/p
+
+
+===================== Livro 683
+- Link: https://www.livrariascuritiba.com.br/a-paciente-silenciosa-lv445356/p
+
+
+===================== Livro 684
+- Link: https://www.livrariascuritiba.com.br/dr-stone-08-lv457733/p
+
+
+===================== Livro 685
+- Link: https://www.livrariascuritiba.com.br/codigo-de-defesa-do-consumidor--lei-nº-8-078--de-11-de-setembro-de-1990--e-alteracoes-posteriores-lv496295/p
+
+
+===================== Livro 686
+- Link: https://www.livrariascuritiba.com.br/antes-que-o-cafe-esfrie-2-lv500989/p
+
+
+===================== Livro 687
+- Link: https://www.livrariascuritiba.com.br/cartas-a-um-jovem-investidor-lv478823/p
+
+
+===================== Livro 688
+- Link: https://www.livrariascuritiba.com.br/o-problema-dos-tres-corpos---com-brinde-vol-1-lv514552/p
+
+
+===================== Livro 689
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-12-lv421170/p
+
+
+===================== Livro 690
+- Link: https://www.livrariascuritiba.com.br/jogo-de-cartas-baralho-com-55-cartas-dunga-copag-br003702/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> COPAG
+Ano da Edição -> 1900
+EAN13 -> 7896008935139
+Edição -> 0
+Fabricante -> COPAG
+Páginas -> 0
+
+
+===================== Livro 691
+- Link: https://www.livrariascuritiba.com.br/licoes-inesperadas-sobre-o-amor-lv470249/p
+
+
+===================== Livro 692
+- Link: https://www.livrariascuritiba.com.br/manual-de-persuasao-do-fbi-lv378688/p
+
+
+===================== Livro 693
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-15-lv505250/p
+
+
+===================== Livro 694
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-7-lv496207/p
+
+
+===================== Livro 695
+- Link: https://www.livrariascuritiba.com.br/felicidade-em-copo-d-agua-lv500496/p
+
+
+===================== Livro 696
+- Link: https://www.livrariascuritiba.com.br/guinness-world-records-2023-lv493842/p
+
+
+===================== Livro 697
+- Link: https://www.livrariascuritiba.com.br/o-poder-transformador-do-esg-lv495656/p
+
+
+===================== Livro 698
+- Link: https://www.livrariascuritiba.com.br/frieren-e-a-jornada-para-o-alem-09-lv506409/p
+
+
+===================== Livro 699
+- Link: https://www.livrariascuritiba.com.br/de-feirantes-a-gigantes-lv516006/p
+
+
+===================== Livro 700
+- Link: https://www.livrariascuritiba.com.br/flores-para-algernon-lv517986/p
+
+
+===================== Livro 701
+- Link: https://www.livrariascuritiba.com.br/vou-te-receitar-um-gato-lv518345/p
+
+
+===================== Livro 702
+- Link: https://www.livrariascuritiba.com.br/minecraft--guia-criativo-lv506539/p
+
+
+===================== Livro 703
+- Link: https://www.livrariascuritiba.com.br/super-kit-quadrinhos-disney-lv507317/p
+
+
+===================== Livro 704
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-13-lv502771/p
+
+
+===================== Livro 705
+- Link: https://www.livrariascuritiba.com.br/nenhuma-escolha-precisa-ser-eterna-lv506235/p
+
+
+===================== Livro 706
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-16-lv506461/p
+
+
+===================== Livro 707
+- Link: https://www.livrariascuritiba.com.br/bem-vindos-a-livraria-hyunam-dong-lv505998/p
+
+
+===================== Livro 708
+- Link: https://www.livrariascuritiba.com.br/em-rota-de-colisao-com-brinde-lv518151/p
+
+
+===================== Livro 709
+- Link: https://www.livrariascuritiba.com.br/campo-de-batalha-da-mente-lv278386/p
+
+
+===================== Livro 710
+- Link: https://www.livrariascuritiba.com.br/luto-sem-medo-lv486490/p
+
+
+===================== Livro 711
+- Link: https://www.livrariascuritiba.com.br/haikyu---8-lv506661/p
+
+
+===================== Livro 712
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---11-lv498156/p
+
+
+===================== Livro 713
+- Link: https://www.livrariascuritiba.com.br/aurora-lv495024/p
+
+
+===================== Livro 714
+- Link: https://www.livrariascuritiba.com.br/diferentes-sim--desiguais--jamais--lv491091/p
+
+
+===================== Livro 715
+- Link: https://www.livrariascuritiba.com.br/sacola-tecido-ecobag-preguica-pr014362/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> HAPPY INDUSTRIA E COMERCIO DE ARTESANATOS LTDA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898133859809
+Edição -> 0
+Fabricante -> HAPPY INDUSTRIA E COMERCIO DE ARTESANATOS LTDA
+Páginas -> 0
+
+
+===================== Livro 716
+- Link: https://www.livrariascuritiba.com.br/a-coragem-de-ser-voce-mesmo-lv472789/p
+
+
+===================== Livro 717
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-6-7-e-8-kt000202/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576833681
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788576833681
+
+
+===================== Livro 718
+- Link: https://www.livrariascuritiba.com.br/se-deus-me-chamar-nao-vou-lv515819/p
+
+
+===================== Livro 719
+- Link: https://www.livrariascuritiba.com.br/talvez-voce-deva-conversar-com-alguem-lv462691/p
+
+
+===================== Livro 720
+- Link: https://www.livrariascuritiba.com.br/ecossistema-de-parceiros-lv509719/p
+
+
+===================== Livro 721
+- Link: https://www.livrariascuritiba.com.br/cinderela-e-o-baile-dela-lv504395/p
+
+
+===================== Livro 722
+- Link: https://www.livrariascuritiba.com.br/coroinhas-lv515997/p
+
+
+===================== Livro 723
+- Link: https://www.livrariascuritiba.com.br/familia-e-tudo-igual--so-muda-de-endereco-lv508803/p
+
+
+===================== Livro 724
+- Link: https://www.livrariascuritiba.com.br/a-lei-da-atracao-lv422083/p
+
+
+===================== Livro 725
+- Link: https://www.livrariascuritiba.com.br/kafka-e-a-boneca-viajante-lv264377/p
+
+
+===================== Livro 726
+- Link: https://www.livrariascuritiba.com.br/domine-seu-negocio-com-ia-lv517287/p
+
+
+===================== Livro 727
+- Link: https://www.livrariascuritiba.com.br/luluca-meu-livro-secreto-especial-lv510027/p
+
+
+===================== Livro 728
+- Link: https://www.livrariascuritiba.com.br/o-livro-de-receitas-de-harry-potter-lv486974/p
+
+
+===================== Livro 729
+- Link: https://www.livrariascuritiba.com.br/quem-e-voce-quando-ninguem-esta-olhando--lv442928/p
+
+
+===================== Livro 730
+- Link: https://www.livrariascuritiba.com.br/quando-dois-coracoes-se-encontram-lv431895/p
+
+
+===================== Livro 731
+- Link: https://www.livrariascuritiba.com.br/python-para-excel-lv515293/p
+
+
+===================== Livro 732
+- Link: https://www.livrariascuritiba.com.br/uma-vida-com-propositos-capa-2024-lv515205/p
+
+
+===================== Livro 733
+- Link: https://www.livrariascuritiba.com.br/mind-time-lv474290/p
+
+
+===================== Livro 734
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-1-ao-17-livro-de-atividades-kt000333/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> 1 AO 16 CAPA DURA + ATIVIDADE BROCHURA
+Subtítulo -> KIT COM  17 LIVROS
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576833927
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 735
+- Link: https://www.livrariascuritiba.com.br/o-principe-cruel---vol-1---edicao-de-colecionador-lv518051/p
+
+
+===================== Livro 736
+- Link: https://www.livrariascuritiba.com.br/mindset-lv409799/p
+
+
+===================== Livro 737
+- Link: https://www.livrariascuritiba.com.br/voce-nao-merece-ser-feliz-lv500108/p
+
+
+===================== Livro 738
+- Link: https://www.livrariascuritiba.com.br/sacola-tecido-ecobag-cachorro-pr014363/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> HAPPY INDUSTRIA E COMERCIO DE ARTESANATOS LTDA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898133859816
+Edição -> 0
+Fabricante -> HAPPY INDUSTRIA E COMERCIO DE ARTESANATOS LTDA
+Páginas -> 0
+
+
+===================== Livro 739
+- Link: https://www.livrariascuritiba.com.br/jujutsu-kaisen---batalha-de-feiticeiros-25-lv516229/p
+
+
+===================== Livro 740
+- Link: https://www.livrariascuritiba.com.br/divertida-mente-2---album-brochura-af000043/p
+
+
+===================== Livro 741
+- Link: https://www.livrariascuritiba.com.br/a-casa-do-sol---vol-1-lv504261/p
+
+
+===================== Livro 742
+- Link: https://www.livrariascuritiba.com.br/a-raiva-nao-educa-a-calma-educa-lv492329/p
+
+
+===================== Livro 743
+- Link: https://www.livrariascuritiba.com.br/a-casa-amarela-lv486204/p
+
+
+===================== Livro 744
+- Link: https://www.livrariascuritiba.com.br/operacao-familia-lv489049/p
+
+
+===================== Livro 745
+- Link: https://www.livrariascuritiba.com.br/codigo-penal-2024-lv512582/p
+
+
+===================== Livro 746
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-4-livros-heartstopper-alice-oseman-kt000156/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas
+
+======== Available attributes
+Formato -> CAPA DURA
+Subtítulo -> INSPIRAÇÃO PARA A SÉRIE DA NETFLIX
+Editora -> CIA DAS LETRAS
+Autor -> ALICE OSEMAN
+Ano da Edição -> 2022
+EAN13 -> 9788555342067
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788555341620
+
+
+===================== Livro 747
+- Link: https://www.livrariascuritiba.com.br/notre-dame-lv462406/p
+
+
+===================== Livro 748
+- Link: https://www.livrariascuritiba.com.br/o-duque-e-eu-livro-1-edicao-luxo-lv464166/p
+
+
+===================== Livro 749
+- Link: https://www.livrariascuritiba.com.br/superman---a-era-espacial-01-lv502790/p
+
+
+===================== Livro 750
+- Link: https://www.livrariascuritiba.com.br/mansao-gallant-lv491163/p
+
+
+===================== Livro 751
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-8-lv497423/p
+
+
+===================== Livro 752
+- Link: https://www.livrariascuritiba.com.br/quebra-cabeca-500-pecas-nano-postais-do-mundo-peru-machu-picchu-br004146/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> TOYSTER
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896054032226
+Edição -> 0
+Fabricante -> TOYSTER
+Páginas -> 0
+
+
+===================== Livro 753
+- Link: https://www.livrariascuritiba.com.br/harry-potter-2023---envelopes-soltos-lv504906/p
+
+
+===================== Livro 754
+- Link: https://www.livrariascuritiba.com.br/cd-bruninho---davi-depois-das-3-av102169/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> SONY MUSIC
+Ano da Edição -> 2015
+EAN13 -> 0888751782426
+Edição -> 0
+Fabricante -> SONY MUSIC
+Páginas -> 0
+
+
+===================== Livro 755
+- Link: https://www.livrariascuritiba.com.br/orgulho-e-preconceito-e-nos-duas---com-brinde-lv507067/p
+
+
+===================== Livro 756
+- Link: https://www.livrariascuritiba.com.br/preconceito---uma-historia-lv507958/p
+
+
+===================== Livro 757
+- Link: https://www.livrariascuritiba.com.br/as-cronicas-de-narnia---o-sobrinho-do-mago-lv503148/p
+
+
+===================== Livro 758
+- Link: https://www.livrariascuritiba.com.br/box-as-cronica-de-narnia---edicao-de-luxo-lv512506/p
+
+
+===================== Livro 759
+- Link: https://www.livrariascuritiba.com.br/talvez-agora-lv467708/p
+
+
+===================== Livro 760
+- Link: https://www.livrariascuritiba.com.br/capitao-cueca-11-lv475865/p
+
+
+===================== Livro 761
+- Link: https://www.livrariascuritiba.com.br/trono-de-vidro---edicao-especial---imperio-de-tempestades---vol-6-lv509507/p
+
+
+===================== Livro 762
+- Link: https://www.livrariascuritiba.com.br/papel-sulfite-a4-100f-printpapiro-pp069586/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PAPÉIS JARAGUÁ EIRELI
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898957272020
+Edição -> 0
+Fabricante -> PAPÉIS JARAGUÁ EIRELI
+Páginas -> 0
+
+
+===================== Livro 763
+- Link: https://www.livrariascuritiba.com.br/o-legado-da-vila-dos-tecidos-3-lv514183/p
+
+
+===================== Livro 764
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---15-lv502728/p
+
+
+===================== Livro 765
+- Link: https://www.livrariascuritiba.com.br/tudo-bem-nao-estar-tudo-bem-lv479699/p
+
+
+===================== Livro 766
+- Link: https://www.livrariascuritiba.com.br/bluey-hora-de-brincar-lv517963/p
+
+
+===================== Livro 767
+- Link: https://www.livrariascuritiba.com.br/voce-pode-realizar-seus-proprios-milagres-lv418114/p
+
+
+===================== Livro 768
+- Link: https://www.livrariascuritiba.com.br/memorias-postumas-de-bras-cubas-lv486265/p
+
+
+===================== Livro 769
+- Link: https://www.livrariascuritiba.com.br/reino-das-bruxas--poder-arcano-lv514862/p
+
+
+===================== Livro 770
+- Link: https://www.livrariascuritiba.com.br/socorro--cai-dentro-do-videogame---missao-invisivel-vol-2-lv484831/p
+
+
+===================== Livro 771
+- Link: https://www.livrariascuritiba.com.br/fullmetal-alchemist-1---edicao-especial-de-aniversario-de-20-anos-lv515230/p
+
+
+===================== Livro 772
+- Link: https://www.livrariascuritiba.com.br/berserk-06-lv475117/p
+
+
+===================== Livro 773
+- Link: https://www.livrariascuritiba.com.br/codigo-civil-2024-lv512495/p
+
+
+===================== Livro 774
+- Link: https://www.livrariascuritiba.com.br/menopausa-natural---passo-a-passo-lv511436/p
+
+
+===================== Livro 775
+- Link: https://www.livrariascuritiba.com.br/sol-da-meia-noite-lv463089/p
+
+
+===================== Livro 776
+- Link: https://www.livrariascuritiba.com.br/dedique-se-de-coracao-lv454019/p
+
+
+===================== Livro 777
+- Link: https://www.livrariascuritiba.com.br/sardas-lv481073/p
+
+
+===================== Livro 778
+- Link: https://www.livrariascuritiba.com.br/seis-anos-depois-lv466106/p
+
+
+===================== Livro 779
+- Link: https://www.livrariascuritiba.com.br/de-maos-dadas-lv489685/p
+
+
+===================== Livro 780
+- Link: https://www.livrariascuritiba.com.br/agulhas-ativar--lv505969/p
+
+
+===================== Livro 781
+- Link: https://www.livrariascuritiba.com.br/mais-forte-do-que-nunca-lv397755/p
+
+
+===================== Livro 782
+- Link: https://www.livrariascuritiba.com.br/a-filha-cubana--as-filhas-perdidas---livro-2--lv512015/p
+
+
+===================== Livro 783
+- Link: https://www.livrariascuritiba.com.br/dragon-masters-01---o-dragao-da-terra-lv501983/p
+
+
+===================== Livro 784
+- Link: https://www.livrariascuritiba.com.br/a-arte-de-viver---edicao-de-luxo-lv509351/p
+
+
+===================== Livro 785
+- Link: https://www.livrariascuritiba.com.br/objecoes-lv450026/p
+
+
+===================== Livro 786
+- Link: https://www.livrariascuritiba.com.br/conte-me-a-verdade-sobre-o-amor-lv501373/p
+
+
+===================== Livro 787
+- Link: https://www.livrariascuritiba.com.br/a-magica-da-respiracao-lv466971/p
+
+
+===================== Livro 788
+- Link: https://www.livrariascuritiba.com.br/os-ultimos-jovens-da-terra-historias-da-casa-da-arvore---quadrinhos-lv491495/p
+
+
+===================== Livro 789
+- Link: https://www.livrariascuritiba.com.br/o-caso-laura-lv282663/p
+
+
+===================== Livro 790
+- Link: https://www.livrariascuritiba.com.br/um-cafe-com-seneca-lv488465/p
+
+
+===================== Livro 791
+- Link: https://www.livrariascuritiba.com.br/a-linguagem-do-corpo-lv244787/p
+
+
+===================== Livro 792
+- Link: https://www.livrariascuritiba.com.br/cultos---a-linguagem-secreta-do-fanatismo-lv504554/p
+
+
+===================== Livro 793
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun-vol-3-jbc-lv447396/p
+
+
+===================== Livro 794
+- Link: https://www.livrariascuritiba.com.br/a-biblioteca-dos-sonhos-secretos-lv508462/p
+
+
+===================== Livro 795
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-7-8-e-9-kt000324/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576834848
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 796
+- Link: https://www.livrariascuritiba.com.br/noite-na-taverna---macario---edicao-de-luxo-lv506530/p
+
+
+===================== Livro 797
+- Link: https://www.livrariascuritiba.com.br/coisas-que-aprendemos-pelo-caminho-lv504873/p
+
+
+===================== Livro 798
+- Link: https://www.livrariascuritiba.com.br/aquabook-bluey-lv511257/p
+
+
+===================== Livro 799
+- Link: https://www.livrariascuritiba.com.br/one-piece-107-lv514006/p
+
+
+===================== Livro 800
+- Link: https://www.livrariascuritiba.com.br/especialista-em-pessoas-lv459366/p
+
+
+===================== Livro 801
+- Link: https://www.livrariascuritiba.com.br/mais-esperto-que-o-diabo-lv344841/p
+
+
+===================== Livro 802
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-terror-ed-e-lorraine-warren-kt000092/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> DARKSIDE
+Autor -> DIVERSOS
+EAN13 -> 9788594541681
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 803
+- Link: https://www.livrariascuritiba.com.br/o-diario-de-uma-princesa-desastrada-lv488553/p
+
+
+===================== Livro 804
+- Link: https://www.livrariascuritiba.com.br/cafe-com-deus-pai-kids-um-tempo-de-descobertas-2024-lv505762/p
+
+
+===================== Livro 805
+- Link: https://www.livrariascuritiba.com.br/neon-genesis-evangelion-collector-s-edition---vol-3-lv509851/p
+
+
+===================== Livro 806
+- Link: https://www.livrariascuritiba.com.br/analise-da-inteligencia-de-jesus-cristo-lv512025/p
+
+
+===================== Livro 807
+- Link: https://www.livrariascuritiba.com.br/bipolar-sim-louca-so-quando-eu-quero-lv498859/p
+
+
+===================== Livro 808
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-3-livros-um-novo-olhar-pra-vida-/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> SEXTANTE
+Autor -> ANA CLAUDIA QUINTANA ARANTES
+EAN13 -> 9788543107203
+Idioma -> PORTUGUÊS
+Compre Junto -> 645848635865
+
+
+===================== Livro 809
+- Link: https://www.livrariascuritiba.com.br/heartstopper-mais-fortes-juntos-vol-5-lv505466/p
+
+
+===================== Livro 810
+- Link: https://www.livrariascuritiba.com.br/o-universo-tem-uma-queda-pelos-corajosos-lv508455/p
+
+
+===================== Livro 811
+- Link: https://www.livrariascuritiba.com.br/lapis-de-cor-50-cores-supersoft-ecolapis-pp063805/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> FABER CASTELL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891360654124
+Edição -> 0
+Fabricante -> FABER CASTELL
+Páginas -> 0
+
+
+===================== Livro 812
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-colleen-hoover-e-assim-que-acaba-e-comeca-kt000346/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas
 
 ======== Available attributes
 Formato -> BROCHURA
@@ -88,10 +4639,2256 @@ Idioma -> PORTUGUÊS
 Compre Junto -> Compre Junto
 
 
-===================== Livro 13
-- Link: https://www.livrariascuritiba.com.br/felicidade-em-copo-d-agua-lv500496/p
+===================== Livro 813
+- Link: https://www.livrariascuritiba.com.br/diario-magico-lv489206/p
 
 
-===================== Livro 14
-- Link: https://www.livrariascuritiba.com.br/o-ano-em-que-menos-e-muito-mais-lv469089/p
+===================== Livro 814
+- Link: https://www.livrariascuritiba.com.br/psicologia-na-pratica-lv516486/p
+
+
+===================== Livro 815
+- Link: https://www.livrariascuritiba.com.br/album-copa-do-mundo-qatar-2022-capa-brochura-lv491310/p
+
+
+===================== Livro 816
+- Link: https://www.livrariascuritiba.com.br/voce-merece-um-amor-bom-lv439858/p
+
+
+===================== Livro 817
+- Link: https://www.livrariascuritiba.com.br/biblia-sagrada---preta-e-branca---maria-lv464406/p
+
+
+===================== Livro 818
+- Link: https://www.livrariascuritiba.com.br/jogos-do-amor---vol-2-lv510226/p
+
+
+===================== Livro 819
+- Link: https://www.livrariascuritiba.com.br/caderno-sem-pauta-a5-50-folhas-150gr-322792-sketchbook-espiral-academie-tilibra-pp065316/p
+
+
+===================== Livro 820
+- Link: https://www.livrariascuritiba.com.br/monster-kanzenban-4-lv463495/p
+
+
+===================== Livro 821
+- Link: https://www.livrariascuritiba.com.br/acerto-de-contas-lv488942/p
+
+
+===================== Livro 822
+- Link: https://www.livrariascuritiba.com.br/365-historias-para-dormir---brilho---aventuras-lv500897/p
+
+
+===================== Livro 823
+- Link: https://www.livrariascuritiba.com.br/vade-mecum-oab-e-graduacao-lv513614/p
+
+
+===================== Livro 824
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun-vol-4-jbc-lv447398/p
+
+
+===================== Livro 825
+- Link: https://www.livrariascuritiba.com.br/clube-do-orgasmo-lv488812/p
+
+
+===================== Livro 826
+- Link: https://www.livrariascuritiba.com.br/o-velho-e-o-mar---edicao-especial-lv506520/p
+
+
+===================== Livro 827
+- Link: https://www.livrariascuritiba.com.br/etiqueta-vade-mecum-tradicional-60-unidades-marca-facil-pp030463/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> MARCA FACIL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898914324182
+Edição -> 0
+Fabricante -> MARCA FACIL
+Páginas -> 0
+
+
+===================== Livro 828
+- Link: https://www.livrariascuritiba.com.br/a-casa-do-sol---vol-4-lv514900/p
+
+
+===================== Livro 829
+- Link: https://www.livrariascuritiba.com.br/mushoku-tensei--uma-segunda-chance-vol--1---infancia-lv512672/p
+
+
+===================== Livro 830
+- Link: https://www.livrariascuritiba.com.br/cabeca-fria--coracao-quente--edicao-premium-ampliada-e-limitada-lv498410/p
+
+
+===================== Livro 831
+- Link: https://www.livrariascuritiba.com.br/o-milagre-da-manha-lv402188/p
+
+
+===================== Livro 832
+- Link: https://www.livrariascuritiba.com.br/nacao-tarja-preta-lv504084/p
+
+
+===================== Livro 833
+- Link: https://www.livrariascuritiba.com.br/personal-branding-lv250245/p
+
+
+===================== Livro 834
+- Link: https://www.livrariascuritiba.com.br/caneta-marca-texto-retratil-tom-pastel-diversos-modelos-pp070110/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> BRW
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898707148834
+Edição -> 0
+Fabricante -> BRW
+Páginas -> 0
+
+
+===================== Livro 835
+- Link: https://www.livrariascuritiba.com.br/classico-para-todos---dom-casmurro-lv494457/p
+
+
+===================== Livro 836
+- Link: https://www.livrariascuritiba.com.br/a-batalha-do-labirinto---vol--iv---nova-capa-lv506943/p
+
+
+===================== Livro 837
+- Link: https://www.livrariascuritiba.com.br/o-dia-em-que-os-leoes-comerao-salada-lv446614/p
+
+
+===================== Livro 838
+- Link: https://www.livrariascuritiba.com.br/na-antessala-do-fim-do-mundo-lv468290/p
+
+
+===================== Livro 839
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-15-lv466899/p
+
+
+===================== Livro 840
+- Link: https://www.livrariascuritiba.com.br/socorro-cai-dentro-do-videogame---vol-1-lv477469/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 840
+- Link: https://www.livrariascuritiba.com.br/codigo-de-processo-penal-2024-lv512493/p
+
+
+===================== Livro 841
+- Link: https://www.livrariascuritiba.com.br/caminho--verdade-e-vida-lv495860/p
+
+
+===================== Livro 842
+- Link: https://www.livrariascuritiba.com.br/berserk-13-lv475116/p
+
+
+===================== Livro 843
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-2-lv245946/p
+
+
+===================== Livro 844
+- Link: https://www.livrariascuritiba.com.br/tokyo-revengers-1-lv490611/p
+
+
+===================== Livro 845
+- Link: https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-preta-bln105-an-pentel-avulso-pp067572/p
+
+
+===================== Livro 846
+- Link: https://www.livrariascuritiba.com.br/antifragil---nova-edicao-lv462966/p
+
+
+===================== Livro 847
+- Link: https://www.livrariascuritiba.com.br/luluca---envelopes-soltos-lv506305/p
+
+
+===================== Livro 848
+- Link: https://www.livrariascuritiba.com.br/bem-vindo-a-dunder-mifflin-lv493802/p
+
+
+===================== Livro 849
+- Link: https://www.livrariascuritiba.com.br/o-oraculo-da-deusa-lv473297/p
+
+
+===================== Livro 850
+- Link: https://www.livrariascuritiba.com.br/sobrevivendo-no-inferno-lv437897/p
+
+
+===================== Livro 851
+- Link: https://www.livrariascuritiba.com.br/messi-lv487538/p
+
+
+===================== Livro 852
+- Link: https://www.livrariascuritiba.com.br/diario-de-pilar-na-india-lv478067/p
+
+
+===================== Livro 853
+- Link: https://www.livrariascuritiba.com.br/black-clover-29-lv493668/p
+
+
+===================== Livro 854
+- Link: https://www.livrariascuritiba.com.br/all-you-need-is-love---a-historia-oral-do-fim-dos-beatles-lv516446/p
+
+
+===================== Livro 855
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-n-pp064984/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778013010
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 856
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-homem-cao-4-5-e-6-kt000212/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> CIA DAS LETRINHAS
+Autor -> DAV PILKEY
+EAN13 -> 9788574068481
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788574068481
+
+
+===================== Livro 857
+- Link: https://www.livrariascuritiba.com.br/a-rainha-do-nada---vol-3-lv467860/p
+
+
+===================== Livro 858
+- Link: https://www.livrariascuritiba.com.br/box-alice-no-pais-das-maravilhas---3-volumes-lv457091/p
+
+
+===================== Livro 859
+- Link: https://www.livrariascuritiba.com.br/a-paixao-segundo-g-h---edicao-comemorativa-lv466686/p
+
+
+===================== Livro 860
+- Link: https://www.livrariascuritiba.com.br/o-ultimo-jantar-lv514275/p
+
+
+===================== Livro 861
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---20-lv509249/p
+
+
+===================== Livro 862
+- Link: https://www.livrariascuritiba.com.br/a-vida-intelectual-lv508158/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 862
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-0-7mm-holic-dreamy-diversos-modelos-tris-avulso-pp070058/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SUMMIT
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7908673902962
+Edição -> 0
+Fabricante -> SUMMIT
+Páginas -> 0
+
+
+===================== Livro 863
+- Link: https://www.livrariascuritiba.com.br/glint---livro-2---com-brinde-lv505347/p
+
+
+===================== Livro 864
+- Link: https://www.livrariascuritiba.com.br/a-ultima-coisa-que-ele-me-falou-lv488720/p
+
+
+===================== Livro 865
+- Link: https://www.livrariascuritiba.com.br/breve-historia-da-arte-moderna-lv516661/p
+
+
+===================== Livro 866
+- Link: https://www.livrariascuritiba.com.br/a-casa-do-sol---vol-3-lv511557/p
+
+
+===================== Livro 867
+- Link: https://www.livrariascuritiba.com.br/cabeca-fria--coracao-quente---volta-extra--temporada-2022-lv499788/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 867
+- Link: https://www.livrariascuritiba.com.br/nao-pise-no-meu-vazio-lv503658/p
+
+
+===================== Livro 868
+- Link: https://www.livrariascuritiba.com.br/peanuts-completo-1957-a-1958---vol-4-lv516687/p
+
+
+===================== Livro 869
+- Link: https://www.livrariascuritiba.com.br/viagens-misticas-lv472683/p
+
+
+===================== Livro 870
+- Link: https://www.livrariascuritiba.com.br/entendendo-algoritmos-lv414420/p
+
+
+===================== Livro 871
+- Link: https://www.livrariascuritiba.com.br/o-budista-no-corredor-da-morte-lv489549/p
+
+
+===================== Livro 872
+- Link: https://www.livrariascuritiba.com.br/chainsaw-man-09-lv488852/p
+
+
+===================== Livro 873
+- Link: https://www.livrariascuritiba.com.br/a-zona-interdita-lv516946/p
+
+
+===================== Livro 874
+- Link: https://www.livrariascuritiba.com.br/naufragos-traficantes-e-degredados-lv507626/p
+
+
+===================== Livro 875
+- Link: https://www.livrariascuritiba.com.br/patrulha-canina---brincando-com-letras-e-numeros-lv515122/p
+
+
+===================== Livro 876
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-18-lv509028/p
+
+
+===================== Livro 877
+- Link: https://www.livrariascuritiba.com.br/inovar-e-questionar-o-que-ja-existe-lv456682/p
+
+
+===================== Livro 878
+- Link: https://www.livrariascuritiba.com.br/o-livro-dos-sonhos-lv451169/p
+
+
+===================== Livro 879
+- Link: https://www.livrariascuritiba.com.br/frankenstein-ou-o-prometeu-moderno-lv483496/p
+
+
+===================== Livro 880
+- Link: https://www.livrariascuritiba.com.br/cafe-com-deus-pai-teens-2023-lv494476/p
+
+
+===================== Livro 881
+- Link: https://www.livrariascuritiba.com.br/unifica-me-lv477806/p
+
+
+===================== Livro 882
+- Link: https://www.livrariascuritiba.com.br/ensaio-sobre-a-cegueira-lv462941/p
+
+
+===================== Livro 883
+- Link: https://www.livrariascuritiba.com.br/a-serpente-e-as-asas-feitas-de-noite-lv511572/p
+
+
+===================== Livro 884
+- Link: https://www.livrariascuritiba.com.br/lidere-como-uma-mae-lv507637/p
+
+
+===================== Livro 885
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-01-lv461017/p
+
+
+===================== Livro 886
+- Link: https://www.livrariascuritiba.com.br/diario-de-pilar-no-egito-lv487027/p
+
+
+===================== Livro 887
+- Link: https://www.livrariascuritiba.com.br/bleach-remix-9-lv498155/p
+
+
+===================== Livro 888
+- Link: https://www.livrariascuritiba.com.br/e-assim-que-comeca-lv493614/p
+
+
+===================== Livro 889
+- Link: https://www.livrariascuritiba.com.br/quando-deus-era-mulher-lv495505/p
+
+
+===================== Livro 890
+- Link: https://www.livrariascuritiba.com.br/as-48-leis-do-poder---novo-formato-lv504716/p
+
+
+===================== Livro 891
+- Link: https://www.livrariascuritiba.com.br/a-patroa-lv514866/p
+
+
+===================== Livro 892
+- Link: https://www.livrariascuritiba.com.br/box-diario-de-um-banana---10-volumes-lv413447/p
+
+
+===================== Livro 893
+- Link: https://www.livrariascuritiba.com.br/mouse-pebble-2-m350s-grafite---logitech-in030811/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Garantia -> 12 MESES DE GARANTIA PELO FABRICANTE
+Editora -> LOGITECH
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0097855185624
+Edição -> 0
+Fabricante -> LOGITECH
+Páginas -> 0
+
+
+===================== Livro 894
+- Link: https://www.livrariascuritiba.com.br/12-semanas-para-mudar-uma-vida---com-exercicios-lv500463/p
+
+
+===================== Livro 895
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-8-lv342936/p
+
+
+===================== Livro 896
+- Link: https://www.livrariascuritiba.com.br/torto-arado-lv451942/p
+
+
+===================== Livro 897
+- Link: https://www.livrariascuritiba.com.br/papel-sulfite-report-75g-a4-500fl-resma-pp049916/p
+
+
+===================== Livro 898
+- Link: https://www.livrariascuritiba.com.br/o-poder-do-habito-lv316499/p
+
+
+===================== Livro 899
+- Link: https://www.livrariascuritiba.com.br/emma---edicao-de-luxo-lv492221/p
+
+
+===================== Livro 900
+- Link: https://www.livrariascuritiba.com.br/a-arte-de-ler-o-taro-para-si-mesmo-lv466591/p
+
+
+===================== Livro 901
+- Link: https://www.livrariascuritiba.com.br/monster-kanzenban-2-panini-lv461779/p
+
+
+===================== Livro 902
+- Link: https://www.livrariascuritiba.com.br/bela--a-fera--e-fernao--o-belo-lv504392/p
+
+
+===================== Livro 903
+- Link: https://www.livrariascuritiba.com.br/amigos--amores-e-aquela-coisa-terrivel-lv497199/p
+
+
+===================== Livro 904
+- Link: https://www.livrariascuritiba.com.br/album-oficial-do-enaldinho---ed-especial-prata-lv505740/p
+
+
+===================== Livro 905
+- Link: https://www.livrariascuritiba.com.br/o-pequeno-sereio-lv504376/p
+
+
+===================== Livro 906
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-3-lv265853/p
+
+
+===================== Livro 907
+- Link: https://www.livrariascuritiba.com.br/giz-branco-para-quadro-negro-giotto-robercolor-10-palitos-canson-pp068289/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> CANSON BRASIL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 8000825016608
+Edição -> 0
+Fabricante -> CANSON BRASIL
+Páginas -> 0
+
+
+===================== Livro 908
+- Link: https://www.livrariascuritiba.com.br/as-mil-partes-do-meu-coracao-lv438120/p
+
+
+===================== Livro 909
+- Link: https://www.livrariascuritiba.com.br/biblia-sagrada---capa-simbolos-lv505993/p
+
+
+===================== Livro 910
+- Link: https://www.livrariascuritiba.com.br/a-casa-na-arvore-com-156-andares-lv510075/p
+
+
+===================== Livro 911
+- Link: https://www.livrariascuritiba.com.br/o-silencio-das-filhas-lv471315/p
+
+
+===================== Livro 912
+- Link: https://www.livrariascuritiba.com.br/mae-me-conta-a-sua-historia--lv439260/p
+
+
+===================== Livro 913
+- Link: https://www.livrariascuritiba.com.br/o-colecionador-de-saudades-lv505095/p
+
+
+===================== Livro 914
+- Link: https://www.livrariascuritiba.com.br/licoes-sobre-afogamentos---brindes-lv516394/p
+
+
+===================== Livro 915
+- Link: https://www.livrariascuritiba.com.br/o-caso-evandro-lv473847/p
+
+
+===================== Livro 916
+- Link: https://www.livrariascuritiba.com.br/a-filha-do-guardiao-do-fogo-lv491097/p
+
+
+===================== Livro 917
+- Link: https://www.livrariascuritiba.com.br/essencialismo-lv378860/p
+
+
+===================== Livro 918
+- Link: https://www.livrariascuritiba.com.br/priorize-deus---nova-edicao-lv507455/p
+
+
+===================== Livro 919
+- Link: https://www.livrariascuritiba.com.br/as-coisas-que-voce-so-ve-quando-desacelera-lv420759/p
+
+
+===================== Livro 920
+- Link: https://www.livrariascuritiba.com.br/aventuras-de-peter-no-reino-do-mago-magmum-lv406924/p
+
+
+===================== Livro 921
+- Link: https://www.livrariascuritiba.com.br/e-assim-que-comeca--edicao-de-colecionador---2-lv516393/p
+
+
+===================== Livro 922
+- Link: https://www.livrariascuritiba.com.br/algumas-garotas-sao-assim-lv509100/p
+
+
+===================== Livro 923
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-6-livros-a-selecao-kt000003/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Subtítulo -> Coleção Especial 6 Livros
+Editora -> SEGUINTE
+Autor -> KIERA CASS
+EAN13 -> 9788565765016
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788565765016
+
+
+===================== Livro 924
+- Link: https://www.livrariascuritiba.com.br/a-princesinha-lv509907/p
+
+
+===================== Livro 925
+- Link: https://www.livrariascuritiba.com.br/lugar-feliz-lv505530/p
+
+
+===================== Livro 926
+- Link: https://www.livrariascuritiba.com.br/mergulho-na-escuridao---five-nights-at-freddy-s--pavores-de-fazbear---1-lv513304/p
+
+
+===================== Livro 927
+- Link: https://www.livrariascuritiba.com.br/descolonizando-afetos-lv508800/p
+
+
+===================== Livro 928
+- Link: https://www.livrariascuritiba.com.br/aceita-me-lv486717/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 928
+- Link: https://www.livrariascuritiba.com.br/anatomia-do-nojo-lv516957/p
+
+
+===================== Livro 929
+- Link: https://www.livrariascuritiba.com.br/esta-tudo-bem-lv503890/p
+
+
+===================== Livro 930
+- Link: https://www.livrariascuritiba.com.br/o-poder-do-subconsciente-lv504909/p
+
+
+===================== Livro 931
+- Link: https://www.livrariascuritiba.com.br/a-coragem-de-ser-imperfeito---capa-nova-lv404305/p
+
+
+===================== Livro 932
+- Link: https://www.livrariascuritiba.com.br/doce-como-voce-lv513187/p
+
+
+===================== Livro 933
+- Link: https://www.livrariascuritiba.com.br/cd-mixtape-find-your-own-way-2012-av087940/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,editora,autores
+
+======== Available attributes
+Ano da Edição -> 2012
+EAN13 -> 7898563610377
+Edição -> 0
+Fabricante -> LK2 MUSIC
+Páginas -> 0
+
+
+===================== Livro 934
+- Link: https://www.livrariascuritiba.com.br/base-para-notebook-gamer-warrior-lothaire-com-led---cooler--ac327----multilaser-in025414/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Garantia -> 12 MESES DE GARANTIA PELO FABRICANTE
+Editora -> MULTILASER (*)
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7899838843551
+Edição -> 0
+Fabricante -> MULTILASER (*)
+Páginas -> 0
+
+
+===================== Livro 935
+- Link: https://www.livrariascuritiba.com.br/given---vol--6-lv481927/p
+
+
+===================== Livro 936
+- Link: https://www.livrariascuritiba.com.br/estou-feliz-que-minha-mae-morreu-lv492794/p
+
+
+===================== Livro 937
+- Link: https://www.livrariascuritiba.com.br/nos-dois-sozinhos-no-eter-lv505167/p
+
+
+===================== Livro 938
+- Link: https://www.livrariascuritiba.com.br/caderno-criativo-argolado-joia-natural-100f-pautado-insecta-noite-cicero-pp070217/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> CICERO PAPELARIA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7899866823495
+Edição -> 0
+Fabricante -> CICERO PAPELARIA
+Páginas -> 0
+
+
+===================== Livro 939
+- Link: https://www.livrariascuritiba.com.br/toxic---mulheres--fama-e-a-misoginia-dos-anos-2000-lv514474/p
+
+
+===================== Livro 940
+- Link: https://www.livrariascuritiba.com.br/ta-no-forno--receitas-da-chef-carla-pernambuco-lv517218/p
+
+
+===================== Livro 941
+- Link: https://www.livrariascuritiba.com.br/cafe-com-lichia---com-brinde-lv507174/p
+
+
+===================== Livro 942
+- Link: https://www.livrariascuritiba.com.br/se-voce-me-visse-agora-lv470409/p
+
+
+===================== Livro 943
+- Link: https://www.livrariascuritiba.com.br/seja-egoista-com-sua-carreira-lv500677/p
+
+
+===================== Livro 944
+- Link: https://www.livrariascuritiba.com.br/o-grande-livro-de-quimica-do-manual-do-mundo-lv508956/p
+
+
+===================== Livro 945
+- Link: https://www.livrariascuritiba.com.br/amendoas-lv500513/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 945
+- Link: https://www.livrariascuritiba.com.br/conversas-corajosas-lv475450/p
+
+
+===================== Livro 946
+- Link: https://www.livrariascuritiba.com.br/tokyo-revengers-20-lv514532/p
+
+
+===================== Livro 947
+- Link: https://www.livrariascuritiba.com.br/mulheres-que-amam-demais-lv295803/p
+
+
+===================== Livro 948
+- Link: https://www.livrariascuritiba.com.br/kit-com-50-figurinhas--sendo-10-envelopes-com-5-figurinhas-cada--nao-acompanha-album--lv514452/p
+
+
+===================== Livro 949
+- Link: https://www.livrariascuritiba.com.br/p-s--eu-te-amo-lv501145/p
+
+
+===================== Livro 950
+- Link: https://www.livrariascuritiba.com.br/o-livro-da-historia-lgbtqiapn--compacto-lv513136/p
+
+
+===================== Livro 951
+- Link: https://www.livrariascuritiba.com.br/nobreza-de-sangue--vlad-e-bathory-lv493401/p
+
+
+===================== Livro 952
+- Link: https://www.livrariascuritiba.com.br/as-melhores-tiras-da-turma-da-monica-vol--1-lv492526/p
+
+
+===================== Livro 953
+- Link: https://www.livrariascuritiba.com.br/a-hora-da-estrela---edicao-comemorativa-lv468278/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 953
+- Link: https://www.livrariascuritiba.com.br/mini-canetas-marca-texto-div-cores-10507-gatte-avulso-pp069975/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897771050708
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 954
+- Link: https://www.livrariascuritiba.com.br/batman---a-gargula-de-gotham-02--de-4--lv507864/p
+
+
+===================== Livro 955
+- Link: https://www.livrariascuritiba.com.br/tab--transtorno-afetivo-bipolar-lv486550/p
+
+
+===================== Livro 956
+- Link: https://www.livrariascuritiba.com.br/amor-pelas-coisas-imperfeitas-lv445688/p
+
+
+===================== Livro 957
+- Link: https://www.livrariascuritiba.com.br/naruto-shippuden---konan--1508----funko-in031064/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> FUNKO
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7900126111006
+Edição -> 0
+Fabricante -> FUNKO
+Páginas -> 0
+
+
+===================== Livro 958
+- Link: https://www.livrariascuritiba.com.br/nebulosas-lv514138/p
+
+
+===================== Livro 959
+- Link: https://www.livrariascuritiba.com.br/o-morro-dos-ventos-uivantes-edicao-de-luxo-lv474519/p
+
+
+===================== Livro 960
+- Link: https://www.livrariascuritiba.com.br/nao-e-amor---sobrecapa-com-corte-especial-lv518258/p
+
+
+===================== Livro 961
+- Link: https://www.livrariascuritiba.com.br/enciclopedia-britanica-para-curiosos---volume-1-lv513816/p
+
+
+===================== Livro 962
+- Link: https://www.livrariascuritiba.com.br/era-uma-vez-um-coracao-partido-lv486604/p
+
+
+===================== Livro 963
+- Link: https://www.livrariascuritiba.com.br/como-vivemos-e-como-morremos-lv515586/p
+
+
+===================== Livro 964
+- Link: https://www.livrariascuritiba.com.br/o-doutor-negro-e-outros-contos-lv508840/p
+
+
+===================== Livro 965
+- Link: https://www.livrariascuritiba.com.br/time-mindfulness-lv480780/p
+
+
+===================== Livro 966
+- Link: https://www.livrariascuritiba.com.br/peca--lv464893/p
+
+
+===================== Livro 967
+- Link: https://www.livrariascuritiba.com.br/as-maos-da-obra-lv517029/p
+
+
+===================== Livro 968
+- Link: https://www.livrariascuritiba.com.br/atenda-e-entenda---os-sinais-da-vida-lv504903/p
+
+
+===================== Livro 969
+- Link: https://www.livrariascuritiba.com.br/pelucia-stitch-20cm-disney-f00775-fun-br003591/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> FUN
+Ano da Edição -> 1900
+EAN13 -> 7908489400751
+Edição -> 0
+Fabricante -> FUN
+Páginas -> 0
+
+
+===================== Livro 970
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-rosa-fashion-color-aquarela-silk-537-acrilex-pp065177/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7891153036250
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 971
+- Link: https://www.livrariascuritiba.com.br/pack-com-50-figurinhas-do-album-do-enaldinho-lv501477/p
+
+
+===================== Livro 972
+- Link: https://www.livrariascuritiba.com.br/vespera-lv480050/p
+
+
+===================== Livro 973
+- Link: https://www.livrariascuritiba.com.br/nada-pode-me-ferir-lv499871/p
+
+
+===================== Livro 974
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---14-lv501789/p
+
+
+===================== Livro 975
+- Link: https://www.livrariascuritiba.com.br/o-trono-do-prisioneiro--vol--2-o-herdeiro-roubado---brindes-lv514553/p
+
+
+===================== Livro 976
+- Link: https://www.livrariascuritiba.com.br/com-sangue-lv465191/p
+
+
+===================== Livro 977
+- Link: https://www.livrariascuritiba.com.br/forte-lv464394/p
+
+
+===================== Livro 978
+- Link: https://www.livrariascuritiba.com.br/o-amor-nao-e-obvio-lv456284/p
+
+
+===================== Livro 979
+- Link: https://www.livrariascuritiba.com.br/horimiya-1-lv480955/p
+
+
+===================== Livro 980
+- Link: https://www.livrariascuritiba.com.br/a-tokenizacao-do-dinheiro-lv516311/p
+
+
+===================== Livro 981
+- Link: https://www.livrariascuritiba.com.br/12-regras-para-a-vida-lv429089/p
+
+
+===================== Livro 982
+- Link: https://www.livrariascuritiba.com.br/kit-como-convencer-lv500569/p
+
+
+===================== Livro 983
+- Link: https://www.livrariascuritiba.com.br/biblia-sagrada---edicao-de-estudos-lv293845/p
+
+
+===================== Livro 984
+- Link: https://www.livrariascuritiba.com.br/identidade-roubada-lv510110/p
+
+
+===================== Livro 985
+- Link: https://www.livrariascuritiba.com.br/sempre-teremos-o-verao---vol-3-lv441816/p
+
+
+===================== Livro 986
+- Link: https://www.livrariascuritiba.com.br/caos-total-7-lv514518/p
+
+
+===================== Livro 987
+- Link: https://www.livrariascuritiba.com.br/corajosas-lv502854/p
+
+
+===================== Livro 988
+- Link: https://www.livrariascuritiba.com.br/ate-o-verao-terminar-lv477752/p
+
+
+===================== Livro 989
+- Link: https://www.livrariascuritiba.com.br/os-irmaos-hawthorne-lv507066/p
+
+
+===================== Livro 990
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-vermelho-numero-6-pp065054/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778108013
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 991
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---6-lv490109/p
+
+
+===================== Livro 992
+- Link: https://www.livrariascuritiba.com.br/zona-fantasma-lv510157/p
+
+
+===================== Livro 993
+- Link: https://www.livrariascuritiba.com.br/a-cantiga-dos-passaros-e-das-serpentes---capa-preta-lv509399/p
+
+
+===================== Livro 994
+- Link: https://www.livrariascuritiba.com.br/alma-ferida--alma-curada-lv512948/p
+
+
+===================== Livro 995
+- Link: https://www.livrariascuritiba.com.br/o-pedido-de-desculpas-lv461833/p
+
+
+===================== Livro 996
+- Link: https://www.livrariascuritiba.com.br/acolhendo-sua-crianca-interior-lv488326/p
+
+
+===================== Livro 997
+- Link: https://www.livrariascuritiba.com.br/o-bebe-montessori-lv487126/p
+
+
+===================== Livro 998
+- Link: https://www.livrariascuritiba.com.br/o-que-todo-corpo-fala-lv470903/p
+
+
+===================== Livro 999
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-voce-pode-curar-sua-vida-sacola-kt000132/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,ano
+
+======== Available attributes
+Formato -> BROCHURA
+Número de Páginas -> 256
+Subtítulo -> COMO DESPERTAR IDEIAS POSITIVAS, SUPERAR DOENÇAS E VIVER PLENAMENTE
+Editora -> BEST SELLER
+Autor -> LOUISE L. HAY
+EAN13 -> 9788546501039
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 1000
+- Link: https://www.livrariascuritiba.com.br/blue-lock-06-lv496232/p
+
+
+===================== Livro 1001
+- Link: https://www.livrariascuritiba.com.br/a-caminho-do-altar---edicao-luxo--os-bridgertons---livro-8--lv491095/p
+
+
+===================== Livro 1002
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-diario-de-um-banana-9-10-e-11-kt000203/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas,ano
+
+======== Available attributes
+Formato -> CAPA DURA
+Editora -> VERGARA E RIBA
+Autor -> JEFF KINNEY
+EAN13 -> 9788576838235
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+ISBN -> 9788576838235
+
+
+===================== Livro 1003
+- Link: https://www.livrariascuritiba.com.br/minecraft--guia-de-sobrevivencia-lv506537/p
+
+
+===================== Livro 1004
+- Link: https://www.livrariascuritiba.com.br/luz-no-caminho-lv486489/p
+
+
+===================== Livro 1005
+- Link: https://www.livrariascuritiba.com.br/nacao-dopamina-lv486224/p
+
+
+===================== Livro 1006
+- Link: https://www.livrariascuritiba.com.br/lideranca-lv372061/p
+
+
+===================== Livro 1007
+- Link: https://www.livrariascuritiba.com.br/a-mulher-que-atravessa-a-ponte-lv499105/p
+
+
+===================== Livro 1008
+- Link: https://www.livrariascuritiba.com.br/a-quimica-que-ha-entre-nos-lv465223/p
+
+
+===================== Livro 1009
+- Link: https://www.livrariascuritiba.com.br/refil-para-caderno-inteligente-pautadas-grande-50f-pp060613/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> NOVITATE - CADERNO INTELIGENTE
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7895098728614
+Edição -> 0
+Fabricante -> NOVITATE - CADERNO INTELIGENTE
+Páginas -> 0
+
+
+===================== Livro 1010
+- Link: https://www.livrariascuritiba.com.br/ayrton-lv515341/p
+
+
+===================== Livro 1011
+- Link: https://www.livrariascuritiba.com.br/uma-segunda-chance-lv489046/p
+
+
+===================== Livro 1012
+- Link: https://www.livrariascuritiba.com.br/cantil-emborrachado-500ml-profissao-professora-1616-brasfoot-pr013704/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> BRASFOOT PRESENTES RS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7899790233148
+Edição -> 0
+Fabricante -> BRASFOOT PRESENTES RS
+Páginas -> 0
+
+
+===================== Livro 1013
+- Link: https://www.livrariascuritiba.com.br/o-pacto-da-branquitude-lv486019/p
+
+
+===================== Livro 1014
+- Link: https://www.livrariascuritiba.com.br/recursao-lv505092/p
+
+
+===================== Livro 1015
+- Link: https://www.livrariascuritiba.com.br/pensar-com-tipos-lv512976/p
+
+
+===================== Livro 1016
+- Link: https://www.livrariascuritiba.com.br/a-biologia-da-crenca-lv218933/p
+
+
+===================== Livro 1017
+- Link: https://www.livrariascuritiba.com.br/tropas-estelares-lv481549/p
+
+
+===================== Livro 1018
+- Link: https://www.livrariascuritiba.com.br/o-herdeiro-roubado---vol-1-lv496844/p
+
+
+===================== Livro 1019
+- Link: https://www.livrariascuritiba.com.br/cola-bastao-fun-13g-diversos-modelos-cis-pp069574/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SERTIC
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7909438050447
+Edição -> 0
+Fabricante -> SERTIC
+Páginas -> 0
+
+
+===================== Livro 1020
+- Link: https://www.livrariascuritiba.com.br/taticas-do-amor-lv497960/p
+
+
+===================== Livro 1021
+- Link: https://www.livrariascuritiba.com.br/anna-o-lv516501/p
+
+
+===================== Livro 1022
+- Link: https://www.livrariascuritiba.com.br/a-empregada---livro-1-lv502844/p
+
+
+===================== Livro 1023
+- Link: https://www.livrariascuritiba.com.br/as-cronicas-de-narnia---o-leao--a-feiticeira-e-o-guarda-roupa-lv497348/p
+
+
+===================== Livro 1024
+- Link: https://www.livrariascuritiba.com.br/o-cavaleiro-preso-na-armadura-lv465496/p
+
+
+===================== Livro 1025
+- Link: https://www.livrariascuritiba.com.br/blue-lock-09-lv499882/p
+
+
+===================== Livro 1026
+- Link: https://www.livrariascuritiba.com.br/perigoso-lv465368/p
+
+
+===================== Livro 1027
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-08-lv465507/p
+
+
+===================== Livro 1028
+- Link: https://www.livrariascuritiba.com.br/vamos-comprar-um-poeta-lv460315/p
+
+
+===================== Livro 1029
+- Link: https://www.livrariascuritiba.com.br/os-bridgertons---um-amor-de-familia-lv482857/p
+
+
+===================== Livro 1030
+- Link: https://www.livrariascuritiba.com.br/colecao-especial-antes-que-o-cafe-esfrie-kt000457/p
+
+
+=============================== Missing attributes
+Missing attributes:edicao,numPaginas
+
+======== Available attributes
+Formato -> BROCHURA
+Editora -> VALENTINA
+Autor -> TOSHIKAZU KAWAGUCHI
+Ano da Edição -> 2022 e 2023
+EAN13 -> 9788550703646
+Idioma -> PORTUGUÊS
+Compre Junto -> Compre Junto
+
+
+===================== Livro 1031
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-lilas-fashion-color-aquarela-silk-528-acrilex-pp065174/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 1031
+- Link: https://www.livrariascuritiba.com.br/cool-for-the-summer-lv479669/p
+
+
+===================== Livro 1032
+- Link: https://www.livrariascuritiba.com.br/conmebol-libertadores-2023---album-brochura-lv503387/p
+
+
+===================== Livro 1033
+- Link: https://www.livrariascuritiba.com.br/as-vantagens-de-ser-invisivel---nova-versao-lv471515/p
+
+
+===================== Livro 1034
+- Link: https://www.livrariascuritiba.com.br/pao-diario-vol-27---familia-lv505313/p
+
+
+===================== Livro 1035
+- Link: https://www.livrariascuritiba.com.br/a-morte-e-um-dia-que-vale-a-pena-viver-lv444886/p
+
+
+===================== Livro 1036
+- Link: https://www.livrariascuritiba.com.br/a-sutil-arte-de-ligar-o-f-da-se-lv421327/p
+
+
+===================== Livro 1037
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-0-4mm-minus-preta-cis-sertic-avulso-pp068092/p
+
+
+===================== Livro 1038
+- Link: https://www.livrariascuritiba.com.br/diario-de-pilar-na-amazonia-lv501072/p
+
+
+===================== Livro 1039
+- Link: https://www.livrariascuritiba.com.br/pai-me-conta-sua-historia--lv450410/p
+
+
+===================== Livro 1040
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun-vol-5-jbc-lv449959/p
+
+
+===================== Livro 1041
+- Link: https://www.livrariascuritiba.com.br/vitima---o-outro-lado-do-assassinato-lv500756/p
+
+
+===================== Livro 1042
+- Link: https://www.livrariascuritiba.com.br/blame-7-lv424275/p
+
+
+===================== Livro 1043
+- Link: https://www.livrariascuritiba.com.br/coisas-de-menino-lv418885/p
+
+
+===================== Livro 1044
+- Link: https://www.livrariascuritiba.com.br/tudo-e-rio-lv470957/p
+
+
+===================== Livro 1045
+- Link: https://www.livrariascuritiba.com.br/cancao-das-chuvas-eternas-lv515685/p
+
+
+===================== Livro 1046
+- Link: https://www.livrariascuritiba.com.br/as-musas-lv476099/p
+
+
+===================== Livro 1047
+- Link: https://www.livrariascuritiba.com.br/a-vida-e-curta-demais-pra-viver-o-minimo-das-coisas-lv512097/p
+
+
+===================== Livro 1048
+- Link: https://www.livrariascuritiba.com.br/mini-luminaria-luz-de-led-para-leitura-com-clip-prendedor-loop-pr012859/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> LOOP PRESENTES CRIATIVOS LTDA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7890579540020
+Edição -> 0
+Fabricante -> LOOP PRESENTES CRIATIVOS LTDA
+Páginas -> 0
+
+
+===================== Livro 1049
+- Link: https://www.livrariascuritiba.com.br/berserk-04-lv474181/p
+
+
+===================== Livro 1050
+- Link: https://www.livrariascuritiba.com.br/sangue-de-dragao-lv388375/p
+
+
+===================== Livro 1051
+- Link: https://www.livrariascuritiba.com.br/diario-de-uma-garota-nada-popular-1---ed-bolso-lv509748/p
+
+
+===================== Livro 1052
+- Link: https://www.livrariascuritiba.com.br/o-passaro-pintado-lv516958/p
+
+
+===================== Livro 1053
+- Link: https://www.livrariascuritiba.com.br/luar-da-feiticeira-de-ossos---com-brinde-lv503969/p
+
+
+===================== Livro 1054
+- Link: https://www.livrariascuritiba.com.br/decifra-me-lv483495/p
+
+
+===================== Livro 1055
+- Link: https://www.livrariascuritiba.com.br/encontrei-um-pai-lv502626/p
+
+
+===================== Livro 1056
+- Link: https://www.livrariascuritiba.com.br/power-rangers-e-tartarugas-ninjas---vol-02-lv517752/p
+
+
+===================== Livro 1057
+- Link: https://www.livrariascuritiba.com.br/na-boca-do-lobo-lv490380/p
+
+
+===================== Livro 1058
+- Link: https://www.livrariascuritiba.com.br/misterio-em-chalk-hill-lv418055/p
+
+
+===================== Livro 1059
+- Link: https://www.livrariascuritiba.com.br/melhor-do-que-nos-filmes-lv500083/p
+
+
+===================== Livro 1060
+- Link: https://www.livrariascuritiba.com.br/a-voz-do-coracao-lv499299/p
+
+
+===================== Livro 1061
+- Link: https://www.livrariascuritiba.com.br/a-revolucao-dos-musculos-lv513077/p
+
+
+===================== Livro 1062
+- Link: https://www.livrariascuritiba.com.br/biblia-nvi-com-espaco-para-anotacoes---dente-de-leao-lv502209/p
+
+
+===================== Livro 1063
+- Link: https://www.livrariascuritiba.com.br/as-armas-dos-metabaroes---vol-3-lv512037/p
+
+
+===================== Livro 1064
+- Link: https://www.livrariascuritiba.com.br/diario-de-uma-garota-nada-popular-3---ed-bolso-lv509746/p
+
+
+===================== Livro 1065
+- Link: https://www.livrariascuritiba.com.br/rita-lee-lv500703/p
+
+
+===================== Livro 1066
+- Link: https://www.livrariascuritiba.com.br/perifericos-lv469307/p
+
+
+===================== Livro 1067
+- Link: https://www.livrariascuritiba.com.br/rugido-lv495022/p
+
+
+===================== Livro 1068
+- Link: https://www.livrariascuritiba.com.br/bandeira-do-brasil-70x140cm-pr013714/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> UDAY
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 3000030623504
+Edição -> 0
+Fabricante -> UDAY
+Páginas -> 0
+
+
+===================== Livro 1069
+- Link: https://www.livrariascuritiba.com.br/o-elenco-lv510227/p
+
+
+===================== Livro 1070
+- Link: https://www.livrariascuritiba.com.br/o-pequeno-principe---edicao-especial-lv495748/p
+
+
+===================== Livro 1071
+- Link: https://www.livrariascuritiba.com.br/deus-nos-livre-lv517219/p
+
+
+===================== Livro 1072
+- Link: https://www.livrariascuritiba.com.br/delicious-in-dungeon-03-lv514033/p
+
+
+===================== Livro 1073
+- Link: https://www.livrariascuritiba.com.br/as-aventuras-de-mike-2---o-bebe-chegou-lv467036/p
+
+
+===================== Livro 1074
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-1-0mm-neotip-preta-cis-sertic-avulso-pp069511/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SERTIC
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896326933473
+Edição -> 0
+Fabricante -> SERTIC
+Páginas -> 0
+
+
+===================== Livro 1075
+- Link: https://www.livrariascuritiba.com.br/pokemon-escarlate-e-violeta-4---booster-unitario---fenda-paradoxal-in030704/p
+
+
+===================== Livro 1076
+- Link: https://www.livrariascuritiba.com.br/este-inverno-lv505467/p
+
+
+===================== Livro 1077
+- Link: https://www.livrariascuritiba.com.br/monica-vol-4---1973-lv507899/p
+
+
+===================== Livro 1078
+- Link: https://www.livrariascuritiba.com.br/manga-theater-03-lv494886/p
+
+
+===================== Livro 1079
+- Link: https://www.livrariascuritiba.com.br/boa-garota-nunca-mais---vol-3-lv497569/p
+
+
+===================== Livro 1080
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-16-lv478885/p
+
+
+===================== Livro 1081
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-14-lv455041/p
+
+
+===================== Livro 1082
+- Link: https://www.livrariascuritiba.com.br/o-duque-e-eu---vol-1-lv326313/p
+
+
+===================== Livro 1083
+- Link: https://www.livrariascuritiba.com.br/box-duna---primeira-trilogia-lv472551/p
+
+
+===================== Livro 1084
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-simbolo---pp065068/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778265013
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 1085
+- Link: https://www.livrariascuritiba.com.br/colocando-a-vida-em-ordem-lv500639/p
+
+
+===================== Livro 1086
+- Link: https://www.livrariascuritiba.com.br/conmebol-libertadores-2024---envelopes-soltos-af000034/p
+
+
+===================== Livro 1087
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-100cm-rosa-numero-4-pp064885/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778410017
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 1088
+- Link: https://www.livrariascuritiba.com.br/o-alquimista-lv415976/p
+
+
+===================== Livro 1089
+- Link: https://www.livrariascuritiba.com.br/so-o-amor-pode-curar-lv377294/p
+
+
+===================== Livro 1090
+- Link: https://www.livrariascuritiba.com.br/cari-mora-lv453461/p
+
+
+===================== Livro 1091
+- Link: https://www.livrariascuritiba.com.br/o-verao-em-que-hikaru-morreu-04-lv514836/p
+
+
+===================== Livro 1092
+- Link: https://www.livrariascuritiba.com.br/o-homem-mais-rico-da-babilonia-lv416127/p
+
+
+===================== Livro 1093
+- Link: https://www.livrariascuritiba.com.br/vivendo-a-comunicacao-nao-violenta-lv450635/p
+
+
+===================== Livro 1094
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---18-lv506421/p
+
+
+===================== Livro 1095
+- Link: https://www.livrariascuritiba.com.br/a-mecanica-do-amor-lv502060/p
+
+
+===================== Livro 1096
+- Link: https://www.livrariascuritiba.com.br/judeus-nao-contam-lv508913/p
+
+
+===================== Livro 1097
+- Link: https://www.livrariascuritiba.com.br/onze-portas-para-a-escuridao-lv500414/p
+
+
+===================== Livro 1098
+- Link: https://www.livrariascuritiba.com.br/coco-xixi-e-pum---adeus-fralda-lv453323/p
+
+
+===================== Livro 1099
+- Link: https://www.livrariascuritiba.com.br/a-venda-lv352488/p
+
+
+===================== Livro 1100
+- Link: https://www.livrariascuritiba.com.br/o-poder-do-ritual-lv501270/p
+
+
+===================== Livro 1101
+- Link: https://www.livrariascuritiba.com.br/as-coisas-que-nunca-superamos-lv497565/p
+
+
+===================== Livro 1102
+- Link: https://www.livrariascuritiba.com.br/os-segredos-de-colin-bridgerton---vol-4-lv347938/p
+
+
+===================== Livro 1103
+- Link: https://www.livrariascuritiba.com.br/blue-lock-07-lv497453/p
+
+
+===================== Livro 1104
+- Link: https://www.livrariascuritiba.com.br/one-piece-3-em-1---22-lv511369/p
+
+
+===================== Livro 1105
+- Link: https://www.livrariascuritiba.com.br/1177-a-c--lv503554/p
+
+
+===================== Livro 1106
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-letra-n-pp065081/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778241017
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 1107
+- Link: https://www.livrariascuritiba.com.br/cujo-lv406228/p
+
+
+===================== Livro 1108
+- Link: https://www.livrariascuritiba.com.br/mouse-wireless-pro-x-superlight-preto---logitech-g-in029440/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Garantia -> 12 MESES DE GARANTIA PELO FABRICANTE
+Editora -> LOGITECH
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 0097855158024
+Edição -> 0
+Fabricante -> LOGITECH
+Páginas -> 0
+
+
+===================== Livro 1109
+- Link: https://www.livrariascuritiba.com.br/x-men-62-lv505223/p
+
+
+===================== Livro 1110
+- Link: https://www.livrariascuritiba.com.br/extraordinarios-lv498026/p
+
+
+===================== Livro 1111
+- Link: https://www.livrariascuritiba.com.br/cura-pelas-palavras-lv499232/p
+
+
+===================== Livro 1112
+- Link: https://www.livrariascuritiba.com.br/noiva---edicao-luxo---com-brinde-lv512963/p
+
+
+===================== Livro 1113
+- Link: https://www.livrariascuritiba.com.br/papel-sulfite-chamex-a4-resma-500-folhas-pp000189/p
+
+
+===================== Livro 1114
+- Link: https://www.livrariascuritiba.com.br/como-o-mundo-funciona-lv514425/p
+
+
+===================== Livro 1115
+- Link: https://www.livrariascuritiba.com.br/divinos-rivais-vol-1-lv509922/p
+
+
+===================== Livro 1116
+- Link: https://www.livrariascuritiba.com.br/atencao-plena--mindfulness--lv497797/p
+
+
+===================== Livro 1117
+- Link: https://www.livrariascuritiba.com.br/outlive-lv505997/p
+
+
+===================== Livro 1118
+- Link: https://www.livrariascuritiba.com.br/caneta-gel-0-5mm-energel-infree-retratil-vermelha-pentel-pp069698/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> PENTEL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 4902506382160
+Edição -> 0
+Fabricante -> PENTEL
+Páginas -> 0
+
+
+===================== Livro 1119
+- Link: https://www.livrariascuritiba.com.br/kit-cidade-da-lua-crescente-lv511549/p
+
+
+===================== Livro 1120
+- Link: https://www.livrariascuritiba.com.br/o-homem-bicentenario-lv508714/p
+
+
+===================== Livro 1121
+- Link: https://www.livrariascuritiba.com.br/cartas-a-um-jovem-economista-lv492965/p
+
+
+===================== Livro 1122
+- Link: https://www.livrariascuritiba.com.br/lightlark---com-brinde-lv501312/p
+
+
+===================== Livro 1123
+- Link: https://www.livrariascuritiba.com.br/as-fontes-do-paraiso-lv490027/p
+
+
+===================== Livro 1124
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-vinho-fashion-color-aquarela-silk-565-acrilex-pp065181/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036397
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 1125
+- Link: https://www.livrariascuritiba.com.br/clt-2024-lv515659/p
+
+
+===================== Livro 1126
+- Link: https://www.livrariascuritiba.com.br/epic-zero-1---um-heroi-nao-tao-super-assim-lv501982/p
+
+
+===================== Livro 1127
+- Link: https://www.livrariascuritiba.com.br/dvd-joao-bosco---vinicius---segura-maracaju--dvd---cd--av108774/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> RADAR RECORDS
+Autor -> null
+Ano da Edição -> 2018
+EAN13 -> 7908067170113
+Edição -> 0
+Fabricante -> RADAR RECORDS
+Páginas -> 0
+
+
+===================== Livro 1128
+- Link: https://www.livrariascuritiba.com.br/xeque-mate-lv509666/p
+
+
+===================== Livro 1129
+- Link: https://www.livrariascuritiba.com.br/as-cinco-feridas-emocionais-lv466707/p
+
+
+===================== Livro 1130
+- Link: https://www.livrariascuritiba.com.br/um-perfeito-cavalheiro---vol-3-lv339229/p
+
+
+===================== Livro 1131
+- Link: https://www.livrariascuritiba.com.br/harry-potter-e-o-calice-de-fogo---corvinal-lv510719/p
+
+
+===================== Livro 1132
+- Link: https://www.livrariascuritiba.com.br/se-ele-estivesse-comigo-lv499306/p
+
+
+===================== Livro 1133
+- Link: https://www.livrariascuritiba.com.br/caim---nova-edicao-lv465974/p
+
+
+===================== Livro 1134
+- Link: https://www.livrariascuritiba.com.br/o-diario-de-anne-frank-lv063278/p
+
+
+===================== Livro 1135
+- Link: https://www.livrariascuritiba.com.br/o-pacto-lv504406/p
+
+
+===================== Livro 1136
+- Link: https://www.livrariascuritiba.com.br/sou-pessimo-em-portugues-lv435469/p
+
+
+===================== Livro 1137
+- Link: https://www.livrariascuritiba.com.br/o-segredo-de-espinosa-lv510236/p
+
+
+===================== Livro 1138
+- Link: https://www.livrariascuritiba.com.br/minha-culpa-lv517188/p
+
+
+===================== Livro 1139
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-azul-turquesa-fashion-color-aquarela-silk-501-acrilex-pp065161/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153035871
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 1140
+- Link: https://www.livrariascuritiba.com.br/a-revolucao-da-glicose-lv489149/p
+
+
+===================== Livro 1141
+- Link: https://www.livrariascuritiba.com.br/wicked-lv509496/p
+
+
+===================== Livro 1142
+- Link: https://www.livrariascuritiba.com.br/sherlock-holmes--um-estudo-em-vermelho---edicao-de-luxo-lv498310/p
+
+
+===================== Livro 1143
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-100cm-dourado-numero-1-pp064868/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778293016
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 1144
+- Link: https://www.livrariascuritiba.com.br/uma-vida-bem-vivida-lv508808/p
+
+
+===================== Livro 1145
+- Link: https://www.livrariascuritiba.com.br/minutos-de-sabedoria-lv114054/p
+
+
+===================== Livro 1146
+- Link: https://www.livrariascuritiba.com.br/as-filhas-da-vila-dos-tecidos-2-lv508622/p
+
+
+===================== Livro 1147
+- Link: https://www.livrariascuritiba.com.br/homem-aranha--tormento--marvel-essenciais--lv509179/p
+
+
+===================== Livro 1148
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-arco-iris-letra-t-pp064853/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778247019
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 1149
+- Link: https://www.livrariascuritiba.com.br/o-livro-da-psicologia---compacto-lv399912/p
+
+
+===================== Livro 1150
+- Link: https://www.livrariascuritiba.com.br/diario-de-um-banana-10-lv388441/p
+
+
+===================== Livro 1151
+- Link: https://www.livrariascuritiba.com.br/gerencie-o-seu-dinheiro-como-alguem-foda-lv473490/p
+
+
+===================== Livro 1152
+- Link: https://www.livrariascuritiba.com.br/onde-mora-o-amor-lv452710/p
+
+
+===================== Livro 1153
+- Link: https://www.livrariascuritiba.com.br/sql-guia-pratico-lv498872/p
+
+
+===================== Livro 1154
+- Link: https://www.livrariascuritiba.com.br/batman---a-gargula-de-gotham-01-lv505237/p
+
+
+===================== Livro 1155
+- Link: https://www.livrariascuritiba.com.br/imperfeitos-lv485468/p
+
+
+===================== Livro 1156
+- Link: https://www.livrariascuritiba.com.br/copa-america-2024---box-premium-numerado-e-limitado---album-cd-ouro---50-envelopes-af000036/p
+
+
+===================== Livro 1157
+- Link: https://www.livrariascuritiba.com.br/o-menino-a-toupeira-a-raposa-e-o-cavalo-lv497200/p
+
+
+===================== Livro 1158
+- Link: https://www.livrariascuritiba.com.br/dragon-ball-super-4-lv444401/p
+
+
+===================== Livro 1159
+- Link: https://www.livrariascuritiba.com.br/eu-posso-ouvir--dinossauros-lv506577/p
+
+
+===================== Livro 1160
+- Link: https://www.livrariascuritiba.com.br/mulheres-improvaveis-lv493788/p
+
+
+===================== Livro 1161
+- Link: https://www.livrariascuritiba.com.br/um-ano-solitario-lv489032/p
+
+
+===================== Livro 1162
+- Link: https://www.livrariascuritiba.com.br/re-zero---comecando-uma-vida-em-outro-mundo---vol-17-lv480045/p
+
+
+===================== Livro 1163
+- Link: https://www.livrariascuritiba.com.br/se-eu-quiser-falar-com-deus-lv502264/p
+
+
+===================== Livro 1164
+- Link: https://www.livrariascuritiba.com.br/box-duna-pocket-a-saga-completa-lv485793/p
+
+
+===================== Livro 1165
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-marrom-fashion-color-aquarela-silk-531-acrilex-pp065175/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036557
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 1166
+- Link: https://www.livrariascuritiba.com.br/codigo-de-processo-civil-2024-lv512494/p
+
+
+===================== Livro 1167
+- Link: https://www.livrariascuritiba.com.br/garota-em-pedacos-lv508489/p
+
+
+===================== Livro 1168
+- Link: https://www.livrariascuritiba.com.br/puxa-conversa-casal-lv388133/p
+
+
+===================== Livro 1169
+- Link: https://www.livrariascuritiba.com.br/oi--sumido-lv498375/p
+
+
+===================== Livro 1170
+- Link: https://www.livrariascuritiba.com.br/ragna-crimson-02-lv513987/p
+
+
+===================== Livro 1171
+- Link: https://www.livrariascuritiba.com.br/my-hero-academia-37-lv507261/p
+
+
+===================== Livro 1172
+- Link: https://www.livrariascuritiba.com.br/fita-colorida-12mmx10m-preta-sicad-eurocel-blister-pp069277/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SICAD DO BRASIL FITAS AUTO ADESIVAS LT
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7899320355104
+Edição -> 0
+Fabricante -> SICAD DO BRASIL FITAS AUTO ADESIVAS LT
+Páginas -> 0
+
+
+===================== Livro 1173
+- Link: https://www.livrariascuritiba.com.br/o-livro-do-direito-lv500390/p
+
+
+===================== Livro 1174
+- Link: https://www.livrariascuritiba.com.br/ritmos-de-renovacao-lv471702/p
+
+
+===================== Livro 1175
+- Link: https://www.livrariascuritiba.com.br/introducao-a-linguagem-sql-lv398189/p
+
+
+===================== Livro 1176
+- Link: https://www.livrariascuritiba.com.br/uma-dieta-alem-da-moda-lv507289/p
+
+
+===================== Livro 1177
+- Link: https://www.livrariascuritiba.com.br/duna-lv485984/p
+
+
+===================== Livro 1178
+- Link: https://www.livrariascuritiba.com.br/bloco-adesivo-smart-notes-zoo-30f-avulso-pp065985/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> BRW
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7898675504359
+Edição -> 0
+Fabricante -> BRW
+Páginas -> 0
+
+
+===================== Livro 1179
+- Link: https://www.livrariascuritiba.com.br/tinta-tecido-60ml-verde-folha-fashion-color-aquarela-silk-510-acrilex-pp065167/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas,autores
+
+======== Available attributes
+Editora -> ACRILEX S/A
+Ano da Edição -> 1900
+EAN13 -> 7891153036137
+Edição -> 0
+Fabricante -> ACRILEX S/A
+Páginas -> 0
+
+
+===================== Livro 1180
+- Link: https://www.livrariascuritiba.com.br/curiosidades-sobre-os-dinossauros-lv483238/p
+
+
+===================== Livro 1181
+- Link: https://www.livrariascuritiba.com.br/deixe-de-ser-pobre-lv503894/p
+
+
+===================== Livro 1182
+- Link: https://www.livrariascuritiba.com.br/box-livros-de-rita-lee---com-brinde-lv503765/p
+
+
+===================== Livro 1183
+- Link: https://www.livrariascuritiba.com.br/steve-jobs-e-eu-lv487812/p
+
+
+===================== Livro 1184
+- Link: https://www.livrariascuritiba.com.br/a-teia-de-charlotte-lv501618/p
+
+
+===================== Livro 1185
+- Link: https://www.livrariascuritiba.com.br/box-o-mundo-de-oz---2-volumes-lv480485/p
+
+
+===================== Livro 1186
+- Link: https://www.livrariascuritiba.com.br/my-hero-academia-36-lv506660/p
+
+
+===================== Livro 1187
+- Link: https://www.livrariascuritiba.com.br/as-bruxas-de-bass-rock-lv491001/p
+
+
+===================== Livro 1188
+- Link: https://www.livrariascuritiba.com.br/a-raiz-da-rejeicao-lv341957/p
+
+
+===================== Livro 1189
+- Link: https://www.livrariascuritiba.com.br/evidencias-de-uma-traicao-lv508011/p
+
+
+===================== Livro 1190
+- Link: https://www.livrariascuritiba.com.br/caneta-esferografica-0-7-mm-neotip-preta-pp069510/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> SERTIC
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7896326931301
+Edição -> 0
+Fabricante -> SERTIC
+Páginas -> 0
+
+
+===================== Livro 1191
+- Link: https://www.livrariascuritiba.com.br/caderno-ilustrado-de-normas-e-legislacoes-urbanisticas-lv508612/p
+
+
+===================== Livro 1192
+- Link: https://www.livrariascuritiba.com.br/o-livro-essencial-das-bruxas-lv506020/p
+
+
+===================== Livro 1193
+- Link: https://www.livrariascuritiba.com.br/balao-metalizado-40cm-dourado-letra-i-pp064979/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> EVA MAIS
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7897778008016
+Edição -> 0
+Fabricante -> EVA MAIS
+Páginas -> 0
+
+
+===================== Livro 1194
+- Link: https://www.livrariascuritiba.com.br/um-dia-muito-mal-humorado-lv511215/p
+
+
+===================== Livro 1195
+- Link: https://www.livrariascuritiba.com.br/como-fazer-amigos-e-influenciar-pessoas-lv455172/p
+
+
+===================== Livro 1196
+- Link: https://www.livrariascuritiba.com.br/1984-lv248601/p
+
+
+===================== Livro 1197
+- Link: https://www.livrariascuritiba.com.br/re-zero---comecando-uma-vida-em-outro-mundo---vol-18-lv481928/p
+
+
+===================== Livro 1198
+- Link: https://www.livrariascuritiba.com.br/novembro-9-lv404818/p
+
+
+===================== Livro 1199
+- Link: https://www.livrariascuritiba.com.br/demon-slayer---kimetsu-no-yaiba-02-lv461018/p
+
+
+===================== Livro 1200
+- Link: https://www.livrariascuritiba.com.br/eu--mona-lisa-lv486716/p
+
+
+===================== Livro 1201
+- Link: https://www.livrariascuritiba.com.br/o-veu-escarlate---vol-1---com-brinde-lv518372/p
+
+
+=================================
+Error to find book links on page: https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from=1176&_to=1224
+'NoneType' object has no attribute 'div'
+=================================
+
+===================== Livro 1201
+- Link: https://www.livrariascuritiba.com.br/a-cantiga-dos-passaros-e-das-serpentes---capa-filme-lv507737/p
+
+
+===================== Livro 1202
+- Link: https://www.livrariascuritiba.com.br/pessoas-normais-lv450583/p
+
+
+===================== Livro 1203
+- Link: https://www.livrariascuritiba.com.br/caderno-fichario-criativo-17x24cm-100-folhas-minerais-marmore-cicero-pp065821/p
+
+
+===================== Livro 1204
+- Link: https://www.livrariascuritiba.com.br/seja-mais-feliz-aconteca-o-que-acontecer-lv492145/p
+
+
+===================== Livro 1205
+- Link: https://www.livrariascuritiba.com.br/box-trilogia-o-senhor-dos-aneis-lv454454/p
+
+
+===================== Livro 1206
+- Link: https://www.livrariascuritiba.com.br/a-saga-do-batman-32-lv507825/p
+
+
+===================== Livro 1207
+- Link: https://www.livrariascuritiba.com.br/caneta-hidro-1-0mm-triplus-color-preta-323-9-staedtler-pp066270/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> STAEDTLER DO BRASIL
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 4007817323199
+Edição -> 0
+Fabricante -> STAEDTLER DO BRASIL
+Páginas -> 0
+
+
+===================== Livro 1208
+- Link: https://www.livrariascuritiba.com.br/o-legado-da-cruz-lv514514/p
+
+
+===================== Livro 1209
+- Link: https://www.livrariascuritiba.com.br/todas-as-suas-imperfeicoes-lv452295/p
+
+
+===================== Livro 1210
+- Link: https://www.livrariascuritiba.com.br/caderno-universitario-1x1-80f-capa-dura-stitch-wire-o-culturama-pp070769/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> CULTURAMA EDITORA E DISTRIBUIDORA LTDA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7908347112062
+Edição -> 0
+Fabricante -> CULTURAMA EDITORA E DISTRIBUIDORA LTDA
+Páginas -> 0
+
+
+===================== Livro 1211
+- Link: https://www.livrariascuritiba.com.br/o-clube-p-s--eu-te-amo-lv464275/p
+
+
+===================== Livro 1212
+- Link: https://www.livrariascuritiba.com.br/livro-magico-lv503707/p
+
+
+===================== Livro 1213
+- Link: https://www.livrariascuritiba.com.br/boa-noite-punpun---vol-1-lv444544/p
+
+
+===================== Livro 1214
+- Link: https://www.livrariascuritiba.com.br/copo-slim-canudo-500ml-vai-brasil-amarelo-cl0088-lumni-pr013437/p
+
+
+=============================== Missing attributes
+Missing attributes:numPaginas
+
+======== Available attributes
+Editora -> LUMNI PRESENTES LTDA
+Autor -> null
+Ano da Edição -> 1900
+EAN13 -> 7908584500691
+Edição -> 0
+Fabricante -> LUMNI PRESENTES LTDA
+Páginas -> 0
+
+
+===================== Livro 1215
+- Link: https://www.livrariascuritiba.com.br/as-armas-da-persuasao-2-0-lv476614/p
 

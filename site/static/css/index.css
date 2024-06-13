@@ -3,6 +3,10 @@
     font-family: 'Nunito';
 }
 
+body{
+  color: #4e928d;
+}
+
 a {
     color: inherit; /* blue colors for links too */
     text-decoration: inherit; /* no underline */
@@ -261,7 +265,7 @@ header.header a{
 
   .book-table .row.header{
     margin-bottom: 10px;
-    padding: 0 10px 0 10px;
+    padding: 0 11px 0 11px;
     background-color: #74C8C3;
     color: #fff;
     border: none;

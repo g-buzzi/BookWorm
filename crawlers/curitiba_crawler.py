@@ -59,8 +59,8 @@ def run():
 
     linksLivros = []
     page_count = 0
-    step = 15
-    while page_count < 30:
+    step = 49
+    while page_count < 25:
         log.write(f'===================== Processando a página {page_count}...\n')
 
         next_link = f'https://www.livrariascuritiba.com.br/api/catalog_system/pub/products/search/?_from={page_count*step}&_to={((page_count + 1)*step) - 1}'
@@ -76,6 +76,7 @@ def run():
                 link = livro['link']
                 linksLivros.append(link)
         page_count += 1
+        log.flush()
     links = list(set(linksLivros))
 
     log.write(f'====================================== Total de livro a serem processados: {len(links)}\n')
@@ -85,106 +86,124 @@ def run():
     dictsList = []
     book_count = 0
     for link in links:
-        log.write('\n')
-        log.write(f'===================== Livro {book_count}\n')
-        log.write(f'- Link: {link}\n')
-        log.write('\n')
-        requisicaoLivro = requests.get(link)
-        siteLivro = BeautifulSoup(requisicaoLivro.text, "html.parser")
+        try:
+            log.flush()
+            log.write('\n')
+            log.write(f'===================== Livro {book_count}\n')
+            log.write(f'- Link: {link}\n')
+            log.write('\n')
+            requisicaoLivro = requests.get(link)
+            siteLivro = BeautifulSoup(requisicaoLivro.text, "html.parser")
 
-        # URL
-        url = link
+            # URL
+            url = link
 
-        # Título
-        tituloBruto = siteLivro.find("div", class_="title-product")
-        tagTitulo = tituloBruto.div.extract()
-        titulo = tagTitulo.string.extract()
+            # Título
+            tituloBruto = siteLivro.find("div", class_="title-product")
+            tagTitulo = tituloBruto.div.extract()
+            titulo = tagTitulo.string.extract()
 
-        # Edição
-        edicaoBruta = siteLivro.find("td", class_="value-field Edicao")
-        if edicaoBruta == None:
-            edicao = None
-        else:
-            edicao = edicaoBruta.string.extract()
-        
-        # ISBN
-        isbnBruto = siteLivro.find("td", class_="value-field ISBN")
-        if isbnBruto == None:
-            isbn = None
-        else:
-            valorIsbn = isbnBruto.string.extract()
-            isbn = valorIsbn
-            if isbnlib.is_isbn10(isbn):
-                isbn = isbnlib.to_isbn13(isbn)
+            # Edição
+            edicaoBruta = siteLivro.find("td", class_="value-field Edicao")
+            if edicaoBruta == None:
+                edicao = None
             else:
-                isbn = isbn
-    
-        # Número de Páginas
-        numPaginasBruto = siteLivro.find("td", class_="value-field Numero-de-Paginas")
-        if numPaginasBruto == None:
-            numPaginas = None
-        else:
-            numPaginas = numPaginasBruto.string.extract()
-
-        # Editora
-        editoraBruto = siteLivro.find("td", class_="value-field Editora")
-        if editoraBruto == None:
-            editora = None
-        else:
-            editora = editoraBruto.string.extract()
-
-        # Ano da Edição
-        anoEdicaoBruto = siteLivro.find("td", class_="value-field Ano-da-Edicao")
-        if anoEdicaoBruto == None:
-            anoEdicao = None
-        else:
-            anoEdicao = anoEdicaoBruto.string.extract()
-
-        # Autor
-        autorBruto = siteLivro.find("td", class_="value-field Autor")
-        if autorBruto == None:
-            autor = None
-        else:
-            autor = [autorBruto.string.extract()]
-
-        # Formato
-        formatoBruto = siteLivro.find("td", class_="value-field Formato")
-        if formatoBruto == None:
-            formato = None
-        else:
-            formato = formatoBruto.string.extract()
-
-        # Tags (posso usar a categoria do livro como tag)
-        tagBruto = siteLivro.find("li", class_ = "last")
-        tag = ((tagBruto.a.extract()).span.extract()).string.extract()
-
-        # Preço
-        precoBruto = siteLivro.find("strong", class_="skuBestPrice")
-        preco = precoBruto.string.extract()
-        preco = price_cleaner(preco)
-    
-        # Nota
-        # Nota final
-        notaBruto = siteLivro.find("meta", itemprop = "ratingValue")
-        if notaBruto == None:
-            nota =  None
-        else:
-            nota = notaBruto['content']
-    
-
-        # Qtd votos
-        qtdVotosBruto = siteLivro.find("strong", itemprop="ratingCount")
-        if qtdVotosBruto == None:
-            qtdVotos = None
-        else:
-            qtdVotos = qtdVotosBruto.string.extract()
+                edicao = edicaoBruta.string.extract()
+            
+            # ISBN
+            isbnBruto = siteLivro.find("td", class_="value-field ISBN")
+            if isbnBruto == None:
+                isbnBruto = siteLivro.find("td", class_="value-field EAN13")
+                if isbnBruto == None:
+                    isbn = None
+                else:
+                    valorIsbn = isbnBruto.string.extract()
+                    isbn = valorIsbn
+                    if isbnlib.is_isbn10(isbn):
+                        isbn = isbnlib.to_isbn13(isbn)
+                    else:
+                        isbn = isbn
+            else:
+                valorIsbn = isbnBruto.string.extract()
+                isbn = valorIsbn
+                if isbnlib.is_isbn10(isbn):
+                    isbn = isbnlib.to_isbn13(isbn)
+                else:
+                    isbn = isbn
         
-        dados = dict(url = url, titulo = titulo, edicao = edicao, serie = None, isbn = isbn, numPaginas = numPaginas, editora = editora, ano = anoEdicao, autores = autor, tags = [tag], preco = preco, nota = {'notaFinal': nota, 'qtdVotos': qtdVotos})
+            # Número de Páginas
+            numPaginasBruto = siteLivro.find("td", class_="value-field Numero-de-Paginas")
+            if numPaginasBruto == None:
+                numPaginas = None
+            else:
+                numPaginas = numPaginasBruto.string.extract()
 
-        dictsList.append(dados)
-        missing_notifier(dados, siteLivro)
-        book_count += 1
-        time.sleep(3)
+            # Editora
+            editoraBruto = siteLivro.find("td", class_="value-field Editora")
+            if editoraBruto == None:
+                editora = None
+            else:
+                editora = editoraBruto.string.extract()
+
+            # Ano da Edição
+            anoEdicaoBruto = siteLivro.find("td", class_="value-field Ano-da-Edicao")
+            if anoEdicaoBruto == None:
+                anoEdicao = None
+            else:
+                anoEdicao = anoEdicaoBruto.string.extract()
+
+            # Autor
+            autorBruto = siteLivro.find("td", class_="value-field Autor")
+            if autorBruto == None:
+                autor = None
+            else:
+                autor = [autorBruto.string.extract()]
+
+            # Formato
+            formatoBruto = siteLivro.find("td", class_="value-field Formato")
+            if formatoBruto == None:
+                formato = None
+            else:
+                formato = formatoBruto.string.extract()
+
+            # Tags (posso usar a categoria do livro como tag)
+            tagBruto = siteLivro.find("li", class_ = "last")
+            tag = ((tagBruto.a.extract()).span.extract()).string.extract()
+
+            # Preço
+            precoBruto = siteLivro.find("strong", class_="skuBestPrice")
+            preco = precoBruto.string.extract()
+            preco = price_cleaner(preco)
+        
+            # Nota
+            # Nota final
+            notaBruto = siteLivro.find("meta", itemprop = "ratingValue")
+            if notaBruto == None:
+                nota =  None
+            else:
+                nota = notaBruto['content']
+        
+
+            # Qtd votos
+            qtdVotosBruto = siteLivro.find("strong", itemprop="ratingCount")
+            if qtdVotosBruto == None:
+                qtdVotos = None
+            else:
+                qtdVotos = qtdVotosBruto.string.extract()
+            
+            dados = dict(url = url, titulo = titulo, edicao = edicao, serie = None, isbn = isbn, numPaginas = numPaginas, editora = editora, ano = anoEdicao, autores = autor, tags = [tag], preco = preco, nota = {'notaFinal': nota, 'qtdVotos': qtdVotos})
+
+            dictsList.append(dados)
+            missing_notifier(dados, siteLivro)
+            book_count += 1
+            time.sleep(3)
+        except Exception as err:
+            log.write('\n')
+            log.write('=================================\n')
+            log.write(f'Error to find book links on page: {next_link}\n')
+            log.write(str(err))
+            log.write('\n')
+            log.write('=================================\n')
 
     with open("./docs/curitiba-data.json", "w") as f:
         json.dump(dictsList, f, indent=2)

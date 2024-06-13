@@ -8,7 +8,7 @@ import isbnlib
 # Constants
 BASE_URL = "https://www.livrariacultura.com.br/"
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
-RESULTS_PER_PAGE = 10
+RESULTS_PER_PAGE = 96
 
 
 # Lista de User-Agents para rotacionar

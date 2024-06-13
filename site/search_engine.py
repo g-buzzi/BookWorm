@@ -46,7 +46,7 @@ class SearchEngine:
                         results[isbn] += 1
                     else:
                         results[isbn] = 1
-        sorted_results = sorted(results.items(), key=lambda x:x[1])
+        sorted_results = sorted(results.items(), key=lambda x:x[1], reverse=True)
         sorted_results = [x[0] for x in sorted_results]
         final_results = []
         for isbn in sorted_results:

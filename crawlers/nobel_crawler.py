@@ -183,7 +183,7 @@ def run():
     log.write('====================================== Link Extraction =========================================\n')
 
     page_count = 0
-    while next_link != None and page_count < 30:
+    while next_link != None and page_count < 50:
         page_count += 1
         log.write(f'===================== Processando a página {page_count}...\n')
         log.write(f'- Link: {next_link}\n')
