@@ -262,7 +262,11 @@ header.header a{
     border-radius: 10px;
     border-color: #74C8C3;
   }
-
+  
+  .book-table .row:not(.header){
+    margin: 10px 0px;
+  }
+  
   .book-table .row.header{
     margin-bottom: 10px;
     padding: 0 11px 0 11px;
