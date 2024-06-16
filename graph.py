@@ -217,6 +217,12 @@ def run():
     fig.savefig('graphs/livros_por_fontes.png')
     plt.cla()
 
+    plot = df_total.plot(kind='bar', figsize=(15, 10), y='total')
+
+    fig = plot.get_figure()
+    fig.savefig('graphs/livros_por_fontes_bar.png')
+    plt.cla()
+
     print(f'Total de livros {graph_data["todos"]["total"]}')
     print(f'Total de livros únicos {graph_data["todos"]["unique"]}')
 

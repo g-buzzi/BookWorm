@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+Flask==2.2.3
+isbnlib==3.10.14
+matplotlib==3.7.1
+nltk==3.8.1
+pandas==2.0.2
+Requests==2.32.3
